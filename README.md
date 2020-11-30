@@ -1,5 +1,5 @@
 # Myndex
-This is an index of the key items I have on GitHub, and the main page for the web server displaying Myndex GitHub content. 
+This is an index of the key items I have on GitHub.
  
  ## My Gists
  
