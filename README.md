@@ -1,10 +1,11 @@
-# Myndex
-This is an index of the key items I have on GitHub.
+# Myndex Links
+_(Kinda like sausage, but pork free...)_
  
  ## My Gists
  
 [**For The Luv of Color**](https://gist.github.com/Myndex/47c793f8a054041bd2b52caa7ad5271c#file-fortheluvofcolor-md) An article comparing CIE Lab and Luv colorspaces
- 
+
+[**Will Work for Color**](https://gist.github.com/Myndex/10caff6a68e844591e83eadeebfb4347) A follow up article on working spaces and related considerations. Introduces the concept of "Web Working Spacelets".
  
  ## My Repos
  
