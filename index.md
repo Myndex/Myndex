@@ -2,13 +2,13 @@
 
 Assorted Myndex Repo Files, Served Live, Like Gagh.
  
- ## My Gists
+## My Gists
  
 [**For The Luv of Color**](https://gist.github.com/Myndex/47c793f8a054041bd2b52caa7ad5271c#file-fortheluvofcolor-md) An article comparing CIE Lab and Luv colorspaces
 
 [**Will Work for Color**](https://gist.github.com/Myndex/10caff6a68e844591e83eadeebfb4347) A follow up article on working spaces and related considerations. Introduces the concept of "Web Working Spacelets".
  
- ## My Repos
+## My Repos
  
  [**SAPC and APCA**](https://github.com/Myndex/SAPC-APCA) The WCAG3/Silver Contrast Method and Algorithm. This is the canonical source for the latest version of APCA.
  
