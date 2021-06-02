@@ -4,6 +4,10 @@ _(Kinda like sausage, but pork free...)_
  ## My Gists
  
  ### NEW!
+ [**0u+_W!+h_+h3_01d-InWithTheNew!**](https://gist.github.com/Myndex/d71875ea431c88db3a22962e28abd164) In other words, "Out With The Old - In With The New" a realistic discussion on password security, with a more realistic approach to reducing "crackability". HINT: we've all been doing it wrong, LOL.
+ 
+-----
+ 
 Part I:[**Orange You Wondering About Contrast?**](https://gist.github.com/Myndex/1dadb6dcac596f1cd7a5686a076f697f) Answering some contrast questions, and demonstrating a real solution to the infamous orange conundrum.
  
 Part II:[**The Lighter Side of Dark Backgrounds**](https://gist.github.com/Myndex/c30dba273aa5eca426ad9f5200917c9d) An article comparing some parts of APCA with the old WCAG 2 contrast methods.
