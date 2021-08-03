@@ -36,3 +36,11 @@ Part II:[**Will Work for Color**](https://gist.github.com/Myndex/10caff6a68e8445
 ## My Non-GitHub Content
 
 I'm user "Myndex" on Stack, and a bunch of other places. Someday I'll link some relevant things here. Someday.
+
+## Today's Amusement
+
+### The Art and Science of Applied Probability
+
+In this career, I was using Applied Probability Methodologies for the Risk Assessment of short term ROI predictions related to high-variance cash-flow opportunities in finite-sized non-cooperative bidding groups where information is obliquely concealed as a function of multivariate strategies facilitating the predominately range-based tactics driven by randomized but nevertheless deterministic outcomes.
+
+_(…Uh… this is more commonly known as Texas Hold ’Em Poker…)_
