@@ -4,7 +4,10 @@ _(Kinda like sausage, but pork free...)_
  ## My Gists
  
  ### NEW!
- [**0u+_W!+h_+h3_01d-InWithTheNew!**](https://gist.github.com/Myndex/d71875ea431c88db3a22962e28abd164) In other words, "Out With The Old - In With The New" a realistic discussion on password security, with a more realistic approach to reducing "crackability". HINT: we've all been doing it wrong, LOL.
+ 
+[COLORSPACES - The Primal Frontier](https://gist.github.com/Myndex/b21c2621072b93d3a7c1ef8939bc2adb) A brief Look at the math Models that helps model how we see. 
+ 
+On PASSWORDS: [**0u+_W!+h_+h3_01d-InWithTheNew!**](https://gist.github.com/Myndex/d71875ea431c88db3a22962e28abd164) In other words, "Out With The Old - In With The New" a realistic discussion on password security, with a more realistic approach to reducing "crackability". HINT: we've all been doing it wrong, LOL.
  
 -----
  
