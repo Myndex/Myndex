@@ -3,11 +3,8 @@ _(Kinda like sausage, but pork free...)_
  
  ## My Gists
  
- ### _NEW!_
- 
-[COLORSPACES - The Primal Frontier](https://gist.github.com/Myndex/b21c2621072b93d3a7c1ef8939bc2adb) A brief Look at the math that helps model how we see. 
- 
-On PASSWORDS: [**0u+_W!+h_+h3_01d-InWithTheNew!**](https://gist.github.com/Myndex/d71875ea431c88db3a22962e28abd164) In other words, "Out With The Old - In With The New" a realistic discussion on password security, with a more realistic approach to reducing "crackability". HINT: we've all been doing it wrong, LOL.
+ ### _NEW!_ [WCAG 2 vs APCA Contrast Shootout](https://gist.github.com/Myndex/069a4079b0de2930e72d5401bde9af98#wcag-2-vs-apca-contrast-shootout)
+ A gist answering some recent questions regarding APCA, and comparisons and examples of the old (WCAG 2 1.4.3) and the new WCAG 3 with APCA.
  
 -----
 ### _Contrast_ 
@@ -22,7 +19,13 @@ Part II:[**The Lighter Side of Dark Backgrounds**](https://gist.github.com/Mynde
 Part I:[**For The Luv of Color**](https://gist.github.com/Myndex/47c793f8a054041bd2b52caa7ad5271c#file-fortheluvofcolor-md) An article comparing CIE Lab and Luv colorspaces
 
 Part II:[**Will Work for Color**](https://gist.github.com/Myndex/10caff6a68e844591e83eadeebfb4347) A follow up article on working spaces and related considerations. Introduces the concept of "Web Working Spacelets".
- 
+
+[COLORSPACES - The Primal Frontier](https://gist.github.com/Myndex/b21c2621072b93d3a7c1ef8939bc2adb) A brief Look at the math that helps model how we see. 
+
+
+### _General_
+
+On PASSWORDS: [**0u+_W!+h_+h3_01d-InWithTheNew!**](https://gist.github.com/Myndex/d71875ea431c88db3a22962e28abd164) In other words, "Out With The Old - In With The New" a realistic discussion on password security, with a more realistic approach to reducing "crackability". HINT: we've all been doing it wrong, LOL.
 -----
 ## My Repos
  
