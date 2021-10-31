@@ -47,6 +47,8 @@ Part II:[**Will Work for Color**](https://gist.github.com/Myndex/10caff6a68e8445
 
 [**The Myndex Linktree**](https://linktr.ee/Myndex) A bunch of links relating to APCA contrast anc color.
 
+[**A Contast of Contrasts**](https://medium.com/tangledweb/a-contrast-of-contrasts-3ddda0f4061b] Article at Tangled Web
+
 <a href="https://stackexchange.com/users/14280387"><img src="https://stackexchange.com/users/flair/14280387.png" width="208" height="58" alt="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> Top 5% on Stack Overflow!
 
 [**SAPC Contrast Research Tools**](https://www.myndex.com/SAPC/) The WCAG3/Silver Contrast Algorithm beta site. Includes interactive experiments that demonstrate the concepts.
