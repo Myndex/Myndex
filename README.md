@@ -1,4 +1,4 @@
-**Proactive positive progress is had through due diligence, determination, and dedication...**      
+**Proactive positive progress procured pursuing primary priorities of due diligence, determination, and dedication...**      
 
 **...and also alliteration apparently.**
 
