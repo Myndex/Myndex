@@ -1,7 +1,12 @@
+**Proactive positive progress is had through due diligence, determination, and dedication...      
+
+...and also alliteration apparently.**
+
+-----
 # Myndex Links
 _(Kinda like sausage, but pork free...)_
  
- ## My Gists
+ ## My Gists/Articles
  
  ### _NEW!_ [WCAG 2 vs APCA Contrast Shootout](https://gist.github.com/Myndex/069a4079b0de2930e72d5401bde9af98#wcag-2-vs-apca-contrast-shootout)
  A gist answering some recent questions regarding APCA, and comparisons and examples of the old (WCAG 2 1.4.3) and the new WCAG 3 with APCA.
@@ -46,6 +51,8 @@ Part II:[**Will Work for Color**](https://gist.github.com/Myndex/10caff6a68e8445
 ## My Non-GitHub Content
 
 [**The Myndex Linktree**](https://linktr.ee/Myndex) A bunch of links relating to APCA contrast anc color.
+
+[**Modern Password Theory in a Nutshell**](https://medium.com/tangledweb/modern-password-theory-in-a-nutshell-da87db012c08) Would it surprise you to know that fistsmash passwords aren't really more secure than one you can actually remember? Article at Tangled Web
 
 [**A Contast of Contrasts**](https://medium.com/tangledweb/a-contrast-of-contrasts-3ddda0f4061b] Article at Tangled Web
 
