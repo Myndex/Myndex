@@ -1,6 +1,6 @@
-**Proactive positive progress is had through due diligence, determination, and dedication...      
+**Proactive positive progress is had through due diligence, determination, and dedication...**      
 
-...and also alliteration apparently.**
+**...and also alliteration apparently.**
 
 -----
 # Myndex Links
