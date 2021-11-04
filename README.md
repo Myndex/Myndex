@@ -54,7 +54,7 @@ Part II:[**Will Work for Color**](https://gist.github.com/Myndex/10caff6a68e8445
 
 [**Modern Password Theory in a Nutshell**](https://medium.com/tangledweb/modern-password-theory-in-a-nutshell-da87db012c08) Would it surprise you to know that fistsmash passwords aren't really more secure than one you can actually remember? Article at Tangled Web
 
-[**A Contast of Contrasts**](https://medium.com/tangledweb/a-contrast-of-contrasts-3ddda0f4061b] Article at Tangled Web
+[**A Contast of Contrasts**](https://medium.com/tangledweb/a-contrast-of-contrasts-3ddda0f4061b) Article at Tangled Web
 
 <a href="https://stackexchange.com/users/14280387"><img src="https://stackexchange.com/users/flair/14280387.png" width="208" height="58" alt="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> Top 5% on Stack Overflow!
 
