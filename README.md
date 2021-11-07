@@ -8,8 +8,8 @@ _(Kinda like sausage, but pork free...)_
  
  ## My Gists/Articles
  
- ### _NEW!_ [WCAG 2 vs APCA Contrast Shootout](https://gist.github.com/Myndex/069a4079b0de2930e72d5401bde9af98#wcag-2-vs-apca-contrast-shootout)
- A gist answering some recent questions regarding APCA, and comparisons and examples of the old (WCAG 2 1.4.3) and the new WCAG 3 with APCA.
+  ### _NEW!_ [Let's Flip for Color!](https://gist.github.com/Myndex/e1025706436736166561d339fd667493#lets-flip-for-color) If you want your text to be either black or white if the user selects some random color, just where is that inflection point? Hint: It's NOT 18% Y.
+ 
  
 -----
 ### _Contrast_ 
@@ -18,6 +18,9 @@ Part I:[**Orange You Wondering About Contrast?**](https://gist.github.com/Myndex
  
 Part II:[**The Lighter Side of Dark Backgrounds**](https://gist.github.com/Myndex/c30dba273aa5eca426ad9f5200917c9d) An article comparing some parts of APCA with the old WCAG 2 contrast methods.
 
+ ### _NEW!_ Part III: [WCAG 2 vs APCA Contrast Shootout](https://gist.github.com/Myndex/069a4079b0de2930e72d5401bde9af98#wcag-2-vs-apca-contrast-shootout)
+ A gist answering some recent questions regarding APCA, and comparisons and examples of the old (WCAG 2 1.4.3) and the new WCAG 3 with APCA.
+ 
 -----
 ### _Color_
 
@@ -27,7 +30,7 @@ Part II:[**Will Work for Color**](https://gist.github.com/Myndex/10caff6a68e8445
 
 [**COLORSPACES - The Primal Frontier**](https://gist.github.com/Myndex/b21c2621072b93d3a7c1ef8939bc2adb) A brief Look at the math that helps model how we see. 
 
-
+-----
 ### _General_
 **On PASSWORDS:** [**0u+_W!+h_+h3_01d-InWithTheNew!**](https://gist.github.com/Myndex/d71875ea431c88db3a22962e28abd164) In other words, "Out With The Old - In With The New" a realistic discussion on password security, with a more realistic approach to reducing "crackability". HINT: we've all been doing it wrong, LOL.
 
