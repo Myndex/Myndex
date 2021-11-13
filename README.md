@@ -1,6 +1,14 @@
-**Proactive positive progress procured pursuing primary priorities of due diligence, determination, and dedication...**      
 
-**...and also alliteration apparently.**
+
+## IRONY: _I Haz It_
+
+<img width="637" alt="Screen Shot 2021-11-11 at 5 08 39 PM" src="https://user-images.githubusercontent.com/42009457/141602412-7ed9688f-8983-4dcf-bbb3-d1f32d598a77.png">
+
+
+-----
+-----
+## *Proactive positive progress procured pursuing primary priorities of due diligence, determination, and dedication...*   
+### *...and also alliteration apparently.*
 
 -----
 # Myndex Links
