@@ -1,8 +1,8 @@
 
 
-## IRONY: _I Haz It_
+## As a side note...
 
-<img width="637" alt="Screen Shot 2021-11-11 at 5 08 39 PM" src="https://user-images.githubusercontent.com/42009457/141602412-7ed9688f-8983-4dcf-bbb3-d1f32d598a77.png">
+![5xcebp](https://user-images.githubusercontent.com/42009457/145657490-d051c218-74ea-4240-b0ea-12599d80c876.jpg)
 
 
 -----
