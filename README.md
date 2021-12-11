@@ -1,16 +1,4 @@
 
-
-## As a side note...
-
-![5xcebp](https://user-images.githubusercontent.com/42009457/145657490-d051c218-74ea-4240-b0ea-12599d80c876.jpg)
-
-
------
------
-## *Proactive positive progress procured pursuing primary priorities of due diligence, determination, and dedication...*   
-### *...and also alliteration apparently.*
-
------
 # Myndex Links
 _(Kinda like sausage, but pork free...)_
  
@@ -81,3 +69,18 @@ Part II:[**Will Work for Color**](https://gist.github.com/Myndex/10caff6a68e8445
 In this career, I was using Applied Probability Methodologies for the Risk Assessment of short term ROI predictions related to high-variance cash-flow opportunities in finite-sized non-cooperative bidding groups where information is obliquely concealed as a function of multivariate strategies facilitating the predominately range-based tactics driven by randomized but nevertheless deterministic outcomes.
 
 _(…Uh… this is more commonly known as Texas Hold ’Em Poker…)_
+
+
+
+
+### As a side note...
+
+![5xcebp](https://user-images.githubusercontent.com/42009457/145657490-d051c218-74ea-4240-b0ea-12599d80c876.jpg)
+
+
+-----
+-----
+## *Proactive positive progress procured pursuing primary priorities of due diligence, determination, and dedication...*   
+### *...and also alliteration apparently.*
+
+-----
