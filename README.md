@@ -2,29 +2,28 @@
 # Myndex Links
 _(Kinda like sausage, but pork free...)_
  
- ## My Gists/Articles
+ ## My GitHub Gists & Articles
  
-  ### _NEW!_ [Let's Flip for Color!](https://gist.github.com/Myndex/e1025706436736166561d339fd667493#lets-flip-for-color) If you want your text to be either black or white if the user selects some random color, just where is that inflection point? Hint: It's NOT 18% Y.
+### _NEW!_ [Let's Flip for Color!](https://gist.github.com/Myndex/e1025706436736166561d339fd667493#lets-flip-for-color)
+If you want your text to be either black or white if the user selects some random color, just where is that inflection point? **Hint: It's NOT 18% Y.**
  
  
 -----
 ### _Contrast_ 
  
-Part I:[**Orange You Wondering About Contrast?**](https://gist.github.com/Myndex/1dadb6dcac596f1cd7a5686a076f697f) Answering some contrast questions, and demonstrating a real solution to the infamous orange conundrum.
- 
-Part II:[**The Lighter Side of Dark Backgrounds**](https://gist.github.com/Myndex/c30dba273aa5eca426ad9f5200917c9d) An article comparing some parts of APCA with the old WCAG 2 contrast methods.
-
- ### _NEW!_ Part III: [WCAG 2 vs APCA Contrast Shootout](https://gist.github.com/Myndex/069a4079b0de2930e72d5401bde9af98#wcag-2-vs-apca-contrast-shootout)
- A gist answering some recent questions regarding APCA, and comparisons and examples of the old (WCAG 2 1.4.3) and the new WCAG 3 with APCA.
+- Part I:[**Orange You Wondering About Contrast?**](https://gist.github.com/Myndex/1dadb6dcac596f1cd7a5686a076f697f) Answering some contrast questions, and demonstrating a real solution to the infamous orange conundrum.
+- Part II:[**The Lighter Side of Dark Backgrounds**](https://gist.github.com/Myndex/c30dba273aa5eca426ad9f5200917c9d) An article comparing some parts of APCA with the old WCAG 2 contrast methods, demonstrating how WCAG_2 contrast does not help color vision types.
+- Part III: [**WCAG 2 vs APCA Contrast Shootout**](https://gist.github.com/Myndex/069a4079b0de2930e72d5401bde9af98#wcag-2-vs-apca-contrast-shootout)
+ Answering some recent questions regarding APCA, with comparisons and examples of the old (WCAG 2 1.4.3) and the future WCAG 3 / APCA.
  
 -----
 ### _Color_
 
-Part I:[**For The Luv of Color**](https://gist.github.com/Myndex/47c793f8a054041bd2b52caa7ad5271c#file-fortheluvofcolor-md) An article comparing CIE Lab and Luv colorspaces
-
-Part II:[**Will Work for Color**](https://gist.github.com/Myndex/10caff6a68e844591e83eadeebfb4347) A follow up article on working spaces and related considerations. Introduces the concept of "Web Working Spacelets".
-
-[**COLORSPACES - The Primal Frontier**](https://gist.github.com/Myndex/b21c2621072b93d3a7c1ef8939bc2adb) A brief Look at the math that helps model how we see. 
+- Part I:[**For The Luv of Color**](https://gist.github.com/Myndex/47c793f8a054041bd2b52caa7ad5271c#file-fortheluvofcolor-md) An article comparing CIE Lab and Luv colorspaces.
+- Part II:[**Will Work for Color**](https://gist.github.com/Myndex/10caff6a68e844591e83eadeebfb4347) A follow-up article on working spaces and related considerations. Introduces the concept of "Web Working Spacelets".
+- [**COLORSPACES - The Primal Frontier**](https://gist.github.com/Myndex/b21c2621072b93d3a7c1ef8939bc2adb) A brief Look at the math that helps model how we see. 
+- [**How Many Colors in a Bushel?**](https://gist.github.com/Myndex/db30607d4fe697de9e582544335bbce6#how-many-colors-in-a-bushel) Just "how many" colors are there? Is that even an answerable question? 
+- [**The Lighter Side of Light**](https://gist.github.com/Myndex/b956e5320f77cfd5c3cf451f4ce0acb5#the-lighter-side-of-light) BONUS SCIENCEY STUFF! Daring to ask the question, _"do two lights make a dark?"_ And, just how many color scientists does it take to rotationally engage the helical conducting threads of an illumination apparatus further composed of a sealed, evacuated glass envelope containing a plurality of filament holders connecting and supporting a coiled filament preferentially fabricated from a tungsten alloy?
 
 -----
 ### _General_
@@ -33,52 +32,53 @@ Part II:[**Will Work for Color**](https://gist.github.com/Myndex/10caff6a68e8445
 -----
 ## My Repos
  
- [**SAPC and APCA**](https://github.com/Myndex/SAPC-APCA) The WCAG3/Silver Contrast Method and Algorithm. This is the canonical source for the latest version of APCA.
- 
- [**SeeLab**](https://github.com/Myndex/SeeLab) This is a library for sRGB colorstring parsing and CIE processing. Includes XYZ, xyY, Lab, Luv, LCh and more!
- 
- [**TinyTrim**](https://github.com/Myndex/TinyTrim) This is a CSS sheet of terse classes, useful for quick adjustments without having to add a `style=""` great for site development when you have a client watching and breathing down your back, LOL.
- 
- [**C**olor-ea**SS**y](https://github.com/Myndex/Color-eaSSy) Color-eaSSy is a CSS color stylesheet with a terse but easy to use methodology for color classes — in development, some of this is in TinyTrim
+- [**SAPC-APCA**](https://github.com/Myndex/SAPC-APCA) The main repository for the research and development of the new contrast method and algorithm being developed for the W3/AGWG accessibility guidelines, and for other standards and applications. This is the primary source for all things related to SAPC and APCA.
+- [**APCA W3**](https://github.com/Myndex/apca-w3) This is the specific version of the APCA licensed to the W3 for the use in web accessibility guidelines such as the WCAG_3 guidelines.
+- [**Bridge PCA**](https://github.com/Myndex/bridge-pca) BPCA is designed as a drop-in replacement for WCAG_2 contrast that is backwards compatible, but using APCA technology, to "bridge" toward the future of readability contrast.
+- [**Color Parsley**](https://github.com/Myndex/colorparsley) simple and lightweight color parsing functions.
+- [**See Lab**](https://github.com/Myndex/seelab) This is a library for sRGB colorstring parsing and CIE processing. Includes XYZ, xyY, Lab, Luv, LCh and more!
+- [**Tiny Trim**](https://github.com/Myndex/tinytrim) This is a CSS sheet of terse classes, useful for quick adjustments without having to add a `style=""` great for site development when you have a client watching and breathing down your back, LOL.
+- [**Color Styles**](https://github.com/Myndex/colorstyles) colorstyles is a CSS color stylesheet with a terse but easy to use methodology for color classes — in development, some of this is in TinyTrim
+
 
 -----
-## My Issues and Comments
+## My Issue Threads and Comments
 
-[**Here is an INDEX**](https://github.com/Myndex/Myndex/blob/main/IssuesIndex.md) of some of the larger and in-depth issue threads or posts I've created or been involved in on GitHub, which may contain  useful information and research. Some of the information here may be superseded as some of these thread date back to the beginnings of the contrast research project. I'm making this list largely for myself to collate the still relevant information into a single FAQ or similar explainer document. Someday.
+[**Here is an INDEX**](https://github.com/Myndex/Myndex/blob/main/IssuesIndex.md) of some of the larger and in-depth issue threads or posts I've created or have been involved in on GitHub, which may contain useful information and research. Some of the information here may be superseded as some of these thread date back to the beginnings of the contrast research project. I'm making this list largely for myself to collate the still relevant information into a single FAQ or similar explainer document. Someday.
 
 -----
-## My Non-GitHub Content
+## Non-GitHub Content
+### Myndex Web Apps
 
-[**The Myndex Linktree**](https://linktr.ee/Myndex) A bunch of links relating to APCA contrast anc color.
+- [**APCA Simple Contrast Tools**](https://www.myndex.com/APCA/) The APCA contrast technology demonstrator.
+- [**SAPC Contrast Research Tools**](https://www.myndex.com/SAPC/) Visual contrast development site for the ongoing study of visual contrast for web content accessibility guidelines and other standards & applications. Includes interactive experiments that demonstrate the concepts and technology.
+- [**Bridge-PCA Contrast Tools**](https://www.myndex.com/BPCA/) Bridge-PCA or BPCA is a drop-in replacement for WCAG\_2 contrast that is backwards compatible with the existing guideline, but is using APCA technology for improved readability.
+- [**Color Vision Deficiency Simulator**](https://www.myndex.com/CVD/) This simulator demonstrates the way someone with a Color Vision Deficiency _(incorrectly labeled "color blind")_ sees colors. This simulator uses the clinically accurate Brettel model of CVD simulation.
 
-[**Modern Password Theory in a Nutshell**](https://medium.com/tangledweb/modern-password-theory-in-a-nutshell-da87db012c08) Would it surprise you to know that fistsmash passwords aren't really more secure than one you can actually remember? Article at Tangled Web
+### [The Myndex APCA Linktree](https://linktr.ee/Myndex)
+- A bunch of links relating to APCA contrast and color.
 
-[**A Contast of Contrasts**](https://medium.com/tangledweb/a-contrast-of-contrasts-3ddda0f4061b) Article at Tangled Web
+### Other Related Articles
+- [**Modern Password Theory in a Nutshell**](https://medium.com/tangledweb/modern-password-theory-in-a-nutshell-da87db012c08) Would it surprise you to know that fistsmash passwords aren't really more secure than one you can actually remember? Article at _Tangled Web_
+- [**A Contast of Contrasts**](https://medium.com/tangledweb/a-contrast-of-contrasts-3ddda0f4061b) Article at _Tangled Web_
+- [**Basics of Luminance Contrast**](https://www.myndex.com/WEB/LuminanceContrast) A precursor to the Contrast FAQ.
+- [**Creating Color Gradients, Part I**](https://www.myndex.com/WEB/Gradients)  Experiments and discussion of color spaces for gradient creation.
+- [**Color Gradients, Part II**](https://www.myndex.com/WEB/GradientsPartTwo) More experiments and more color spaces...
+- [**Improving SEO with Redirects**](https://www.myndex.com/WEB/RedirectsForSEO) Your server's case sensitivity and URL redirect strategies can affect your search ranking!
+- [**PDF on Accessible Fonts**](https://www.myndex.com/PUB/PDF/AccessibleFontsD.pdf) A PDF that discusses key factors in fonts for readability.
 
-<a href="https://stackexchange.com/users/14280387"><img src="https://stackexchange.com/users/flair/14280387.png" width="208" height="58" alt="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> Top 5% on Stack Overflow!
+<a href="https://stackexchange.com/users/14280387"><img src="https://stackexchange.com/users/flair/14280387.png" width="208" height="58" alt="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>      
+Top 4% on Stack Overflow!
 
-[**SAPC Contrast Research Tools**](https://www.myndex.com/SAPC/) The WCAG3/Silver Contrast Algorithm beta site. Includes interactive experiments that demonstrate the concepts.
-
-[**Color Vision Deficiency Simulator**](https://www.myndex.com/CVD/) This simulator demonstrates the way someone with a Color Vision Deficiency _(incorrectly labeled "color blind")_ sees colors.
-
-
-## Today's Amusement
-
+------
+## Past Times At...
 ### The Art and Science of Applied Probability
-
-In this career, I was using Applied Probability Methodologies for the Risk Assessment of short term ROI predictions related to high-variance cash-flow opportunities in finite-sized non-cooperative bidding groups where information is obliquely concealed as a function of multivariate strategies facilitating the predominately range-based tactics driven by randomized but nevertheless deterministic outcomes.
+In this career, I was using Applied Probability Methodologies for the Risk Assessment of short term ROI predictions related to high-variance cash-flow opportunities in finite-sized non-cooperative bidding groups where information is obliquely concealed as a function of multivariate strategies facilitating the predominately range-based tactics driven by randomized but nevertheless deterministic outcomes.    
 
 _(…Uh… this is more commonly known as Texas Hold ’Em Poker…)_
 
-
-
-
-### As a side note...
-
-![5xcebp](https://user-images.githubusercontent.com/42009457/145657490-d051c218-74ea-4240-b0ea-12599d80c876.jpg)
-
-
 -----
+_Today's Mission Statement:_
 -----
 ## *Proactive positive progress procured pursuing primary priorities of due diligence, determination, and dedication...*   
 ### *...and also alliteration apparently.*
