@@ -8,12 +8,13 @@ If you want your text to be either black or white if the user selects some rando
 
 -----
 ### _Contrast_ 
- 
+- [**Why APCA?**](https://github.com/Myndex/SAPC-APCA/WhyAPCA.md) A brief overview of WCAG_2 contrast issues and how APCA solves them.
+
 - Part I: [**Orange You Wondering About Contrast?**](https://gist.github.com/Myndex/1dadb6dcac596f1cd7a5686a076f697f) Answering some contrast questions, and demonstrating a real solution to the infamous orange conundrum.
 - Part II: [**The Lighter Side of Dark Backgrounds**](https://gist.github.com/Myndex/c30dba273aa5eca426ad9f5200917c9d) An article comparing some parts of APCA with the old WCAG 2 contrast methods, demonstrating how WCAG_2 contrast does not help color vision types.
 - Part III: [**WCAG 2 vs APCA Contrast Shootout**](https://gist.github.com/Myndex/069a4079b0de2930e72d5401bde9af98#wcag-2-vs-apca-contrast-shootout)
  Answering some recent questions regarding APCA, with comparisons and examples of the old (WCAG 2 1.4.3) and the future WCAG 3 / APCA.
- 
+
 -----
 ### _Color_
 
@@ -31,11 +32,11 @@ On PASSWORDS: [**0u+_W!+h_+h3_01d-InWithTheNew!**](https://gist.github.com/Mynde
 ## My Repos
  
 - [**SAPC-APCA**](https://github.com/Myndex/SAPC-APCA) The main repository for the research and development of the new contrast method and algorithm being developed for the W3/AGWG accessibility guidelines, and for other standards and applications. This is the primary source for all things related to SAPC and APCA.
-- ***SACAM*** Coming Soon!
+- ***SARCAM*** Coming Soon!
 - [**APCA W3**](https://github.com/Myndex/apca-w3) This is the specific version of the APCA licensed to the W3 for the use in web accessibility guidelines such as the WCAG_3 guidelines.
 - [**Bridge PCA**](https://github.com/Myndex/bridge-pca) BPCA is designed as a drop-in replacement for WCAG_2 contrast that is backwards compatible, but using APCA technology, to "bridge" toward the future of readability contrast.
 - [**Fancy Font Flipping**](https://github.com/Myndex/fancyfontflipping/blob/master/README.md#fancy-font-flipping) Fancy Font Flipping is a demo I first put up in CodePen to illustrate the issues with flipping the text color from black to white based on a given estimated background luminance.
-- [**Color Parsley**](https://github.com/Myndex/colorparsley) simple and lightweight color parsing functions.
+- [**Color Parsley**](https://github.com/Myndex/colorparsley) lightweight and versatile color parsing functions.
 - [**See Lab**](https://github.com/Myndex/seelab) This is a library for sRGB colorstring parsing and CIE processing. Includes XYZ, xyY, Lab, Luv, LCh and more!
 - [**Tiny Trim**](https://github.com/Myndex/tinytrim) This is a CSS sheet of terse classes, useful for quick adjustments without having to add a `style=""` great for site development when you have a client watching and breathing down your back, LOL.
 - [**Color Styles**](https://github.com/Myndex/colorstyles) colorstyles is a CSS color stylesheet with a terse but easy to use methodology for color classes — in development, some of this is in TinyTrim.
@@ -47,8 +48,11 @@ On PASSWORDS: [**0u+_W!+h_+h3_01d-InWithTheNew!**](https://gist.github.com/Mynde
 
 -----
 ## Non-GitHub Content
-### Myndex Web Apps
 
+### _This Week's Featured Article:_
+- [**A Contrast of Errors**](https://medium.com/tangledweb/a-contrast-of-errors-373c2665d42a) A look into the history of the WCAG 2 contrast guidelines, and a discussion of the proposed replacement, the APCA (Advanced Perceptual Contrast Algorithm).
+
+### Myndex Web Apps
 - [**APCA Simple Contrast Tools**](https://www.myndex.com/APCA/) The APCA contrast technology demonstrator.
 - [**SAPC Contrast Research Tools**](https://www.myndex.com/SAPC/) Visual contrast development site for the ongoing study of visual contrast for web content accessibility guidelines and other standards & applications. Includes interactive experiments that demonstrate the concepts and technology.
 - [**Bridge-PCA Contrast Tools**](https://www.myndex.com/BPCA/) Bridge-PCA or BPCA is a drop-in replacement for WCAG\_2 contrast that is backwards compatible with the existing guideline, but is using APCA technology for improved readability.
@@ -67,7 +71,7 @@ On PASSWORDS: [**0u+_W!+h_+h3_01d-InWithTheNew!**](https://gist.github.com/Mynde
 - [**PDF on Accessible Fonts**](https://www.myndex.com/PUB/PDF/AccessibleFontsD.pdf) A PDF that discusses key factors in fonts for readability.
 
 <a href="https://stackexchange.com/users/14280387"><img src="https://stackexchange.com/users/flair/14280387.png" width="208" height="58" alt="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>      
-Top 4% on Stack Overflow!
+Top 3% on Stack Overflow!
 
 ------
 ## Past Times At...
