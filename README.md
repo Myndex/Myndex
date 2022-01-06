@@ -44,7 +44,8 @@ On PASSWORDS: [**0u+_W!+h_+h3_01d-InWithTheNew!**](https://gist.github.com/Mynde
 -----
 ## My Issue Threads and Comments
 
-[**Here is an INDEX**](https://github.com/Myndex/Myndex/blob/main/IssuesIndex.md) of some of the larger and in-depth issue threads or posts I've created or have been involved in on GitHub, which may contain useful information and research. Some of the information here may be superseded as some of these thread date back to the beginnings of the contrast research project. I'm making this list largely for myself to collate the still relevant information into a single FAQ or similar explainer document. Someday.
+### [**Here is an INDEX of Major Threads**](https://github.com/Myndex/Myndex/blob/main/IssuesIndex.md)
+These are some of the larger, in-depth issue threads & posts I've created on GitHub including the infamous [thread #695](https://github.com/w3c/wcag/issues/695). These posts contain useful information and research. Some of the information here may be superseded as some of these thread date back to the beginnings of the contrast research project. I'm making this list largely for myself to collate the still relevant information into a single FAQ or similar explainer document. _Someday_.
 
 -----
 ## Non-GitHub Content
@@ -58,8 +59,8 @@ On PASSWORDS: [**0u+_W!+h_+h3_01d-InWithTheNew!**](https://gist.github.com/Mynde
 - [**Bridge-PCA Contrast Tools**](https://www.myndex.com/BPCA/) Bridge-PCA or BPCA is a drop-in replacement for WCAG\_2 contrast that is backwards compatible with the existing guideline, but is using APCA technology for improved readability.
 - [**Color Vision Deficiency Simulator**](https://www.myndex.com/CVD/) This simulator demonstrates the way someone with a Color Vision Deficiency _(incorrectly labeled "color blind")_ sees colors. This simulator uses the clinically accurate Brettel model of CVD simulation.
 
-### [The Myndex APCA Linktree](https://linktr.ee/Myndex)
-- A bunch of links relating to APCA contrast and color.
+### The Myndex [APCA Linktree](https://linktr.ee/Myndex)
+- A bunch of [links](https://linktr.ee/Myndex) relating to APCA contrast and color.
 
 ### Other Related Articles
 - [**Modern Password Theory in a Nutshell**](https://medium.com/tangledweb/modern-password-theory-in-a-nutshell-da87db012c08) Would it surprise you to know that fistsmash passwords aren't really more secure than one you can actually remember? Article at _Tangled Web_
