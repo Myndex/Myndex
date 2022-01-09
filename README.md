@@ -1,6 +1,13 @@
 # Myndex Links
 _(Kinda like sausage, but pork free...)_
- 
+
+### _New Featured Articles
+
+- [**What's Red & Black & Also Not Read?**](https://atangledwebweweave.com/whats-red-black-also-not-read-573b9c0a97ed) Do the WCAG 2 Contrast Guidelines Help Color Vision Issues? We Can Say They Make an Impact—but that Impact is Not Good.
+
+- [**A Contrast of Errors**](https://atangledwebweweave.com/a-contrast-of-errors-373c2665d42a) A look into the history of the WCAG 2 contrast guidelines, and a discussion of the proposed replacement, the APCA (Advanced Perceptual Contrast Algorithm).
+
+
 ## My GitHub Gists & Articles
  
 ### _NEW!_ [Let's Flip for Color!](https://gist.github.com/Myndex/e1025706436736166561d339fd667493#lets-flip-for-color)
@@ -50,9 +57,6 @@ These are some of the larger, in-depth issue threads & posts I've created on Git
 -----
 ## Non-GitHub Content
 
-### _This Week's Featured Article:_
-- [**A Contrast of Errors**](https://medium.com/tangledweb/a-contrast-of-errors-373c2665d42a) A look into the history of the WCAG 2 contrast guidelines, and a discussion of the proposed replacement, the APCA (Advanced Perceptual Contrast Algorithm).
-
 ### Myndex Web Apps
 - [**APCA Simple Contrast Tools**](https://www.myndex.com/APCA/) The APCA contrast technology demonstrator.
 - [**SAPC Contrast Research Tools**](https://www.myndex.com/SAPC/) Visual contrast development site for the ongoing study of visual contrast for web content accessibility guidelines and other standards & applications. Includes interactive experiments that demonstrate the concepts and technology.
@@ -64,7 +68,7 @@ These are some of the larger, in-depth issue threads & posts I've created on Git
 
 ### Other Related Articles
 - [**Modern Password Theory in a Nutshell**](https://medium.com/tangledweb/modern-password-theory-in-a-nutshell-da87db012c08) Would it surprise you to know that fistsmash passwords aren't really more secure than one you can actually remember? Article at _Tangled Web_
-- [**A Contast of Contrasts**](https://medium.com/tangledweb/a-contrast-of-contrasts-3ddda0f4061b) Article at _Tangled Web_
+- [**A Contast of Contrasts**](https://atangledwebweweave.com/a-contrast-of-contrasts-3ddda0f4061b) Article at _Tangled Web_
 - [**Basics of Luminance Contrast**](https://www.myndex.com/WEB/LuminanceContrast) A precursor to the Contrast FAQ.
 - [**Creating Color Gradients, Part I**](https://www.myndex.com/WEB/Gradients)  Experiments and discussion of color spaces for gradient creation.
 - [**Color Gradients, Part II**](https://www.myndex.com/WEB/GradientsPartTwo) More experiments and more color spaces...
