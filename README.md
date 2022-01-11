@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Myndex
  Repo for sites displaying Myndex GitHub content
 =======
@@ -96,4 +95,3 @@ _Today's Mission Statement:_
 ### *Proactive positive progress procured pursuing primary priorities of due diligence, determination, and dedication...*   
 #### *...and also alliteration apparently.*
 
->>>>>>> 2bbb6b34c76ac019c2141d49934be39c7395fed5
