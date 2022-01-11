@@ -1,7 +1,7 @@
 # Myndex Links
 _(Kinda like sausage, but pork free...)_
 
-## _New Featured Articles at Tangled Web_
+## New Featured Articles at Tangled Web
 
 - [**What's Red & Black & Also Not Read?**](https://atangledwebweweave.com/whats-red-black-also-not-read-573b9c0a97ed) Do the WCAG 2 Contrast Guidelines Help Color Vision Issues? We Can Say They Make an Impact—but that Impact is Not Good.
 
