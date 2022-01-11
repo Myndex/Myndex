@@ -1,6 +1,3 @@
-# Myndex
- Repo for sites displaying Myndex GitHub content
-=======
 # Myndex Links
 _(Kinda like sausage, but pork free...)_
 
