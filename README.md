@@ -92,8 +92,8 @@ _(…Uh… this is more commonly known as Texas Hold ’Em Poker…)_
 #### *Proactive positive progress procured pursuing primary priorities of due diligence, determination, and dedication...*   
 ##### *...and also alliteration apparently.*
 
-
-###_Welcome to the very bottom of the page_
+-----
+### _Welcome to the very bottom of the page_
 
 Here at the very bottom of the page, we dare to ask the question, _"do two lights make a dark?"_ And, just how many color scientists does it take to rotationally engage the helical conducting threads of an illumination apparatus further composed of a sealed, evacuated glass envelope containing a plurality of filament holders connecting and supporting a coiled filament preferentially fabricated from a tungsten alloy?
 
