@@ -1,6 +1,7 @@
 # Myndex Links
 _(Kinda like sausage, but pork free...)_
 
+
 ## New Featured Articles at Tangled Web
 
 - [**What's Red & Black & Also Not Read?**](https://atangledwebweweave.com/whats-red-black-also-not-read-573b9c0a97ed) Do the WCAG 2 Contrast Guidelines Help Color Vision Issues? The answer may surprise you.
@@ -30,7 +31,6 @@ If you want your text to be either black or white if the user selects some rando
 - Part II: [**Will Work for Color**](https://gist.github.com/Myndex/10caff6a68e844591e83eadeebfb4347) A follow-up article on working spaces and related considerations. Introduces the concept of "Web Working Spacelets".
 - [**COLORSPACES - The Primal Frontier**](https://gist.github.com/Myndex/b21c2621072b93d3a7c1ef8939bc2adb) A brief Look at the math that helps model how we see. 
 - [**How Many Colors in a Bushel?**](https://gist.github.com/Myndex/db30607d4fe697de9e582544335bbce6#how-many-colors-in-a-bushel) Just "how many" colors are there? Is that even an answerable question? 
-- [**The Lighter Side of Light**](https://gist.github.com/Myndex/b956e5320f77cfd5c3cf451f4ce0acb5#the-lighter-side-of-light) BONUS SCIENCEY STUFF! Daring to ask the question, _"do two lights make a dark?"_ And, just how many color scientists does it take to rotationally engage the helical conducting threads of an illumination apparatus further composed of a sealed, evacuated glass envelope containing a plurality of filament holders connecting and supporting a coiled filament preferentially fabricated from a tungsten alloy?
 
 -----
 ### _General_
@@ -87,8 +87,13 @@ In this career, I was using Applied Probability Methodologies for the Risk Asses
 _(…Uh… this is more commonly known as Texas Hold ’Em Poker…)_
 
 -----
-_Today's Mission Statement:_
------
-### *Proactive positive progress procured pursuing primary priorities of due diligence, determination, and dedication...*   
-#### *...and also alliteration apparently.*
+### _Today's Mission Statement:_
+
+#### *Proactive positive progress procured pursuing primary priorities of due diligence, determination, and dedication...*   
+##### *...and also alliteration apparently.*
+
+
+###_Welcome to the very bottom of the page_
+
+Here at the very bottom of the page, we dare to ask the question, _"do two lights make a dark?"_ And, just how many color scientists does it take to rotationally engage the helical conducting threads of an illumination apparatus further composed of a sealed, evacuated glass envelope containing a plurality of filament holders connecting and supporting a coiled filament preferentially fabricated from a tungsten alloy?
 
