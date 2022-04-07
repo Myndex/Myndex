@@ -45,3 +45,6 @@ Some of the larger and in-depth issue threads or posts I've created or have been
 
 [Comments on color insensitive vision and legibility](https://github.com/w3c/wcag/issues/2033#issuecomment-923580230)
 
+[Comments regarding lack of support for aspects of WCAG 2 contrast](https://github.com/w3c/wcag/issues/1705#issuecomment-1027058976)
+
+
