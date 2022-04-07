@@ -37,3 +37,11 @@ Some of the larger and in-depth issue threads or posts I've created or have been
 [**Non Text and Images** WCAG Issue 700](https://github.com/w3c/wcag/issues/700#issuecomment-488564623) Some comments on contrast for images and non text items.
 
 [**Dark Reader** WCAG Issue 876](https://github.com/w3c/wcag/issues/876#issuecomment-536619157) This issue thread is actually about something else but in the linked post and wsubsequent posts, I discuss the Dark Reader extension.
+
+
+
+
+
+
+[Comments on color insensitive vision and legibility](https://github.com/w3c/wcag/issues/2033#issuecomment-923580230)
+
