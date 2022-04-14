@@ -4,7 +4,7 @@ _(Kinda like sausage, but pork free...)_
 
 ## New Featured Articles
 - [**Better reading on the web**](https://uxdesign.cc/better-reading-on-the-web-c943c4cfc91a) published in UX Collective, this article discusses and demonstrates the problems with automated testing and WCAG 2 contrast.
-- 
+
 - [**Please Stop Using Grey Text**](https://atangledwebweweave.com/please-stop-using-grey-text-3d3e71acfca8) on Tangled Web, debunking one of the worst myths about design contrast.
 
 - [**What's Red & Black & Also Not Read?**](https://atangledwebweweave.com/whats-red-black-also-not-read-573b9c0a97ed) Do the WCAG 2 Contrast Guidelines Help Color Vision Issues? The answer may surprise you.
