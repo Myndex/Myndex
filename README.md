@@ -61,6 +61,19 @@ These are some of the larger, in-depth issue threads & posts I've created on Git
 -----
 ## Non-GitHub Content
 
+
+### _Third party & peer reviews of APCA_
+There have been several independent reviews that include demonstrations of functional superiority to existing methods. Here are four that are in english:
+
+- [It’s Time For A More Sophisticated Color Contrast Check](https://blog.datawrapper.de/color-contrast-check-data-vis-wcag-apca/)
+- [Color Contrast Is Not As Black And White As It Seems](https://medium.com/@think_ui/why-color-contrast-is-not-as-black-and-white-as-it-seems-94197a72b005)
+- [Adv. Perceptual Contrast Algorithm](https://typefully.com/u/DanHollick/t/sle13GMW2Brp)
+- [Improving accessibility with the new APCA](https://www.lightflows.co.uk/blog/improving-accessibility-with-apca/)
+
+### Comparing WCAG 2 Contrast: Discussion with third party articles_ 
+The problems of 4.5:1 as a target for a guideline not only impact accessibility, but impacts standard vision. The inherent problems with the WCAG&nbsp;2 contrast math have been known for some time and [widely critisized](https://macwright.com/2019/03/30/color-contrast-is-a-problem.html). Including studies [by others showing that color insensitive types](https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/) are not well served. The WCAG&nbsp;2 contrast specs often cause enough problems for designers [that it is ignored](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/) and today, some 86% of websites are failing WCAG\_2 contrast—though some of these failures are not due to actually poor accessibility, but due to the incorrect math of WCAG\_2 contrast.
+
+-----
 ### Myndex Web Apps
 - [**APCA Simple Contrast Tools**](https://www.myndex.com/APCA/) The APCA contrast technology demonstrator.
 - [**SAPC Contrast Research Tools**](https://www.myndex.com/SAPC/) Visual contrast development site for the ongoing study of visual contrast for web content accessibility guidelines and other standards & applications. Includes interactive experiments that demonstrate the concepts and technology.
@@ -81,6 +94,8 @@ These are some of the larger, in-depth issue threads & posts I've created on Git
 
 <a href="https://stackexchange.com/users/14280387"><img src="https://stackexchange.com/users/flair/14280387.png" width="208" height="58" alt="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>      
 Top 3% on Stack Overflow!
+
+
 
 ------
 ## Past Times At...
