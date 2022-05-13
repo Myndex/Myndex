@@ -5,11 +5,11 @@ _(Kinda like sausage, but pork free...)_
 ## New Featured Articles
 - [**Better reading on the web**](https://uxdesign.cc/better-reading-on-the-web-c943c4cfc91a) published in UX Collective, this article discusses and demonstrates the problems with automated testing and WCAG 2 contrast.
 
-- [**Please Stop Using Grey Text**](https://atangledwebweweave.com/please-stop-using-grey-text-3d3e71acfca8) on Tangled Web, debunking one of the worst myths about design contrast.
+- [**Please Stop Using Grey Text**](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8) on Tangled Web, debunking one of the worst myths about design contrast.
 
-- [**What's Red & Black & Also Not Read?**](https://atangledwebweweave.com/whats-red-black-also-not-read-573b9c0a97ed) Do the WCAG 2 Contrast Guidelines Help Color Vision Issues? The answer may surprise you.
+- [**What's Red & Black & Also Not Read?**](https://tangledweb.xyz/whats-red-black-also-not-read-573b9c0a97ed) Do the WCAG 2 Contrast Guidelines Help Color Vision Issues? The answer may surprise you.
 
-- [**A Contrast of Errors**](https://atangledwebweweave.com/a-contrast-of-errors-373c2665d42a) A look into the history of the WCAG 2 contrast guidelines, and a discussion of the proposed replacement, the APCA (Advanced Perceptual Contrast Algorithm).
+- [**A Contrast of Errors**](https://tangledweb.xyz/a-contrast-of-errors-373c2665d42a) A look into the history of the WCAG 2 contrast guidelines, and a discussion of the proposed replacement, the APCA (Advanced Perceptual Contrast Algorithm).
 
 
 ## My GitHub Gists & Articles
@@ -61,31 +61,31 @@ These are some of the larger, in-depth issue threads & posts I've created on Git
 -----
 ## Non-GitHub Content
 
-
 ### _Third party & peer reviews of APCA_
 There have been several independent reviews that include demonstrations of functional superiority to existing methods. Here are four that are in english:
 
-- [It’s Time For A More Sophisticated Color Contrast Check](https://blog.datawrapper.de/color-contrast-check-data-vis-wcag-apca/)
-- [Color Contrast Is Not As Black And White As It Seems](https://medium.com/@think_ui/why-color-contrast-is-not-as-black-and-white-as-it-seems-94197a72b005)
-- [Adv. Perceptual Contrast Algorithm](https://typefully.com/u/DanHollick/t/sle13GMW2Brp)
-- [Improving accessibility with the new APCA](https://www.lightflows.co.uk/blog/improving-accessibility-with-apca/)
+- [Does the contrast ratio actually predict the legibility of website text?](https://www.cedc.tools/article.html) A comparison of WCAG 2 math and APCA, by Sam Waller, a PhD at the Engineering Design Centre, University of Cambridge, UK.
+- [Color Contrast Is Not As Black And White As It Seems](https://medium.com/@think_ui/why-color-contrast-is-not-as-black-and-white-as-it-seems-94197a72b005) by Roger Attrill, a technical analysis of some of the problems with WCAG 2 contrast math, and comparing and analysing APCA.
+- [It’s Time For A More Sophisticated Color Contrast Check](https://blog.datawrapper.de/color-contrast-check-data-vis-wcag-apca/) A review of APCA and comparison to WCAG 2 contrast, in the use case of dataviz, by Lisa Charlotte Muth.
+- [Adv. Perceptual Contrast Algorithm](https://typefully.com/u/DanHollick/t/sle13GMW2Brp) Don Hollick's review and discussion of APCA vs WCAG 2.
+- [Improving accessibility with the new APCA](https://www.lightflows.co.uk/blog/improving-accessibility-with-apca/) A review of APCA by Nik Bailey.
 
-### Comparing WCAG 2 Contrast: Discussion with third party articles_ 
+### Recognizing issues with WCAG 2 Contrast: Discussion with links to third party articles_ 
 The problems of 4.5:1 as a target for a guideline not only impact accessibility, but impacts standard vision. The inherent problems with the WCAG&nbsp;2 contrast math have been known for some time and [widely critisized](https://macwright.com/2019/03/30/color-contrast-is-a-problem.html). Including studies [by others showing that color insensitive types](https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/) are not well served. The WCAG&nbsp;2 contrast specs often cause enough problems for designers [that it is ignored](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/) and today, some 86% of websites are failing WCAG\_2 contrast—though some of these failures are not due to actually poor accessibility, but due to the incorrect math of WCAG\_2 contrast.
 
 -----
 ### Myndex Web Apps
 - [**APCA Simple Contrast Tools**](https://www.myndex.com/APCA/) The APCA contrast technology demonstrator.
-- [**SAPC Contrast Research Tools**](https://www.myndex.com/SAPC/) Visual contrast development site for the ongoing study of visual contrast for web content accessibility guidelines and other standards & applications. Includes interactive experiments that demonstrate the concepts and technology.
 - [**Bridge-PCA Contrast Tools**](https://www.myndex.com/BPCA/) Bridge-PCA or BPCA is a drop-in replacement for WCAG\_2 contrast that is backwards compatible with the existing guideline, but is using APCA technology for improved readability.
+- [**SAPC Contrast Research Tools**](https://www.myndex.com/SAPC/) Visual contrast development site for the ongoing study of visual contrast for web content accessibility guidelines and other standards & applications. Includes interactive experiments that demonstrate the concepts and technology.
 - [**Color Vision Deficiency Simulator**](https://www.myndex.com/CVD/) This simulator demonstrates the way someone with a Color Vision Deficiency _(incorrectly labeled "color blind")_ sees colors. This simulator uses the clinically accurate Brettel model of CVD simulation.
 
 ### The Myndex [APCA Linktree](https://linktr.ee/Myndex)
-- A bunch of [links](https://linktr.ee/Myndex) relating to APCA contrast and color.
+- A bunch of [links](https://linktr.ee/Myndex) relating to APCA contrast and color. The more basic, plain language documents and articles at the top, and then lower on the link list, incresingly technical resources.
 
 ### Other Related Articles
-- [**Modern Password Theory in a Nutshell**](https://medium.com/tangledweb/modern-password-theory-in-a-nutshell-da87db012c08) Would it surprise you to know that fistsmash passwords aren't really more secure than one you can actually remember? Article at _Tangled Web_
-- [**A Contast of Contrasts**](https://atangledwebweweave.com/a-contrast-of-contrasts-3ddda0f4061b) Article at _Tangled Web_
+- [**Modern Password Theory in a Nutshell**](https://tangledweb.xyz/modern-password-theory-in-a-nutshell-da87db012c08) Would it surprise you to know that fistsmash passwords aren't really more secure than one you can actually remember? Article at _Tangled Web_
+- [**A Contast of Contrasts**](https://tangledweb.xyz/a-contrast-of-contrasts-3ddda0f4061b) Article at _Tangled Web_
 - [**Basics of Luminance Contrast**](https://www.myndex.com/WEB/LuminanceContrast) A precursor to the Contrast FAQ.
 - [**Creating Color Gradients, Part I**](https://www.myndex.com/WEB/Gradients)  Experiments and discussion of color spaces for gradient creation.
 - [**Color Gradients, Part II**](https://www.myndex.com/WEB/GradientsPartTwo) More experiments and more color spaces...
@@ -93,13 +93,13 @@ The problems of 4.5:1 as a target for a guideline not only impact accessibility,
 - [**PDF on Accessible Fonts**](https://www.myndex.com/PUB/PDF/AccessibleFontsD.pdf) A PDF that discusses key factors in fonts for readability.
 
 <a href="https://stackexchange.com/users/14280387"><img src="https://stackexchange.com/users/flair/14280387.png" width="208" height="58" alt="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>      
-Top 3% on Stack Overflow!
+Top 3% on Stack Overflow! And also active on several other Stack Exchange sites, with some lengthy, in-depth answers.
 
 
 
 ------
-## Past Times At...
-### The Art and Science of Applied Probability
+## _The Lighter Side of Stuff..._
+### _The Art and Science of Applied Probability_
 In this career, I was using Applied Probability Methodologies for the Risk Assessment of short term ROI predictions related to high-variance cash-flow opportunities in finite-sized non-cooperative bidding groups where information is obliquely concealed as a function of multivariate strategies facilitating the predominately range-based tactics driven by randomized but nevertheless deterministic outcomes.    
 
 _(…Uh… this is more commonly known as Texas Hold ’Em Poker…)_
@@ -113,5 +113,4 @@ _(…Uh… this is more commonly known as Texas Hold ’Em Poker…)_
 -----
 ### _Welcome to the very bottom of the page_
 
-Here at the very bottom of the page, we dare to ask the question, _"do two lights make a dark?"_ And, just how many color scientists does it take to rotationally engage the helical conducting threads of an illumination apparatus further composed of a sealed, evacuated glass envelope containing a plurality of filament holders connecting and supporting a coiled filament preferentially fabricated from a tungsten alloy?
-
+Here at the very bottom of the page, we dare to ask the question, _"do two lights make a dark?"_ Also, just how many color scientists does it take to rotationally engage the helical conducting threads of an illumination apparatus further composed of a sealed, evacuated glass envelope containing a plurality of filament holders which electrically connect and physically support a coiled electrically conducting but resistive filament preferentially fabricated from a tungsten alloy, such that when an electrical power source of sufficient voltage and current is applied, shall cause said filiment to incandesce and emit visible irradience?
