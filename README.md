@@ -1,4 +1,4 @@
-# Myndex Links & Resources
+# Myndex Articles & Links
 ## _Featured Articles by Andrew Somers_
 ### _On Readability & Contrast_
 - [**Better reading on the web**](https://uxdesign.cc/better-reading-on-the-web-c943c4cfc91a) Published by _UX Collective_ (uxdesign.cc). This article discusses and demonstrates the problems with automated testing and WCAG 2 contrast math, methods, and guidelines.
@@ -19,11 +19,12 @@
 - [**Modern Password Theory in a Nutshell** ](https://tangledweb.xyz/modern-password-theory-in-a-nutshell-da87db012c08) Would it surprise you to know that fistsmash passwords aren't really more secure than one you can actually remember? You could say this is 0u+_W!+h_+h3_01d-InWithTheNew! — In other words, "Out With The Old - In With The New." It's a realistic discussion on password security, with a useful approach to reducing "crackability". _HINT: we've all been doing it wrong, LOL._ Article at _TangledWeb.xyz_ 
 - [**Improving SEO with Redirects**](https://www.myndex.com/WEB/RedirectsForSEO) Your server's case sensitivity and URL redirect strategies can affect your search ranking!
 
------
-# Calculating Contrast<br>Accurately with APCA
-## _The Accessible Perceptual Contrast Algorithm_
-- [**Why APCA?** ](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/WhyAPCA.md#why-the-new-contrast-method-apca) A brief introduction to WCAG_2 contrast problems and how APCA solves them.
-- [**APCA in a Nutshell**](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/APCA_in_a_Nutshell.md#the-accessible-perceptual-contrast-algorithm) Simple overview for using APCA.
+----- 
+<br>
+# Accurate Contrast<br>Using the APCA
+## The Accessible Perceptual Contrast Algorithm
+- [**Why APCA?** ](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/WhyAPCA.md#why-the-new-contrast-method-apca) A brief introduction to WCAG_2 contrast problems and how APCA solves them.  
+- [**APCA in a Nutshell** ](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/APCA_in_a_Nutshell.md#the-accessible-perceptual-contrast-algorithm) Simple overview for using APCA.
 - [**SARCAM Standard Observer Model** ](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/StandardObserverModel.md#s-luv-accessible-readable-color-appearance-model-sarcam) (DRAFT) A standard observer for accessibility on self illuminated monitors and devices.
 - [**Accessibility Statement** ](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/accessibilitystatement.md#apca-accessibility-statement) For APCA beta users, a site accessibility statement.
 
@@ -35,7 +36,7 @@
 
 ## APCA Peer Review & Third Party Discussion
 ### _Peer reviews of APCA and third party <br>comparisons of APCA vs WCAG&nbsp;2_
-There have been several independent researchers evaluating APCA, and additional third party comparitive reviews that include demonstrations of the functional superiority to existing methods. The first two listed below are technical review by peers by of the APCA math and methods, and in comparison to WCAG 2 contrast methods and guidelines. APCA is open for peer review and discussion—please contact us if interested in performing an evaluation.
+There are several independent researchers evaluating APCA, and additional third party comparitive reviews that include demonstrations of the functional superiority to existing methods. The first two listed below are technical reviews by peers evaluating the APCA math and methods, and in comparison to WCAG 2 contrast methods and guidelines. APCA is open for peer review and discussion—please contact us if interested in performing an evaluation.
 - [Does the contrast ratio actually predict the legibility of website text? ](https://www.cedc.tools/article.html) A comparison of WCAG 2 math and APCA, by Sam Waller, a PhD at the Engineering Design Centre, University of Cambridge, UK.
 - [Color Contrast Is Not As Black And White As It Seems ](https://medium.com/@think_ui/why-color-contrast-is-not-as-black-and-white-as-it-seems-94197a72b005) by Roger Attrill, a technical analysis of some of the problems with WCAG 2 contrast math, and comparing and analysing APCA.
 - [It’s Time For A More Sophisticated Color Contrast Check ](https://blog.datawrapper.de/color-contrast-check-data-vis-wcag-apca/) A review of APCA and comparison to WCAG 2 contrast, in the use case of dataviz, by Lisa Charlotte Muth.
@@ -44,7 +45,7 @@ There have been several independent researchers evaluating APCA, and additional 
 - [Improving accessibility with the new APCA ](https://www.lightflows.co.uk/blog/improving-accessibility-with-apca/) A review of APCA by Nik Bailey.
 
 ### Recognizing issues with WCAG 2 Contrast: <br>_Discussion with links to third party articles_ 
-The problems of 4.5:1 as a target for a guideline not only impact accessibility, but impact standard vision. WCAG&nbsp;2 contrast SCs affect 100% of sighted users. The inherent problems with the WCAG&nbsp;2 contrast math have been known for some time and [widely critisized](https://macwright.com/2019/03/30/color-contrast-is-a-problem.html). Including studies [by others showing that color insensitive types](https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/) are not well served. The WCAG&nbsp;2 contrast specs often cause enough problems for designers [that it is ignored](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/) and today, some 86% of websites are failing WCAG\_2 contrast per an automated survey—though some of these failures are not due to actual poor accessibility, but due to the perceptual inaccuracies of WCAG\_2 contrast.
+The problems of 4.5:1 as a target for a guideline not only impact those with impairments, but impact standard vision as well. WCAG&nbsp;2 contrast SCs affect 100% of sighted users. The inherent problems with the WCAG&nbsp;2 contrast math have been known for some time and [widely critisized](https://macwright.com/2019/03/30/color-contrast-is-a-problem.html). Including studies [by others showing that color insensitive types](https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/) are not well served. The WCAG&nbsp;2 contrast specs often cause enough problems for designers [that it is ignored](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/) and today, some 86% of websites are failing WCAG\_2 contrast per an automated survey—though some of these failures are not due to actual poor accessibility, but due to the perceptual inaccuracies of WCAG\_2 contrast.
 
 -----
 ## Myndex Web Apps
@@ -86,8 +87,8 @@ Mini articles on technical topics, with examples.
 
 -----
 ## Related Threads & Comments
-### [*An INDEX of Significant Threads*](https://github.com/Myndex/Myndex/blob/main/IssuesIndex.md)
-These are some of the larger, in-depth issue threads & posts created on GitHub including the infamous [thread #695](https://github.com/w3c/wcag/issues/695). These posts contain useful information and research. Some of the information here may be superseded as some of these threads date back to the beginnings of the contrast research project. 
+### [*An Index of Significant Threads*](https://github.com/Myndex/Myndex/blob/main/IssuesIndex.md)
+These are some of the larger, in-depth issue threads & posts created on GitHub including the infamous [thread #695](https://github.com/w3c/wcag/issues/695). [These posts](https://github.com/Myndex/Myndex/blob/main/IssuesIndex.md) contain useful information and research. Some of the information here may be superseded as some of these threads date back to the beginnings of the contrast research project. 
 
 ### _Useful APCA Discussion Forum Threads_
 - [**APCA Use Cases**, Conformance, Research, and Glossary](https://github.com/Myndex/SAPC-APCA/discussions/39#discussion-3757102) Discussion of use cases for text and non-text elements, and references to the relevant research. Conformance considerations and rational basis for guidelines.
@@ -98,10 +99,10 @@ These are some of the larger, in-depth issue threads & posts created on GitHub i
 -----
 ## Myndex on Other Sites
 
-In an effort to pare down this mountain of material, here's a link-tree of the most important links, wiht the most basic at the top:
-
+In an effort to pare down this mountain of material, here's a [link-tree](https://linktr.ee/Myndex) of the most important links, with the most basic at the top:
 ### https://linktr.ee/Myndex
 
+-----
 **Top 3% on Stack Overflow!**        
 <a href="https://stackexchange.com/users/14280387"><img src="https://stackexchange.com/users/flair/14280387.png" width="208" height="58" alt="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>      
 And also active on several other Stack Exchange sites.
