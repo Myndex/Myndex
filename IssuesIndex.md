@@ -56,5 +56,3 @@ Some of the larger and in-depth issue threads or posts I've created or have been
 
 <hr>
 <img class="centered" width="520" alt="APCA—The Revolution Will Be Readable" src="images/APCAcolor4.png">
-
-[<back](./)
