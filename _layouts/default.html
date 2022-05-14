@@ -3,8 +3,9 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--
     <meta name="viewport" content="width=640">
-
+-->
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen">
     <link rel="stylesheet" href="{{ '/assets/css/mobile.css' | relative_url }}" media="handheld, only screen and (max-device-width:640px)">
     <link rel="stylesheet" href="{{ '/assets/css/non-screen.css' | relative_url }}" media="handheld, only screen and (max-device-width:640px)">
@@ -25,9 +26,22 @@
 
   <body>
     <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
+
+<main class="wrapper">
+
     <div class="shell">
 
       <header>
+  <div class="headBanner">  
+    <div class="perceptex flr">
+      <div class="he1">MYNDEX</div>
+      <div class="he2">RESEARCH</div>
+    </div>
+    <h1 class="" style="font-family: Audiowide;">APC<span class="flipH">A</span>  C<span class="" style="font-family: Oxanium;">ontrast Calculator</span></h1>
+  </div>
+      </header>
+
+<!--
         <span class="ribbon-outer">
           <span class="ribbon-inner">
             <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -36,7 +50,7 @@
           <span class="left-tail"></span>
           <span class="right-tail"></span>
         </span>
-      </header>
+-->
 
       {% if site.show_downloads %}
         <section id="downloads">

@@ -1,0 +1,169 @@
+.wrapper {
+  padding-top: 12px;
+}
+
+.headBanner {
+  position: relative;
+  width: 80vw;
+  max-width: 1096px;
+  margin: 6px auto 8px;
+  padding: 6px;
+}
+	
+.headBanner h1 {
+  text-align: left;
+  margin: 4px;
+  font-family:  Audiowide, Oxanium, Montserrat, sans-serif;
+  font-size: 3.2em;
+  font-weight: 600;
+  }
+  
+  
+.flipH {
+display: inline-block;
+  -moz-transform: scale(-1, 1);
+  -webkit-transform: scale(-1, 1);
+  -o-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+}
+
+
+.perceptex {
+  padding: 0;
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
+  color: rgb(51, 0, 170);
+}
+
+.perceptex .he1 {
+  margin: -5px 0 -15px;
+  padding: 0;
+  font-size: 46px;
+}
+.perceptex .he2 {
+  margin: 0;
+  padding: 0 0 0 1.5px;
+  font-size: 37px;
+}
+
+
+
+
+
+
+
+
+/*** IMPORTED FROM SLIDERS ***/
+
+.colorSliders {}
+
+/***  END SLIDERS ***/
+
+
+.colorPicker {border-radius: 18px;}
+
+
+#inputTXT,
+#inputBG {
+  border-radius: 12px;
+  text-align: center;
+}
+
+.conformScore th.tableTitle {
+  position: relative;
+  font-weight: 600;
+}
+
+#tableSamples #BGpicker,
+#tableSamples #TXTpicker {
+  position: relative;
+  margin: auto;
+  width: 75px;
+  min-height: 75px;
+  border: 2px solid #a0a0a0;
+  border-radius: 12px;
+  z-index: 10;
+}
+
+
+.innerwrapper {
+  position: relative;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.infobox {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 1rem 0 2rem 8rem;
+  gap: 3rem;
+  flex-wrap: wrap;
+}
+.infobox div {
+  flex: 1 1 45%;
+}
+.infobox p {
+  margin: 0 0 0.75em;
+}
+
+
+
+.sciencelinks {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem 0;
+}
+.sciencelinks a {
+  color: #def;
+  text-decoration: none;
+  margin: 0;
+}
+.gammaContainer {
+  padding: 1rem;
+}
+
+
+.explainers {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 1rem 1rem 1rem 16vw;
+  gap: 2rem;
+  padding: 12px;
+  max-width: 1100px;
+}
+
+.explainer h2 {
+  font-size: 1.65rem;
+}
+.explainer h3 {
+  font-size: 1.35rem;
+}
+
+
+.betanotice {
+  padding: 20px;
+  background: #fda;
+}
+.betanotice h3 {
+  margin: 0;
+}
+
+
+#demoArea { text-align: left; }
+
+footer .innerwrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+footer .innerwrapper div {
+  flex: 1 1 45%;
+}
