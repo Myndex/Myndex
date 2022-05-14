@@ -358,11 +358,17 @@ footer a:visited:hover {
   font-weight: 500;
   text-decoration: none;
   text-align: center;
-  background: linear-gradient(to bottom, #5970b3 5%, #193bb3 100%);
   background-color: #5970b3;
+  background: linear-gradient(to bottom, #5970b3 5%, #193bb3 100%);
   border: 0.12em solid #0619c4;
   border-radius: 0.75em;
   box-shadow: 2px 2px 5px #00a6;
+
+  background-color: #30a8;
+  background: linear-gradient(to bottom, #82d8 5%, #309 100%);
+  border: 0.12em solid #0619c4aa;
+  border-radius: 0.75em;
+  box-shadow: 2px 2px 5px #20a8;
 }
 
 a.myndexButton.top {
@@ -375,6 +381,8 @@ a.myndexButton.top {
   background-color: #193bb3;
   border-color:#2222ff;
   box-shadow: 3px 3px 8px #46b9;
+  
+  
 }
 
 .myndexButton:active, a.myndexButton:active {
