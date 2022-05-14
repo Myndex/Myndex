@@ -19,6 +19,19 @@
 .headBanner h1 a:link { text-align: left; font-size: 1em; text-decoration: none; color: #30a3;}
 .headBanner h1 a:hover { text-align: left; font-size: 1em; text-decoration: none; color: #30aa; }
 
+.headBanner h1.bglite {
+position: absolute;
+z-index: -10;
+margin: -56px -32px 0;
+text-align: left;
+font-family: Audiowide, Oxanium, Montserrat, sans-serif;
+font-size: 11em;
+font-weight: 600;
+color: #e4e0dd;
+color: #3300aa0c;
+}
+
+
 section h1 {
   margin: -12px 0;
   text-align: center;
