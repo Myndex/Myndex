@@ -1,6 +1,4 @@
-.wrapper {
-  padding: 4px 12px 12px;
-}
+.wrapper { padding: 4px 12px 12px; }
 
 #main_content { padding: 24px; }
 
@@ -18,7 +16,7 @@
   color: #30a5;
   }
 section h1 {
-  margin: 0.8em -12px 0.1em;
+  margin: 0.8em -24px 0.1em;
   text-align: left;
   font-family: Audiowide, Oxanium, Montserrat, sans-serif;
   font-size: 2.4em;
@@ -28,10 +26,10 @@ section h1 {
 .headBanner h2 {
   max-width: 480px;
   margin: 0;
-  padding: 0 24px 12px;
+  padding: 0 12px;
   text-align: left;
   font-family: Oxanium, Montserrat, sans-serif;
-  font-size: 1.4em;
+  font-size: 1.5em;
   font-weight: 500;
   }
   
