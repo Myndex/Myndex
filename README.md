@@ -1,47 +1,62 @@
 # Myndex Links
 _(Kinda like sausage, but pork free...)_
 
+## Featured Articles by Andrew Somers
+### _On Readability & Contrast_
+- [**Better reading on the web**](https://uxdesign.cc/better-reading-on-the-web-c943c4cfc91a) Published by _UX Collective_ (uxdesign.cc). This article discusses and demonstrates the problems with automated testing and WCAG 2 contrast math, methods, and guidelines.
+- Published at _Tangled Web_ (TangledWeb.xyz):
+    - [**Please Stop Using Grey Text**](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8) debunking one of the worst myths regarding design contrast.
+    - [**What's Red & Black & Also Not Read?**](https://tangledweb.xyz/whats-red-black-also-not-read-573b9c0a97ed) Do the WCAG 2 Contrast Guidelines help users with color vision issues? While this is a widely held belief, the truth may surprise you. 
+    - [**A Contrast of Errors**](https://tangledweb.xyz/a-contrast-of-errors-373c2665d42a) A look into the history of the WCAG 2 contrast guidelines and some of the problems created by them, and a discussion of the proposed replacement, the APCA (Accessible Perceptual Contrast Algorithm).
 
-## New Featured Articles
-- [**Better reading on the web**](https://uxdesign.cc/better-reading-on-the-web-c943c4cfc91a) published in UX Collective, this article discusses and demonstrates the problems with automated testing and WCAG 2 contrast.
+### _Additional Color & Contrast Related Articles_
+- [**Basics of Luminance Contrast**](https://www.myndex.com/WEB/LuminanceContrast) A precursor to the Contrast FAQ.
+- [**Creating Color Gradients, Part I**](https://www.myndex.com/WEB/Gradients) Experiments and discussion of color spaces for gradient creation.
+- [**Color Gradients, Part II**](https://www.myndex.com/WEB/GradientsPartTwo) More experiments and more color spaces.
+- [**PDF on Accessible Fonts**](https://www.myndex.com/PUB/PDF/AccessibleFontsD.pdf) A PDF that discusses key factors in fonts for readability.
+- [**Contrasting Theories**](https://tangledweb.xyz/hi-roger-f51bde490a56) Article at _Tangled Web_
+- [**A Contast of Contrasts**](https://tangledweb.xyz/a-contrast-of-contrasts-3ddda0f4061b) Article at _Tangled Web_
 
-- [**Please Stop Using Grey Text**](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8) on Tangled Web, debunking one of the worst myths about design contrast.
-
-- [**What's Red & Black & Also Not Read?**](https://tangledweb.xyz/whats-red-black-also-not-read-573b9c0a97ed) Do the WCAG 2 Contrast Guidelines Help Color Vision Issues? The answer may surprise you.
-
-- [**A Contrast of Errors**](https://tangledweb.xyz/a-contrast-of-errors-373c2665d42a) A look into the history of the WCAG 2 contrast guidelines, and a discussion of the proposed replacement, the APCA (Advanced Perceptual Contrast Algorithm).
-
-
-## My GitHub Gists & Articles
- 
-### _NEW!_ [Let's Flip for Color!](https://gist.github.com/Myndex/e1025706436736166561d339fd667493#lets-flip-for-color)
-If you want your text to be either black or white if the user selects some random color, just where is that inflection point?        
-**Hint: It's NOT 18% Y.**
-
------
-### _Contrast_ 
-- [**Why APCA?**](https://github.com/Myndex/SAPC-APCA/WhyAPCA.md) A brief overview of WCAG_2 contrast issues and how APCA solves them.
-
-- Part I: [**Orange You Wondering About Contrast?**](https://gist.github.com/Myndex/1dadb6dcac596f1cd7a5686a076f697f) Answering some contrast questions, and demonstrating a real solution to the infamous orange conundrum.
-- Part II: [**The Lighter Side of Dark Backgrounds**](https://gist.github.com/Myndex/c30dba273aa5eca426ad9f5200917c9d) An article comparing some parts of APCA with the old WCAG 2 contrast methods, demonstrating how WCAG_2 contrast does not help color vision types.
-- Part III: [**WCAG 2 vs APCA Contrast Shootout**](https://gist.github.com/Myndex/069a4079b0de2930e72d5401bde9af98#wcag-2-vs-apca-contrast-shootout)
- Answering some recent questions regarding APCA, with comparisons and examples of the old (WCAG 2 1.4.3) and the future WCAG 3 / APCA.
+### _General IT & Web_
+- [**Modern Password Theory in a Nutshell**](https://tangledweb.xyz/modern-password-theory-in-a-nutshell-da87db012c08) Would it surprise you to know that fistsmash passwords aren't really more secure than one you can actually remember? You could say this is 0u+_W!+h_+h3_01d-InWithTheNew! — In other words, "Out With The Old - In With The New." It's a realistic discussion on password security, with a useful approach to reducing "crackability". _HINT: we've all been doing it wrong, LOL._ Article at _TangledWeb.xyz_ 
+- [**Improving SEO with Redirects**](https://www.myndex.com/WEB/RedirectsForSEO) Your server's case sensitivity and URL redirect strategies can affect your search ranking!
 
 -----
-### _Color_
+# Accurate Contrast with APCA
+## Accessible Perceptual Contrast Algorithm
+- [**Why APCA?**](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/WhyAPCA.md#why-the-new-contrast-method-apca) A brief overview of WCAG_2 contrast issues and how APCA solves them.
+- [**APCA in a Nutshell**](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/APCA_in_a_Nutshell.md#the-accessible-perceptual-contrast-algorithm) Simple overview for using APCA.
+- [**SARCAM Standard Observer Model**](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/StandardObserverModel.md#s-luv-accessible-readable-color-appearance-model-sarcam) (DRAFT) A standard observer for accessibility on self illuminated monitors and devices.
+- [**Accessibility Statement**](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/accessibilitystatement.md#apca-accessibility-statement) For APCA beta users, a site accessibility statement.
+### _APCA Discussion Forum Threads_
+- [**APCA Use Cases**, Conformance, Research, and Glossary](https://github.com/Myndex/SAPC-APCA/discussions/39#discussion-3757102) Discussion of use cases for text and non-text elements, and references to the relevant research. Conformance considerations and rational basis for guidelines.
+- [**Links To Tools** and Toolmakers](https://github.com/Myndex/SAPC-APCA/discussions/51#discussion-3776260) Some of the tools that have adopted APCA.
+- [**WCAG 2 vs APCA Comparisons**](https://github.com/Myndex/SAPC-APCA/discussions/30#discussion-3678164) Direct head to head comparisons.
+- [**Using APCA with other fonts**](https://github.com/Myndex/SAPC-APCA/discussions/28#discussioncomment-1610289) Draft method for font weight conformance.
 
-- Part I: [**For The Luv of Color**](https://gist.github.com/Myndex/47c793f8a054041bd2b52caa7ad5271c#file-fortheluvofcolor-md) An article comparing CIE Lab and Luv colorspaces.
-- Part II: [**Will Work for Color**](https://gist.github.com/Myndex/10caff6a68e844591e83eadeebfb4347) A follow-up article on working spaces and related considerations. Introduces the concept of "Web Working Spacelets".
-- [**COLORSPACES - The Primal Frontier**](https://gist.github.com/Myndex/b21c2621072b93d3a7c1ef8939bc2adb) A brief Look at the math that helps model how we see. 
-- [**How Many Colors in a Bushel?**](https://gist.github.com/Myndex/db30607d4fe697de9e582544335bbce6#how-many-colors-in-a-bushel) Just "how many" colors are there? Is that even an answerable question? 
+## APCA Peer Review & Third Party Discussion
+### _Peer reviews of APCA and third party <br>comparisons of APCA vs WCAG&nbsp;2_
+There have been several independent researchers evaluating APCA, and additional third party comparitive reviews that include demonstrations of the functional superiority to existing methods. The first two listed below are technical review by peers by of the APCA math and methods, and in comparison to WCAG 2 contrast methods and guidelines. APCA is open for peer review and discussion—please contact us if interested in performing an evaluation.
+- [Does the contrast ratio actually predict the legibility of website text?](https://www.cedc.tools/article.html) A comparison of WCAG 2 math and APCA, by Sam Waller, a PhD at the Engineering Design Centre, University of Cambridge, UK.
+- [Color Contrast Is Not As Black And White As It Seems](https://medium.com/@think_ui/why-color-contrast-is-not-as-black-and-white-as-it-seems-94197a72b005) by Roger Attrill, a technical analysis of some of the problems with WCAG 2 contrast math, and comparing and analysing APCA.
+- [It’s Time For A More Sophisticated Color Contrast Check](https://blog.datawrapper.de/color-contrast-check-data-vis-wcag-apca/) A review of APCA and comparison to WCAG 2 contrast, in the use case of dataviz, by Lisa Charlotte Muth.
+- [Accessible Palette: stop using HSL for color systems](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems) by Eugene Fedorenko, this is mostly a discussion of his new color pallette tool, but APCA figures into that, and he discusses the integration into the tool vs WCAG&nbsp;2 contrast.
+- [Adv. Perceptual Contrast Algorithm](https://typefully.com/u/DanHollick/t/sle13GMW2Brp) Don Hollick's review and discussion of APCA vs WCAG 2.
+- [Improving accessibility with the new APCA](https://www.lightflows.co.uk/blog/improving-accessibility-with-apca/) A review of APCA by Nik Bailey.
+
+### Recognizing issues with WCAG 2 Contrast: <br>_Discussion with links to third party articles_ 
+The problems of 4.5:1 as a target for a guideline not only impact accessibility, but impact standard vision. WCAG&nbsp;2 contrast SCs affect 100% of sighted users. The inherent problems with the WCAG&nbsp;2 contrast math have been known for some time and [widely critisized](https://macwright.com/2019/03/30/color-contrast-is-a-problem.html). Including studies [by others showing that color insensitive types](https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/) are not well served. The WCAG&nbsp;2 contrast specs often cause enough problems for designers [that it is ignored](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/) and today, some 86% of websites are failing WCAG\_2 contrast per an automated survey—though some of these failures are not due to actual poor accessibility, but due to the perceptual inaccuracies of WCAG\_2 contrast.
 
 -----
-### _General_
-On PASSWORDS: [**0u+_W!+h_+h3_01d-InWithTheNew!**](https://gist.github.com/Myndex/d71875ea431c88db3a22962e28abd164) In other words, "Out With The Old - In With The New" a realistic discussion on password security, with a more realistic approach to reducing "crackability". HINT: we've all been doing it wrong, LOL.
+-----
+## Myndex Web Apps
+- [**APCA Simple Contrast Tools**](https://www.myndex.com/APCA/) The APCA contrast technology demonstrator.
+- [**Bridge-PCA Contrast Tools**](https://www.myndex.com/BPCA/) Bridge-PCA or BPCA is a drop-in replacement for WCAG\_2 contrast that is backwards compatible with the existing guideline, but is using APCA technology for improved readability.
+- [**SAPC Contrast Research Tools**](https://www.myndex.com/SAPC/) Visual contrast development site for the ongoing study of visual contrast for web content accessibility guidelines and other standards & applications. Includes interactive experiments that demonstrate the concepts and technology.
+- [**Color Vision Deficiency Simulator**](https://www.myndex.com/CVD/) This simulator demonstrates the way someone with a Color Vision Deficiency _(incorrectly labeled "color blind")_ sees colors. This simulator uses the clinically accurate Brettel model of CVD simulation.
 
 -----
-## My Repos
- 
+## Myndex Repos
 - [**SAPC-APCA**](https://github.com/Myndex/SAPC-APCA) The main repository for the research and development of the new contrast method and algorithm being developed for the W3/AGWG accessibility guidelines, and for other standards and applications. This is the primary source for all things related to SAPC and APCA.
 - ***SARCAM*** Coming Soon!
 - [**APCA W3**](https://github.com/Myndex/apca-w3) This is the specific version of the APCA licensed to the W3 for the use in web accessibility guidelines such as the WCAG_3 guidelines.
@@ -53,52 +68,48 @@ On PASSWORDS: [**0u+_W!+h_+h3_01d-InWithTheNew!**](https://gist.github.com/Mynde
 - [**Color Styles**](https://github.com/Myndex/colorstyles) colorstyles is a CSS color stylesheet with a terse but easy to use methodology for color classes — in development, some of this is in TinyTrim.
 
 -----
-## My Issue Threads and Comments
+## GitHub Gists
+### _Contrast_ 
+- [**Why APCA?**](https://github.com/Myndex/SAPC-APCA/WhyAPCA.md) A brief overview of WCAG_2 contrast issues and how APCA solves them.
+- [**Let's Flip for Color!**](https://gist.github.com/Myndex/e1025706436736166561d339fd667493#lets-flip-for-color)
+If you want your text to be either black or white if the user selects some random color, just where is that inflection point? **Hint: It's NOT 18% Y.** Gist includes links to the CodePen and the related repo here.
+- Three Part Series on WCAG 2 contrast problems and comparisons to perceptually uniform models.
+    - Part I: [**Orange You Wondering About Contrast?**](https://gist.github.com/Myndex/1dadb6dcac596f1cd7a5686a076f697f) Answering some contrast questions, and demonstrating a real solution to the infamous orange conundrum.
+    - Part II: [**The Lighter Side of Dark Backgrounds**](https://gist.github.com/Myndex/c30dba273aa5eca426ad9f5200917c9d) An article comparing some parts of APCA with the old WCAG 2 contrast methods, demonstrating how WCAG_2 contrast does not help color vision types.
+    - Part III: [**WCAG 2 vs APCA Contrast Shootout**](https://gist.github.com/Myndex/069a4079b0de2930e72d5401bde9af98#wcag-2-vs-apca-contrast-shootout)
+ Answering some recent questions regarding APCA, with comparisons and examples of the old (WCAG 2 1.4.3) and the future WCAG 3 / APCA.
 
-### [**Here is an INDEX of Major Threads**](https://github.com/Myndex/Myndex/blob/main/IssuesIndex.md)
-These are some of the larger, in-depth issue threads & posts I've created on GitHub including the infamous [thread #695](https://github.com/w3c/wcag/issues/695). These posts contain useful information and research. Some of the information here may be superseded as some of these thread date back to the beginnings of the contrast research project. I'm making this list largely for myself to collate the still relevant information into a single FAQ or similar explainer document. _Someday_.
-
------
-## Non-GitHub Content
-
-### _Third party & peer reviews of APCA_
-There have been several independent reviews that include demonstrations of functional superiority to existing methods. Here are four that are in english:
-
-- [Does the contrast ratio actually predict the legibility of website text?](https://www.cedc.tools/article.html) A comparison of WCAG 2 math and APCA, by Sam Waller, a PhD at the Engineering Design Centre, University of Cambridge, UK.
-- [Color Contrast Is Not As Black And White As It Seems](https://medium.com/@think_ui/why-color-contrast-is-not-as-black-and-white-as-it-seems-94197a72b005) by Roger Attrill, a technical analysis of some of the problems with WCAG 2 contrast math, and comparing and analysing APCA.
-- [It’s Time For A More Sophisticated Color Contrast Check](https://blog.datawrapper.de/color-contrast-check-data-vis-wcag-apca/) A review of APCA and comparison to WCAG 2 contrast, in the use case of dataviz, by Lisa Charlotte Muth.
-- [Adv. Perceptual Contrast Algorithm](https://typefully.com/u/DanHollick/t/sle13GMW2Brp) Don Hollick's review and discussion of APCA vs WCAG 2.
-- [Improving accessibility with the new APCA](https://www.lightflows.co.uk/blog/improving-accessibility-with-apca/) A review of APCA by Nik Bailey.
-
-### Recognizing issues with WCAG 2 Contrast: Discussion with links to third party articles_ 
-The problems of 4.5:1 as a target for a guideline not only impact accessibility, but impacts standard vision. The inherent problems with the WCAG&nbsp;2 contrast math have been known for some time and [widely critisized](https://macwright.com/2019/03/30/color-contrast-is-a-problem.html). Including studies [by others showing that color insensitive types](https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/) are not well served. The WCAG&nbsp;2 contrast specs often cause enough problems for designers [that it is ignored](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/) and today, some 86% of websites are failing WCAG\_2 contrast—though some of these failures are not due to actually poor accessibility, but due to the incorrect math of WCAG\_2 contrast.
+### _Color_
+- Part I: [**For The Luv of Color**](https://gist.github.com/Myndex/47c793f8a054041bd2b52caa7ad5271c#file-fortheluvofcolor-md) An article comparing CIE Lab and Luv colorspaces.
+- Part II: [**Will Work for Color**](https://gist.github.com/Myndex/10caff6a68e844591e83eadeebfb4347) A follow-up article on working spaces and related considerations. Introduces the concept of "Web Working Spacelets".
+- [**COLORSPACES - The Primal Frontier**](https://gist.github.com/Myndex/b21c2621072b93d3a7c1ef8939bc2adb) A brief Look at the math that helps model how we see. 
+- [**How Many Colors in a Bushel?**](https://gist.github.com/Myndex/db30607d4fe697de9e582544335bbce6#how-many-colors-in-a-bushel) Just "how many" colors are there? Is that even an answerable question? 
 
 -----
-### Myndex Web Apps
-- [**APCA Simple Contrast Tools**](https://www.myndex.com/APCA/) The APCA contrast technology demonstrator.
-- [**Bridge-PCA Contrast Tools**](https://www.myndex.com/BPCA/) Bridge-PCA or BPCA is a drop-in replacement for WCAG\_2 contrast that is backwards compatible with the existing guideline, but is using APCA technology for improved readability.
-- [**SAPC Contrast Research Tools**](https://www.myndex.com/SAPC/) Visual contrast development site for the ongoing study of visual contrast for web content accessibility guidelines and other standards & applications. Includes interactive experiments that demonstrate the concepts and technology.
-- [**Color Vision Deficiency Simulator**](https://www.myndex.com/CVD/) This simulator demonstrates the way someone with a Color Vision Deficiency _(incorrectly labeled "color blind")_ sees colors. This simulator uses the clinically accurate Brettel model of CVD simulation.
+## Threads & Comments
+### [*Here is an INDEX of Major Threads*](https://github.com/Myndex/Myndex/blob/main/IssuesIndex.md)
+These are some of the larger, in-depth issue threads & posts created on GitHub including the infamous [thread #695](https://github.com/w3c/wcag/issues/695). These posts contain useful information and research. Some of the information here may be superseded as some of these threads date back to the beginnings of the contrast research project. This list is largely for myself to collate the still relevant information into a single FAQ or similar explainer document. _...Someday..._
 
-### The Myndex [APCA Linktree](https://linktr.ee/Myndex)
-- A bunch of [links](https://linktr.ee/Myndex) relating to APCA contrast and color. The more basic, plain language documents and articles at the top, and then lower on the link list, incresingly technical resources.
-
-### Other Related Articles
-- [**Modern Password Theory in a Nutshell**](https://tangledweb.xyz/modern-password-theory-in-a-nutshell-da87db012c08) Would it surprise you to know that fistsmash passwords aren't really more secure than one you can actually remember? Article at _Tangled Web_
-- [**A Contast of Contrasts**](https://tangledweb.xyz/a-contrast-of-contrasts-3ddda0f4061b) Article at _Tangled Web_
-- [**Basics of Luminance Contrast**](https://www.myndex.com/WEB/LuminanceContrast) A precursor to the Contrast FAQ.
-- [**Creating Color Gradients, Part I**](https://www.myndex.com/WEB/Gradients)  Experiments and discussion of color spaces for gradient creation.
-- [**Color Gradients, Part II**](https://www.myndex.com/WEB/GradientsPartTwo) More experiments and more color spaces...
-- [**Improving SEO with Redirects**](https://www.myndex.com/WEB/RedirectsForSEO) Your server's case sensitivity and URL redirect strategies can affect your search ranking!
-- [**PDF on Accessible Fonts**](https://www.myndex.com/PUB/PDF/AccessibleFontsD.pdf) A PDF that discusses key factors in fonts for readability.
-
+-----
+## Myndex on Other Sites
 <a href="https://stackexchange.com/users/14280387"><img src="https://stackexchange.com/users/flair/14280387.png" width="208" height="58" alt="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>      
-Top 3% on Stack Overflow! And also active on several other Stack Exchange sites, with some lengthy, in-depth answers.
-
-
+Top 3% on Stack Overflow! And also active on several other Stack Exchange sites providing in-depth answers.
+- **@ Mozilla:** [**Introduction to Color and Accessibility**](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_Colors_and_Luminance) A white paper and tutorial on color and accessibility, with emphasis on web content.
+- @ Twitter: [MyndexResearch](https://twitter.com/MyndexResearch) New developments regarding APCA are usually posted here first.
+- **@ W3C:** [**Visual Contrast Group Wiki**](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup) Early work on Visual Contrast which became APCA.
+    - [Visual Contrast Whitepaper](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup/Whitepaper) (Work in progress)
+    - [Visual Contrast Draft Conformance Model](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup/Conformance) An early draft multi-score model for WCAG 3.
+        - _NOTE: examples use legacy lookup tables, do not use for guidelines_
+        - Instead please see the current [**use cases thread** at the APCA repo](https://github.com/Myndex/SAPC-APCA/discussions/39)
+    - [Resources: Glossary, Bibliography,](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup/Resources) and links to team member materials. Includes additional designer examples and guidance.
+- @ : Design Portfolio (coming soon)
+- @ General Titles & Visual Effects: (Links to articles/portfolio coming soon)
+    - Archives of older published articles & tutorials
+- @ ResearchGate (not particularly active there)
+- @ Creative Cow: (Links to articles & tutorials coming soon)
 
 ------
-## _The Lighter Side of Stuff..._
+## The Lighter Side of Stuff...
 ### _The Art and Science of Applied Probability_
 In this career, I was using Applied Probability Methodologies for the Risk Assessment of short term ROI predictions related to high-variance cash-flow opportunities in finite-sized non-cooperative bidding groups where information is obliquely concealed as a function of multivariate strategies facilitating the predominately range-based tactics driven by randomized but nevertheless deterministic outcomes.    
 
@@ -112,5 +123,6 @@ _(…Uh… this is more commonly known as Texas Hold ’Em Poker…)_
 
 -----
 ### _Welcome to the very bottom of the page_
+Here at the very bottom of the page, we dare to ask the question, _"do two lights make a dark?"_
 
-Here at the very bottom of the page, we dare to ask the question, _"do two lights make a dark?"_ Also, just how many color scientists does it take to rotationally engage the helical conducting threads of an illumination apparatus further composed of a sealed, evacuated glass envelope containing a plurality of filament holders which electrically connect and physically support a coiled electrically conducting but resistive filament preferentially fabricated from a tungsten alloy, such that when an electrical power source of sufficient voltage and current is applied, shall cause said filiment to incandesce and emit visible irradience?
+Also, just how many color scientists does it take to rotationally engage the helical conducting threads of an illumination apparatus further composed of a sealed, evacuated glass envelope containing a plurality of filament holders which electrically connect and physically support a coiled electrically conducting but resistive filament preferentially fabricated from a tungsten alloy to the aforementioned helical threads, engaging into a helical conductiung receptacle, such that when an electrical power source of sufficient voltage and current is applied, said filiment shall be caused to incandesce and emit visible irradience?
