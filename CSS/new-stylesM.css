@@ -15,8 +15,9 @@
   font-weight: 600;
   color: #30a5;
   }
-.headBanner h1 a { font-size: 1em; text-decoration: none; }
-.headBanner h1 a:hover { font-size: 1em; text-decoration: none; color: #30aa; }
+.headBanner h1 a, .headBanner h1 a:visited,
+.headBanner h1 a:link { text-align: left; font-size: 1em; text-decoration: none; color: #30a5;}
+.headBanner h1 a:hover { text-align: left; font-size: 1em; text-decoration: none; color: #30aa; }
 
 section h1 {
   margin: -12px 0;
@@ -26,6 +27,7 @@ section h1 {
   font-weight: 600;
   color: #30ab;
   }
+#accurate-contrast-with-apca { font-size: 3.2em; }
 
 .headBanner h2 {
   max-width: 480px;
