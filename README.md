@@ -135,8 +135,8 @@ Here at the very bottom of the page, we dare to ask the question, _"do two light
 Also, just how many color scientists does it take to rotationally engage the helical conducting threads of an illumination apparatus further composed of a sealed, evacuated glass envelope containing a plurality of filament holders which electrically connect and physically support a coiled electrically conducting but resistive filament preferentially fabricated from a tungsten alloy to the aforementioned helical threads, engaging into a helical conductiung receptacle, such that when an electrical power source of sufficient voltage and current is applied, said filiment shall be caused to incandesce and emit visible irradience?
 
 ------
+
+<img class="centered" width="520" alt="APCA—The Revolution Will Be Readable" src="images/APCAcolor4.png">
 <br>
-<img width="520" alt="APCA—The Revolution Will Be Readable" src="images/APCAcolor4.png">
-<br><br>
 
 
