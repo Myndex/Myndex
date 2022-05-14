@@ -1,14 +1,16 @@
 .wrapper {
-  padding 4px 36px 12px;
+  padding 4px 12px 12px;
 }
+
+#main_content { padding 24px; }
 
 .headBanner {
   position: relative;
-  margin: 12px auto;
+  margin: 0 auto 12px;
   padding: 0;
 }
 .headBanner h1 {
-  margin: 0 -18px 32px;
+  margin: -8px 0 32px;
   text-align: left;
   font-family: Audiowide, Oxanium, Montserrat, sans-serif;
   font-size: 5.5em;
@@ -16,7 +18,7 @@
   color: #30a5;
   }
 section h1 {
-  margin: 0.8em -18px 0.25em;
+  margin: 0.8em 0 0.25em;
   text-align: left;
   font-family: Audiowide, Oxanium, Montserrat, sans-serif;
   font-size: 2.4em;
@@ -25,7 +27,7 @@ section h1 {
 
 .headBanner h2 {
   max-width: 500px;
-  padding: 8px 0 24px;
+  padding: 8px 24px 24px;
   text-align: left;
   font-family: Oxanium, Montserrat, sans-serif;
   font-size: 1.5em;
@@ -51,7 +53,7 @@ display: inline-block;
 }
 
 .perceptex .he1 {
-  margin: -5px 0 -15px;
+  margin: 0 0 -15px;
   padding: 0;
   font-size: 46px;
 }

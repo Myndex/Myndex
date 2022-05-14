@@ -124,7 +124,7 @@ main {
   position: relative;
   max-width: 900px;
   margin: 0 auto;
-  padding: 24px;
+  padding: 12px;
   overflow: visible;
   background: #e6e2d8;
   border: 1.5em solid #f2f9ff;
@@ -168,12 +168,13 @@ header.sticky {
 }
 
 footer {
-  margin: 0 -24px;
+  margin: 0;
   padding: 1em 1.5em;
   color: #d93;
   background-color: #103;
   border-radius: 8px;
 }
+
 footer a {
   color: #db3;
 }
