@@ -4,20 +4,21 @@
 
 .headBanner {
   position: relative;
-  width: 80vw;
-  max-width: 1096px;
-  margin: 6px auto 8px;
-  padding: 6px;
+  margin: 0 auto;
+  padding: 24px;
 }
-	
-.headBanner h1 {
+.headBanner h1, section h1 {
   text-align: left;
-  margin: 4px;
   font-family:  Audiowide, Oxanium, Montserrat, sans-serif;
   font-size: 3.2em;
   font-weight: 600;
   }
-  
+.headBanner h2 {
+  text-align: left;
+  font-family:  Oxanium, Montserrat, sans-serif;
+  font-size: 1.8em;
+  font-weight: 600;
+  }
   
 .flipH {
 display: inline-block;
