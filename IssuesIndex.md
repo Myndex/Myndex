@@ -1,4 +1,4 @@
-# My Issue Threads and Comments
+# Issue Threads & Comments
 Some of the larger and in-depth issue threads or posts I've created or have been involved in on GitHub, which may contain useful information and research. Some of the information here may be superceeded as some of these thread date back to the beginnings of the contrast research project. I'm making this list largely for myself to collate the still relevant information into a single FAQ or simielar explainer document.
 
 
@@ -38,7 +38,7 @@ Some of the larger and in-depth issue threads or posts I've created or have been
 
 [**Dark Reader** WCAG Issue 876](https://github.com/w3c/wcag/issues/876#issuecomment-536619157) This issue thread is actually about something else but in the linked post and wsubsequent posts, I discuss the Dark Reader extension.
 
-### NEW
+### NEWER
 
 [Comments on color insensitive vision and legibility](https://github.com/w3c/wcag/issues/2033#issuecomment-923580230)
 
@@ -49,3 +49,7 @@ Some of the larger and in-depth issue threads or posts I've created or have been
 - [**Links To Tools** and Toolmakers](https://github.com/Myndex/SAPC-APCA/discussions/51#discussion-3776260) Some of the tools that have adopted APCA.
 - [**WCAG 2 vs APCA Comparisons**](https://github.com/Myndex/SAPC-APCA/discussions/30#discussion-3678164) Direct head to head comparisons.
 - [**Using APCA with other fonts**](https://github.com/Myndex/SAPC-APCA/discussions/28#discussioncomment-1610289) Draft method for font weight conformance.
+
+<hr>
+<img class="centered" width="520" alt="APCA—The Revolution Will Be Readable" src="images/APCAcolor4.png">
+<br>
