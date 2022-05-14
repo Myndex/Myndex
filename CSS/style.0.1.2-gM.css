@@ -120,7 +120,7 @@ body {
   font-family:  Barlow, Montserrat, sans-serif;
   font-size: 1.1rem;
   font-weight: 400;
-  background: #e6e2db;
+  background: #f0f8ff;
 }
 
 main {
@@ -132,15 +132,16 @@ main {
 .wrapper {
   /* Content wrapper - Can optionally include header or footer. */
   position: relative;
+  max-width: 900px;
   margin: 0 auto;
+  padding: 24px;
   overflow: visible;
-  background: transparent;
+  background: #e6e2d8;
 }
 
 header {
   position: relative;
   width: 100%;
-  padding-top: 11%;
 }
 /* Main Header */
 header.largeHeader {
@@ -2393,7 +2394,7 @@ div.examples {
   .wrapper {
     width: 100vw;
     overflow: hidden;
-    border: 6px solid #30a;
+    border: 6px solid #def;
   }
   h1.mastHead {
     font-size: 2.2em;
@@ -2568,7 +2569,7 @@ div.examples {
   .wrapper {
     width: 100vw;
     overflow: hidden;
-    border: 6px solid #30a;
+    border: 6px solid #def;
   }
 
   h1.mastHead {
