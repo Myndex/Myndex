@@ -110,7 +110,7 @@ body {
   font-family:  Barlow, Montserrat, sans-serif;
   font-size: 1.1rem;
   font-weight: 500;
-  background: #cba987;
+  background: #edd69b;
 }
 
 main {
@@ -127,13 +127,15 @@ main {
   padding: 24px;
   overflow: visible;
   background: #e6e2d8;
-  border: 1.5em solid #eef5ff;
+  border: 1.5em solid #f2f9ff;
+  border-radius: 2.5em;
 }
 
 header {
   position: relative;
   width: 100%;
 }
+
 /* Main Header */
 header.largeHeader {
   width: 100%;
@@ -197,7 +199,6 @@ div.leftCol {
   border: 0;
   padding-left: 0;
 }
-
 div.rightCol {
   width: 160px; /* adjust per site  */
   margin: 0 5px;
@@ -2323,12 +2324,19 @@ div.examples {
     font-weight: 400;
     white-space: normal;
   }
+  
   h2,
   h3 {
+    font-size: 1.8em;
+    font-weight: 600;
+    white-space: normal;
+  }
+  h3 {
+    font-size: 1.5em;
     font-weight: 500;
     white-space: normal;
   }
-
+  
   .myndexButton {
     padding: 0.34em 0.9em;
     max-width: 100vw;
@@ -3714,7 +3722,7 @@ General guidelines
 .dc {display: contents}
 
 .dn, body .dn, body main .dn,
-body main div.dn, body main div .dn {display: none}
+body main div.dn, body main div .dn { display: none }
 /* dn specificity added to help provide override */
 
 
@@ -3723,7 +3731,6 @@ body main div.dn, body main div .dn {display: none}
 .db, body .db, body main .db,
 body main div.db, body main div .db {display: block}
 /* db specificity added to help provide override */
-
 
 .di {display: inline}
 .dr {display: run-in}
