@@ -345,7 +345,7 @@ footer a:visited:hover {
 /* *****  GLOSSY BLUE GLOW BUTTON  ****************************************** */
 /* ************************************************************************** */
 
-.myndexButton {
+.myndexButton, a.myndexButton, a.myndexButton:link, a.myndexButton:visited {
   display: block;
   position: relative;
   max-width: 130px;
@@ -365,7 +365,7 @@ footer a:visited:hover {
   box-shadow: 2px 2px 5px #00a6;
 }
 
-.myndexButton:hover {
+.myndexButton:hover, a.myndexButton:hover, a.myndexButton:visited:hover {
   color: #def;
   background: linear-gradient(to bottom, #193bb3 25%, #4433ff 100%);
   background-color: #193bb3;
@@ -373,7 +373,7 @@ footer a:visited:hover {
   box-shadow: 3px 3px 8px #46b9;
 }
 
-.myndexButton:active {
+.myndexButton:active, a.myndexButton:active {
   position: relative;
   color: #fff;
   border-color:#2222ff;
