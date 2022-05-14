@@ -88,20 +88,20 @@ Mini articles on technical topics, with examples.
 
 -----
 ## Related Threads & Comments
-### [*An Index of Significant Threads*](IssuesIndex.md)
-These are some of the larger, in-depth issue threads & posts created on GitHub including the infamous [thread #695](https://github.com/w3c/wcag/issues/695). [These posts](IssuesIndex.md) contain useful information and research. Some of the information here may be superseded as some of these threads date back to the beginnings of the contrast research project. 
+### [*A Listing of Significant Threads*](IssuesIndex.md)
+These are some of the larger, in-depth issue threads & posts created on GitHub including the infamous [thread #695 ](https://github.com/w3c/wcag/issues/695). [These posts ](IssuesIndex.md) contain useful information and research. Some of the information here may be superseded as some of these threads date back to the beginnings of the contrast research project. 
 
 ### _Useful APCA Discussion Forum Threads_
-- [**APCA Use Cases**, Conformance, Research, and Glossary](https://github.com/Myndex/SAPC-APCA/discussions/39#discussion-3757102) Discussion of use cases for text and non-text elements, and references to the relevant research. Conformance considerations and rational basis for guidelines.
-- [**Links To Tools** and Toolmakers](https://github.com/Myndex/SAPC-APCA/discussions/51#discussion-3776260) Some of the tools that have adopted APCA.
-- [**WCAG 2 vs APCA Comparisons**](https://github.com/Myndex/SAPC-APCA/discussions/30#discussion-3678164) Direct head to head comparisons.
-- [**Using APCA with other fonts**](https://github.com/Myndex/SAPC-APCA/discussions/28#discussioncomment-1610289) Draft method for font weight conformance.
+- [**APCA Use Cases**, Conformance, Research, and Glossary ](https://github.com/Myndex/SAPC-APCA/discussions/39#discussion-3757102) Discussion of use cases for text and non-text elements, and references to the relevant research. Conformance considerations and rational basis for guidelines.
+- [**Links To Tools** and Toolmakers ](https://github.com/Myndex/SAPC-APCA/discussions/51#discussion-3776260) Some of the tools that have adopted APCA.
+- [**WCAG 2 vs APCA Comparisons** ](https://github.com/Myndex/SAPC-APCA/discussions/30#discussion-3678164) Direct head to head comparisons.
+- [**Using APCA with other fonts** ](https://github.com/Myndex/SAPC-APCA/discussions/28#discussioncomment-1610289) Draft method for font weight conformance.
 
 -----
 ## Myndex on Other Sites
 
 In an effort to pare down this mountain of material, here's a [link-tree](https://linktr.ee/Myndex) of the most important links, with the most basic at the top:
-### _https://linktr.ee/Myndex_
+### _[linktr.ee/Myndex](https://linktr.ee/Myndex)_
 
 -----
 **_Top 3% on Stack Overflow!_**        
