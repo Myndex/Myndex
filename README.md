@@ -20,7 +20,8 @@
 - [**Improving SEO with Redirects**](https://www.myndex.com/WEB/RedirectsForSEO) Your server's case sensitivity and URL redirect strategies can affect your search ranking!
 
 ----- 
-<br>
+
+
 # Accurate Contrast<br>Using the APCA
 
 ## The Accessible Perceptual Contrast Algorithm
