@@ -2313,14 +2313,17 @@ div.examples {
 
 .contrastChart { margin: 3rem auto 1rem; overflow: scroll;}
 
-img.centered {
+img.centered, img.top {
     position: relative;
-    margin: 0;
+    margin: 0.25em;
     box-shadow: inset 0 0 8px 4px #000,inset 2px 2px 8px 10px #fff,inset -3px 3px 8px 15px #0008, 6px 6px 12px #0006;
     border-radius: 44px;
     left: 15%;
 }
 
+img.top {
+    margin: 1.5em 0 -0.5e,;
+    }
 
 
 /* ************************************************************************** */
