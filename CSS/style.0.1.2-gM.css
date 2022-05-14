@@ -365,6 +365,10 @@ footer a:visited:hover {
   box-shadow: 2px 2px 5px #00a6;
 }
 
+a.myndexButton.top {
+    margin: 1.5em 0 -0.5em;
+    }
+
 .myndexButton:hover, a.myndexButton:hover, a.myndexButton:visited:hover {
   color: #def;
   background: linear-gradient(to bottom, #193bb3 25%, #4433ff 100%);
@@ -2315,15 +2319,14 @@ div.examples {
 
 img.centered, img.top {
     position: relative;
+    width: 520px;
     margin: 0.25em;
     box-shadow: inset 0 0 8px 4px #000,inset 2px 2px 8px 10px #fff,inset -3px 3px 8px 15px #0008, 6px 6px 12px #0006;
     border-radius: 44px;
     left: 15%;
 }
 
-img.top {
-    margin: 1.5em 0 -0.5e,;
-    }
+
 
 
 /* ************************************************************************** */
