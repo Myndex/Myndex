@@ -1,6 +1,4 @@
 # Myndex Articles & Links
-![traced eye ink2 outline](https://user-images.githubusercontent.com/42009457/168445281-756b662c-9de0-4e58-95ae-ead549afd1fd.svg)
-
 ## Featured Articles
 ### _On Readability & Contrast_
 - [**Better reading on the web**](https://uxdesign.cc/better-reading-on-the-web-c943c4cfc91a) Published by _UX Collective_ (uxdesign.cc). This article discusses and demonstrates the problems with automated testing and WCAG 2 contrast math, methods, and guidelines.
