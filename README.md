@@ -1,4 +1,6 @@
 # Myndex Articles & Links
+**QuickStart:** In an effort to pare down this mountain of material, here's a [link-tree](https://linktr.ee/Myndex) of the key links, with the most basic at the top: [_**linktr.ee/Myndex**_](https://linktr.ee/Myndex)
+
 ## Featured Articles
 ### _On Readability & Contrast_
 - [**Better reading on the web**](https://uxdesign.cc/better-reading-on-the-web-c943c4cfc91a) Published by _UX Collective_ (uxdesign.cc). This article discusses and demonstrates the problems with automated testing and WCAG 2 contrast math, methods, and guidelines.
@@ -20,10 +22,7 @@
 - [**Improving SEO with Redirects**](https://www.myndex.com/WEB/RedirectsForSEO) Your server's case sensitivity and URL redirect strategies can affect your search ranking!
 
 ----- 
-
-
 # Accurate Contrast<br>Using the APCA
-
 ## The Accessible Perceptual Contrast Algorithm
 - [**Why APCA?** ](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/WhyAPCA.md#why-the-new-contrast-method-apca) A brief introduction to WCAG_2 contrast problems and how APCA solves them.  
 - [**APCA in a Nutshell** ](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/APCA_in_a_Nutshell.md#the-accessible-perceptual-contrast-algorithm) Simple overview for using APCA.
@@ -101,29 +100,26 @@ These are some of the larger, in-depth issue threads & posts created on GitHub i
 -----
 ## Myndex on Other Sites
 
-In an effort to pare down this mountain of material, here's a [link-tree](https://linktr.ee/Myndex) of the most important links, with the most basic at the top:
-### _[linktr.ee/Myndex](https://linktr.ee/Myndex)_
-
 -----
-**_Top 3% on Stack Overflow!_**        
-<a href="https://stackexchange.com/users/14280387"><img src="https://stackexchange.com/users/flair/14280387.png" width="208" height="58" alt="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>      
+**_Myndex is top 3% on Stack Overflow!_**        
+<a href="https://stackexchange.com/users/14280387"><img src="https://stackexchange.com/users/flair/14280387.png" width="260" height="80" alt="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>      
 
 - **@ Mozilla:** [**Introduction to Color and Accessibility** ](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_Colors_and_Luminance) A white paper and tutorial on color and accessibility, with emphasis on web content.
 - @ Twitter: [MyndexResearch](https://twitter.com/MyndexResearch) New developments regarding APCA are usually posted here first.
 - **@ W3C:** [**Visual Contrast Group Wiki** ](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup) Early work on Visual Contrast which became APCA.
     - [Visual Contrast Whitepaper ](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup/Whitepaper) (Work in progress)
-    - [Visual Contrast Draft Conformance Model ](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup/Conformance) An early draft multi-score model for WCAG 3.
-        - Uses legacy lookup tables, Instead please see the current [**use cases thread** at the APCA repo](https://github.com/Myndex/SAPC-APCA/discussions/39)
+    - [Visual Contrast Draft Conformance Model ](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup/Conformance) An early draft multi-score model for WCAG 3. This uses a legacy lookup tables, Instead please see the current [**use cases thread** at the APCA repo](https://github.com/Myndex/SAPC-APCA/discussions/39)
     - [Resources: Glossary, Bibliography, ](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup/Resources) and links to team member materials. Includes additional designer examples and guidance.
+- @ Myndex•com: [The Perceptex Experiment ](https://www.myndex.com/WEB/Perception) Some of the very early (2019) studies into screen readability contrast are still here for viewing, for archival purposes. See CE17 which includes a brief white paper.
 - _Placeholders_
     - @ AndySomers•com: Design Portfolio _(coming soon)_
     - @ General Titles & Visual Effects: _(Links to articles/portfolio coming soon)_
         - Archives of older published articles & tutorials
-    - @ Research Gate: _(not particularly active there)_
+    - @ Research Gate: _(some early work but not particularly active there)_
     - @ Creative Cow: _(Links to articles & tutorials coming soon)_
 
 ------
-## The Lighter Side of Stuff...
+## The Lighter Side of Math & Photons...
 ### _The Art and Science of Applied Probability_
 In this career, I was using Applied Probability Methodologies for the Risk Assessment of short term ROI predictions related to high-variance cash-flow opportunities in finite-sized non-cooperative bidding groups where information is obliquely concealed as a function of multivariate strategies facilitating the predominately range-based tactics driven by randomized but nevertheless deterministic outcomes.    
 
@@ -131,9 +127,9 @@ _(…Sooo… this is more commonly known as Texas Hold ’Em Poker…)_
 
 -----
 ### _Welcome to the very bottom of the page!_
-Here at the very bottom of the page, we dare to ask the question, _"do two lights make a dark?"_
+Here at the very bottom of the page, we dare to ask the question, **_"do two lights make a dark?"_**
 
-Also, just how many color scientists does it take to rotationally engage the helical conducting threads of an illumination apparatus further composed of a sealed, evacuated glass envelope containing a plurality of filament holders which electrically connect and physically support a coiled electrically conducting but resistive filament preferentially fabricated from a tungsten alloy to the aforementioned helical threads, engaging into a helical conductiung receptacle, such that when an electrical power source of sufficient voltage and current is applied, said filiment shall be caused to incandesce and emit visible irradience?
+Also, just **how many color scientists** does it take to rotationally engage the helical conducting threads of an illumination apparatus further composed of a sealed, evacuated glass envelope containing a plurality of filament holders which electrically connect and physically support a coiled electrically conducting but resistive filament preferentially fabricated from a tungsten alloy to the aforementioned helical threads, engaging into a helical conductiung receptacle, such that when an electrical power source of sufficient voltage and current is applied, said filiment shall be caused to incandesce and emit visible irradience?
 
 ------
 
