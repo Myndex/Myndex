@@ -127,8 +127,8 @@ main {
   padding: 12px;
   overflow: visible;
   background: #e6e2d8;
-  border: 1.5em solid #f2f9ff;
-  border-radius: 2.5em;
+  border: 28px solid #f2f9ff;
+  border-radius: 48px;
 }
 
 header {
