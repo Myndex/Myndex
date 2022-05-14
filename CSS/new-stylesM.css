@@ -4,6 +4,7 @@
 
 .headBanner {
   position: relative;
+  z-index: 2;
   margin: 0;
   padding: 4px 12px;
 }
@@ -21,14 +22,14 @@
 
 .headBanner h1.bglite {
 position: absolute;
-z-index: -10;
-margin: -56px -32px 0;
+z-index: -2;
+margin: -32px;
 text-align: left;
 font-family: Audiowide, Oxanium, Montserrat, sans-serif;
 font-size: 11em;
 font-weight: 600;
 color: #e4e0dd;
-color: #3300aa0c;
+color: #3300aa0a;
 }
 
 
