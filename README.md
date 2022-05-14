@@ -1,5 +1,5 @@
 # Myndex Articles & Links
-## _Featured Articles_
+## Featured Articles
 ### _On Readability & Contrast_
 - [**Better reading on the web**](https://uxdesign.cc/better-reading-on-the-web-c943c4cfc91a) Published by _UX Collective_ (uxdesign.cc). This article discusses and demonstrates the problems with automated testing and WCAG 2 contrast math, methods, and guidelines.
 - Published at _Tangled Web_ (TangledWeb.xyz):
@@ -22,6 +22,7 @@
 ----- 
 <br>
 # Accurate Contrast<br>Using the APCA
+
 ## The Accessible Perceptual Contrast Algorithm
 - [**Why APCA?** ](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/WhyAPCA.md#why-the-new-contrast-method-apca) A brief introduction to WCAG_2 contrast problems and how APCA solves them.  
 - [**APCA in a Nutshell** ](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/APCA_in_a_Nutshell.md#the-accessible-perceptual-contrast-algorithm) Simple overview for using APCA.
@@ -100,12 +101,11 @@ These are some of the larger, in-depth issue threads & posts created on GitHub i
 ## Myndex on Other Sites
 
 In an effort to pare down this mountain of material, here's a [link-tree](https://linktr.ee/Myndex) of the most important links, with the most basic at the top:
-### https://linktr.ee/Myndex
+### _https://linktr.ee/Myndex_
 
 -----
-**Top 3% on Stack Overflow!**        
+**_Top 3% on Stack Overflow!_**        
 <a href="https://stackexchange.com/users/14280387"><img src="https://stackexchange.com/users/flair/14280387.png" width="208" height="58" alt="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>      
-And also active on several other Stack Exchange sites.
 
 - **@ Mozilla:** [**Introduction to Color and Accessibility** ](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_Colors_and_Luminance) A white paper and tutorial on color and accessibility, with emphasis on web content.
 - @ Twitter: [MyndexResearch](https://twitter.com/MyndexResearch) New developments regarding APCA are usually posted here first.
@@ -114,11 +114,12 @@ And also active on several other Stack Exchange sites.
     - [Visual Contrast Draft Conformance Model ](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup/Conformance) An early draft multi-score model for WCAG 3.
         - Uses legacy lookup tables, Instead please see the current [**use cases thread** at the APCA repo](https://github.com/Myndex/SAPC-APCA/discussions/39)
     - [Resources: Glossary, Bibliography, ](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup/Resources) and links to team member materials. Includes additional designer examples and guidance.
-- @ AndySomers.com: Design Portfolio _(coming soon)_
-- @ General Titles & Visual Effects: _(Links to articles/portfolio coming soon)_
-    - Archives of older published articles & tutorials
-- @ ResearchGate _(not particularly active there)_
-- @ Creative Cow: _(Links to articles & tutorials coming soon)_
+- _Placeholders_
+    - @ AndySomers•com: Design Portfolio _(coming soon)_
+    - @ General Titles & Visual Effects: _(Links to articles/portfolio coming soon)_
+        - Archives of older published articles & tutorials
+    - @ Research Gate: _(not particularly active there)_
+    - @ Creative Cow: _(Links to articles & tutorials coming soon)_
 
 ------
 ## The Lighter Side of Stuff...
@@ -128,9 +129,14 @@ In this career, I was using Applied Probability Methodologies for the Risk Asses
 _(…Sooo… this is more commonly known as Texas Hold ’Em Poker…)_
 
 -----
-### _Welcome to the very bottom of the page_
+### _Welcome to the very bottom of the page!_
 Here at the very bottom of the page, we dare to ask the question, _"do two lights make a dark?"_
 
 Also, just how many color scientists does it take to rotationally engage the helical conducting threads of an illumination apparatus further composed of a sealed, evacuated glass envelope containing a plurality of filament holders which electrically connect and physically support a coiled electrically conducting but resistive filament preferentially fabricated from a tungsten alloy to the aforementioned helical threads, engaging into a helical conductiung receptacle, such that when an electrical power source of sufficient voltage and current is applied, said filiment shall be caused to incandesce and emit visible irradience?
 
 ------
+<br>
+<img width="520" alt="APCA—The Revolution Will Be Readable" src="images/APCAcolor4.png">
+<br><br>
+
+
