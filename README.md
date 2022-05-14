@@ -137,6 +137,6 @@ Also, just how many color scientists does it take to rotationally engage the hel
 ------
 
 <img class="centered" width="520" alt="APCA—The Revolution Will Be Readable" src="images/APCAcolor4.png">
-<br>
+
 
 

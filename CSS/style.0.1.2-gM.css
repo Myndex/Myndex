@@ -2867,6 +2867,13 @@ details[open] .twistUp svg {
   background-repeat: no-repeat;
 }
 
+img.centered {
+  position: relative;
+  text-align: center;
+  margin: 12px auto;
+  box-shadow: 4px 4px 8px #30aa;
+}
+
 article h1, article h2, article h3,
 article h1 a, article h2 a, article h3 a { text-align: center; }
 
