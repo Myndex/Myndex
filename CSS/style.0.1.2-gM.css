@@ -169,9 +169,10 @@ header.sticky {
 
 footer {
   margin: 0;
-  padding: 2em;
+  padding: 1em 1.5em;
   color: #d93;
   background-color: #103;
+  border-radius: 8px;
 }
 footer a {
   color: #db3;
@@ -233,7 +234,17 @@ h1, h2, h3, h4, h5, h6,
   font-weight: bold;
   font-style: normal;
 }
-
+  h2,
+  h3 {
+    font-size: 1.8em;
+    white-space: normal;
+  }
+  h3 {
+    font-size: 1.5em;
+    font-weight: 600;
+    white-space: normal;
+  }
+  
 a:link {
   color: #22b;
   text-decoration: underline;
