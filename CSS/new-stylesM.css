@@ -4,20 +4,28 @@
 
 .headBanner {
   position: relative;
-  margin: 0 auto;
-  padding: 8px 24px;
+  margin: 12px auto;
+  padding: 0;
 }
-.headBanner h1, section h1 {
+.headBanner h1 {
+  margin: 0 -18px 32px;
   text-align: left;
   font-family: Audiowide, Oxanium, Montserrat, sans-serif;
-  font-size: 4em;
+  font-size: 5.5em;
+  font-weight: 600;
+  color: #30a5;
+  }
+section h1 {
+  margin: 0.8em -18px 0.25em;
+  text-align: left;
+  font-family: Audiowide, Oxanium, Montserrat, sans-serif;
+  font-size: 2.4em;
   font-weight: 600;
   }
-section h1 { font-size: 2.4em; }
-  
+
 .headBanner h2 {
   max-width: 500px;
-  padding: 8px 24px;
+  padding: 8px 0 24px;
   text-align: left;
   font-family: Oxanium, Montserrat, sans-serif;
   font-size: 1.5em;
