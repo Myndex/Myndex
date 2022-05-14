@@ -7,7 +7,7 @@
   margin: 0;
   padding: 4px 12px;
 }
-.headBanner h1, .headBanner h1 a {
+.headBanner h1 {
   margin: -12px 0 0;
   text-align: left;
   font-family: Audiowide, Oxanium, Montserrat, sans-serif;
@@ -15,12 +15,16 @@
   font-weight: 600;
   color: #30a5;
   }
+.headBanner h1 a { font-size: 1em; text-decoration: none; }
+.headBanner h1 a:hover { font-size: 1em; text-decoration: none; color: #30aa; }
+
 section h1 {
   margin: -12px 0;
   text-align: center;
   font-family: Audiowide, Oxanium, Montserrat, sans-serif;
-  font-size: 4em;
+  font-size: 3.8em;
   font-weight: 600;
+  color: #30ab;
   }
 
 .headBanner h2 {
