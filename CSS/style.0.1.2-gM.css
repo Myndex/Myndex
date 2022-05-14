@@ -366,8 +366,8 @@ footer a:visited:hover {
 }
 
 a.myndexButton.top {
-    margin: 1.5em 0 -0.5em;
-    }
+  margin: 3.5em 0 -1.9em;
+}
 
 .myndexButton:hover, a.myndexButton:hover, a.myndexButton:visited:hover {
   color: #def;
