@@ -1,5 +1,5 @@
 # Myndex Articles & Links
-## _Featured Articles by Andrew Somers_
+## _Featured Articles_
 ### _On Readability & Contrast_
 - [**Better reading on the web**](https://uxdesign.cc/better-reading-on-the-web-c943c4cfc91a) Published by _UX Collective_ (uxdesign.cc). This article discusses and demonstrates the problems with automated testing and WCAG 2 contrast math, methods, and guidelines.
 - Published at _Tangled Web_ (TangledWeb.xyz):
