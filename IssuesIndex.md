@@ -55,4 +55,4 @@ Some of the larger and in-depth issue threads or posts I've created or have been
 - [**Using APCA with other fonts**](https://github.com/Myndex/SAPC-APCA/discussions/28#discussioncomment-1610289) Draft method for font weight conformance.
 
 <hr>
-<img class="centered top" alt="APCA—The Revolution Will Be Readable" src="images/APCAcolor4.png">
+<img class="centered" alt="APCA—The Revolution Will Be Readable" src="images/APCAcolor4.png">
