@@ -382,7 +382,12 @@ a.myndexButton.top {
   border-color:#2222ff;
   box-shadow: 3px 3px 8px #46b9;
   
-  
+color: #edf;
+background: linear-gradient(rgba(153, 21, 255, 0.68) 25%, rgba(119, 0, 200, 0.63));
+background-color: rgba(74, 0, 255, 0.58);
+border-color: rgba(169, 0, 255, 0.9);
+box-shadow: 2px 2px 6px #a928ffd4;
+}
 }
 
 .myndexButton:active, a.myndexButton:active {
@@ -390,6 +395,9 @@ a.myndexButton.top {
   color: #fff;
   border-color:#2222ff;
   box-shadow: 3px 3px 8px #46d9;
+color: #fff;
+border-color: rgba(198, 0, 251, 0.83);
+box-shadow: 3px 3px 8px #e900ff96;
 }
 
 
