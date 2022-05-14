@@ -1,3 +1,7 @@
+---
+layout: simple
+---
+
 # Issue Threads & Comments
 Some of the larger and in-depth issue threads or posts I've created or have been involved in on GitHub, which may contain useful information and research. Some of the information here may be superceeded as some of these thread date back to the beginnings of the contrast research project. I'm making this list largely for myself to collate the still relevant information into a single FAQ or simielar explainer document.
 
