@@ -133,7 +133,11 @@ section h1 {
   padding: 0 0 0 0.167vw;
   font-size: 4vw;
 }
-  
+
+  #svg16 {
+    display: none;
+  }
+ 
 }
 
 
