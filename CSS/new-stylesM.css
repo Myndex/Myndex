@@ -60,8 +60,24 @@ section h1 {
   }
   
 
+.perceptex {
+  padding: 0;
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
+  color: rgb(51, 0, 170);
+}
 
-
+.perceptex .he1 {
+  margin: 0 0 -15px;
+  padding: 0;
+  font-size: 46px;
+}
+.perceptex .he2 {
+  margin: 0;
+  padding: 0 0 0 1.5px;
+  font-size: 37px;
+}
 
 /* ************************************************************************** */
 /* *****   MEDIA QUERIES   ************************************************** */
@@ -73,12 +89,12 @@ section h1 {
 
 @media (max-width: 899.99px) {
   
-.wrapper { padding: 0.5vw 1.5vw 1.5vw; }
+.wrapper { padding: 0.5vw 1vw 1vw; }
 
-#main_content { padding: 1.5vw; }
+#main_content { padding: 1vw; }
 
 .headBanner {
-  padding: 0.5vw 1.5vw;
+  padding: 0.5vw 1vw;
 }
 .headBanner h1 {
   margin: -1.5vw 0 0;
@@ -97,13 +113,27 @@ section h1 {
   
 #issue-threads--comments {font-size: 2em;}
 #accurate-contrastusing-the-apca { margin: -1.5vw 0; font-size: 2em;}
-#myndex-articles--links > p {margin: 0.3vw 4vw 1.5vw 2.5vw;}
+#myndex-articles--links > p {margin: 0.3vw 2vw 1.5vw 2vw;}
 
 .headBanner h2 {
-  max-width: 66vw;
+  max-width: 80vw;
   margin: 0;
-  padding: 0 1.5vw;
+  padding: 0 1vw;
   }
+  
+  
+
+.perceptex .he1 {
+  margin: 0 0 -1.67vw;
+  padding: 0;
+  font-size: 5vw;
+}
+.perceptex .he2 {
+  margin: 0;
+  padding: 0 0 0 0.167vw;
+  font-size: 4vw;
+}
+  
 }
 
 
@@ -124,27 +154,6 @@ display: inline-block;
   -ms-transform: scale(-1, 1);
   transform: scale(-1, 1);
 }
-
-
-.perceptex {
-  padding: 0;
-  text-align: center;
-  font-family: Montserrat, sans-serif;
-  font-weight: 200;
-  color: rgb(51, 0, 170);
-}
-
-.perceptex .he1 {
-  margin: 0 0 -15px;
-  padding: 0;
-  font-size: 46px;
-}
-.perceptex .he2 {
-  margin: 0;
-  padding: 0 0 0 1.5px;
-  font-size: 37px;
-}
-
 
 
 
