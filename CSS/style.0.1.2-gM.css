@@ -398,12 +398,20 @@ border-radius: 4px;
 
 @media (max-width: 639.99px) {
 
-  body { font-size: 0.65rem; padding: 0; }
+  body { font-size: 1rem; padding: 0; 
+  background: #f2f9ff;
+	}
 
   .wrapper {
     width: 100vw;
     overflow: scroll;
-    border: 8px solid #def;
+    border: 8px solid #f2f9ff;
+    width: 100vw;
+  margin: 0;
+  padding: 1vw;
+    overflow: scroll;
+    border: 1vw solid #f2f9ff;
+  border-radius: 5vw;	
   }
 img.centered {
     position: relative;
@@ -418,15 +426,22 @@ img.centered {
 }
 
 
-@media (min-width: 540px) and (max-width: 899.99px) {
+@media (min-width: 640px) and (max-width: 899.99px) {
   
-  body { padding: 0; font-size: 2vw; }
+  body { padding: 0;
+  font-size: 1rem;
+  background: #f2f9ff;
+	}
 
   .wrapper {
     width: 100vw;
+  margin: 0;
+  padding: 2vw;
     overflow: scroll;
-    border: 8px solid #def;
+    border: 2vw solid #f2f9ff;
+  border-radius: 5vw;	    
   }
+	
 img.centered {
     position: relative;
     margin: 0 2.5vw;
@@ -434,7 +449,7 @@ img.centered {
     box-shadow: inset 0 0 8px 4px #000d,inset 2px 2px 8px 10px #fff,inset -3px 3px 8px 15px #0008, 6px 6px 12px #0006;
     border-radius: 10vw;
     left: 0;
-}
+  }
 }
 
 @media (min-width: 900px) {
