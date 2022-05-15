@@ -82,10 +82,13 @@ section h1 {
 /* ************************************************************************** */
 /* *****   MEDIA QUERIES   ************************************************** */
 /* ************************************************************************** */
-
 /* ************************************************************************** */
 /* *****   MEDIA QUERIES   ************************************************** */
 /* ************************************************************************** */
+/* ************************************************************************** */
+/* *****   MEDIA QUERIES   ************************************************** */
+/* ************************************************************************** */
+
 
 @media (max-width: 899.99px) {
   
@@ -98,27 +101,28 @@ section h1 {
 }
 .headBanner h1 {
   margin: -1.5vw 0 0;
-  font-size: 10vw;
+  font-size: 12vw;
   }
 
 .headBanner h1.bglite {
 margin: -3.5vw;
-font-size: 20vw;
+font-size: 21vw;
 }
 
 section h1 {
   margin: -1.5vw 0;
-  font-size: 2em;
+  font-size: 8vw;
   }
   
-#issue-threads--comments {font-size: 2em;}
-#accurate-contrastusing-the-apca { margin: -1.5vw 0; font-size: 2em;}
+#issue-threads--comments {font-size: 8vw;}
+#accurate-contrastusing-the-apca { margin: -1.5vw 0; font-size: 8vw;}
 #myndex-articles--links > p {margin: 0.3vw 2vw 1.5vw 2vw;}
 
 .headBanner h2 {
   max-width: 80vw;
   margin: 0;
   padding: 0 1vw;
+  font-size: 3.5vw;
   }
   
   
