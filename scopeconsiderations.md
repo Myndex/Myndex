@@ -3,7 +3,6 @@ layout: simple
 ---
 
 
----------------------------
 # _SCOPE TERMINOLOGY_
 
 ## Overall Hierarchical Scoping
