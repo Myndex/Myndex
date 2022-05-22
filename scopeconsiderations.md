@@ -1,3 +1,8 @@
+---
+layout: simple
+---
+
+
 ---------------------------
 # _SCOPE TERMINOLOGY_
 
