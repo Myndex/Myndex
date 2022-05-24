@@ -1,1 +1,101 @@
-theme: jekyll-theme-merlot
+# Site settings
+title: Myndex on GitHub
+author: Myndex Research
+  name: Andrew Somers
+  email: perception@myndex.com
+description: "Myndex Research and Development — Creators of APCA"
+
+
+
+defaults:
+  - scope:
+      path: "/images"
+    values:
+      image: true
+
+  -
+    scope:
+      path: "" 
+    values:
+      layout: "simple"
+      
+ignore_theme_config: true
+
+# ---
+# layout: home 
+# ---
+
+# --- General options --- #
+
+# Select which social network share links to show in posts
+share-links-active:
+  twitter: true
+
+# How to display the link to your website in the footer
+url-pretty: "myndex.com"
+
+# Each post must be given a filename following the pattern:
+
+#  yyyy-mm-dd-title.md
+
+# Build settings     _posts 
+
+# remote_theme: jekyll/minima
+
+
+# theme: jekyll-theme-merlot
+
+# --- Required options --- #
+
+navbar-links:
+  About Me: "Information Du Jour"
+  Resources:
+    - MyndexResearch on Twitter: "https://twitter.com/MyndexResearch"
+    - Andrew Somers on Medium: "https://AndrewSomers.com/"
+    - The APCA tool: "https://www.myndex.com/APCA/"
+
+# --- Logo --- #
+
+# Image to show in the navigation bar - works best with a square image
+avatar: "/images/Myndex_eye_cielab.jpg"
+
+round-avatar: true
+
+# --- Footer social media links --- #
+
+social-network-links:
+
+  github: Myndex
+  twitter: myndexresearch
+#  patreon: DeanAttali
+#  youtube: c/daattali
+  medium: Andrew Somers
+#  reddit: yourname
+#  linkedin: yourname
+#  xing: yourname
+  stackoverflow: "10315269/myndex" 
+#  snapchat: yourname
+#  instagram: yourname
+#  spotify: yourname
+#  telephone: +1234567
+#  steam: yourname
+#  twitch: yourname
+#  yelp: yourname
+#  telegram: yourname
+#  calendly: yourname
+#  mastodon: instance.url/@username
+   ORCID: 0000-0001-6574-3997
+#  google-scholar: your google scholar
+#  discord: invite/invite_code or users/userid 
+#  kaggle: yourname
+#  hackerrank: yourname
+
+
+
+# Exclude these files from production site
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+
