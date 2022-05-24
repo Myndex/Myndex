@@ -1,3 +1,7 @@
+theme: jekyll-theme-merlot
+
+ignore_theme_config: true
+
 # Site settings
 title: Myndex on GitHub
 author: Myndex Research
@@ -6,7 +10,6 @@ author: Myndex Research
 description: "Myndex Research and Development — Creators of APCA"
 
 
-ignore_theme_config: true
 
 # ---
 # layout: home 
