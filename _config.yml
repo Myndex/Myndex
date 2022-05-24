@@ -6,19 +6,6 @@ author: Myndex Research
 description: "Myndex Research and Development — Creators of APCA"
 
 
-
-defaults:
-  - scope:
-      path: "/images"
-    values:
-      image: true
-
-  -
-    scope:
-      path: "" 
-    values:
-      layout: "simple"
-      
 ignore_theme_config: true
 
 # ---
