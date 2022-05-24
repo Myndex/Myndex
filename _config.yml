@@ -1,11 +1,8 @@
 theme: jekyll-theme-merlot
 
-# ignore_theme_config: true
-
-# Site settings
-title: Myndex on GitHub
-author: Myndex Research
-  name: Andrew Somers
-  email: perception@myndex.com
-description: "Myndex Research and Development — Creators of APCA"
-
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
