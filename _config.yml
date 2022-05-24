@@ -1,6 +1,6 @@
 theme: jekyll-theme-merlot
 
-ignore_theme_config: true
+# ignore_theme_config: true
 
 # Site settings
 title: Myndex on GitHub
