@@ -5135,7 +5135,7 @@ REVISED: reduced the #ff channels to #f8 in most cases.
 
 .wrapper { padding: 4px 12px 12px; }
 
-#main_content { padding: 0 24px; }
+#main_content { padding: 36px 24px 12px; }
 
 .headBanner {
   position: relative;
