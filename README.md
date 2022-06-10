@@ -129,7 +129,7 @@ _(…Sooo… this is more commonly known as Texas Hold ’Em Poker…)_
 ### _Welcome to the very bottom of the page!_
 Here at the very bottom of the page, we dare to ask the question, **_"do two lights make a dark?"_**
 
-Also, just **how many color scientists** does it take to rotationally engage the helical conducting threads of an illumination apparatus further composed of a sealed, evacuated glass envelope containing a plurality of filament holders which electrically connect and physically support a coiled electrically conducting but resistive filament preferentially fabricated from a tungsten alloy to the aforementioned helical threads, engaging into a helical conducting receptacle, such that when an electrical power source of sufficient voltage and current is applied, said filament shall be caused to incandesce and emit visible irradiance?
+Also, just **how many color scientists** does it take to rotationally engage the helical conducting threads of an illumination apparatus further composed of a sealed, evacuated glass envelope containing a plurality of filament holders which electrically connect and physically support a coiled electrically conducting but resistive filament preferentially fabricated from a tungsten alloy to the aforementioned helical threads, engaging into a helical conducting receptacle, such that when an electrical power source of sufficient voltage and current is applied, said filament shall be caused to incandesce and emit visible irradiance? The answer is "none" because they fell asleep reading this joke.
 
 ------
 
