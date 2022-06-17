@@ -1,4 +1,4 @@
-# Myndex Articles & Links
+# Myndex Color and Contrast Resources
 **QuickStart:** In an effort to pare down this mountain of material, here's a [link-tree](https://linktr.ee/Myndex) of the key links, with the most basic at the top: [_**linktr.ee/Myndex**_](https://linktr.ee/Myndex)
 
 ## Featured Articles
