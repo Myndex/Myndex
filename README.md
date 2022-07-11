@@ -26,8 +26,27 @@
 ## The Accessible Perceptual Contrast Algorithm
 - [**Why APCA?** ](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/WhyAPCA.md#why-the-new-contrast-method-apca) A brief introduction to WCAG_2 contrast problems and how APCA solves them.  
 - [**APCA in a Nutshell** ](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/APCA_in_a_Nutshell.md#the-accessible-perceptual-contrast-algorithm) Simple overview for using APCA.
-- [**SARCAM Standard Observer Model** ](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/StandardObserverModel.md#s-luv-accessible-readable-color-appearance-model-sarcam) (DRAFT) A standard observer for accessibility on self illuminated monitors and devices.
-- [**Accessibility Statement** ](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/accessibilitystatement.md#apca-accessibility-statement) For APCA beta users, a site accessibility statement.
+- [**APCA FAQ**](https://git.apcacontrast.com/documentation/APCA_FAQ)
+
+### _APCA DOCUMENTATION_
+- [**Main Readme Doc** (HTML version)](https://git.apcacontrast.com/documentation/README) Includes the math and walkthroughs, and additional resources.
+
+### _Sciencey Stuff!_
+Maths! Vision Science! Photons on Parade!
+- [The base APCA-W3 formula](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/APCA-W3-LaTeX.md) in LaTeX math for your viewing and calculating pleasure.
+- [Regarding Exponents](https://git.apcacontrast.com/documentation/regardingexponents) Some notes and explaination regarding the powercurve exponents.
+- [Standard Observer Model](https://git.apcacontrast.com/documentation/StandardObserverModel) Draft standardized envirnment.
+- [Visual Contrast Draft Whitepaper](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup/Whitepaper) (Work in progress)
+
+### _For Developers_
+- [RepoList](https://git.apcacontrast.com/documentation/repoList)
+- [Important Change Notices](https://git.apcacontrast.com/documentation/ImportantChangeNotices)
+- [How to Contribute](https://git.apcacontrast.com/documentation/CONTRIBUTING)
+
+### _Related Repositories_
+- [**_APCA W3 Repository_**](https://github.com/Myndex/apca-w3) The W3 version for web content
+- [**_Bridge PCA Repository_**](https://github.com/Myndex/bridge-pca) Bridge&nbsp;PCA - the WCAG&nbsp;2 compatible version
+- [**_Color Parsley Repository_**](https://github.com/Myndex/colorparsley) Fast and easy color string parsing — a NodeJS dependency for many of the SAPC libraries.
 
 ### _APCA Discussion Forum Threads_
 - [**APCA Use Cases**, Conformance, Research, and Glossary ](https://github.com/Myndex/SAPC-APCA/discussions/39#discussion-3757102) Discussion of use cases for text and non-text elements, and references to the relevant research. Conformance considerations and rational basis for guidelines.
