@@ -24,8 +24,8 @@
 ----- 
 # Accurate Contrast<br>Using the APCA
 ## The Accessible Perceptual Contrast Algorithm
-- [**Why APCA?** ](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/WhyAPCA.md#why-the-new-contrast-method-apca) A brief introduction to WCAG_2 contrast problems and how APCA solves them.  
-- [**APCA in a Nutshell** ](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/APCA_in_a_Nutshell.md#the-accessible-perceptual-contrast-algorithm) Simple overview for using APCA.
+- [**Why APCA?** ](https://git.apcacontrast.com/documentation/WhyAPCA) A brief introduction to WCAG_2 contrast problems and how APCA solves them.  
+- [**APCA in a Nutshell** ](https://git.apcacontrast.com/documentation/APCA_in_a_Nutshell) Simple overview for using APCA.
 - [**APCA FAQ**](https://git.apcacontrast.com/documentation/APCA_FAQ)
 
 ### _APCA DOCUMENTATION_
@@ -77,7 +77,7 @@ The problems of 4.5:1 as a target for a guideline not only impact those with imp
 -----
 ## Related Repositories
 - [**SAPC-APCA**](https://github.com/Myndex/SAPC-APCA) The main repository for the research and development of the new contrast method and algorithm being developed for the W3/AGWG accessibility guidelines, and for other standards and applications. This is the primary source for all things related to SAPC and APCA.
-- [**SARCAM**](https://github.com/Myndex/SAPC-APCA) Coming Soon!
+- [**SACAM**](https://github.com/Myndex/SAPC-APCA) Coming Soon!
 - [**APCA W3**](https://github.com/Myndex/apca-w3) This is the specific version of the APCA licensed to the W3 for the use in web accessibility guidelines such as the WCAG_3 guidelines.
 - [**Bridge PCA**](https://github.com/Myndex/bridge-pca) BPCA is designed as a drop-in replacement for WCAG_2 contrast that is backwards compatible, but using APCA technology, to "bridge" toward the future of readability contrast.
 - [**Fancy Font Flipping** ](https://github.com/Myndex/fancyfontflipping/blob/master/README.md#fancy-font-flipping) Fancy Font Flipping is a demo I first put up in CodePen to illustrate the issues with flipping the text color from black to white based on a given estimated background luminance.
@@ -137,6 +137,8 @@ These are some of the larger, in-depth issue threads & posts created on GitHub i
     - @ Research Gate: _(some early work but not particularly active there)_
     - @ Creative Cow: _(Links to articles & tutorials coming soon)_
 
+<img class="centered" width="520" alt="APCA—The Revolution Will Be Readable" src="images/APCAcolor4.png">
+
 ------
 ## The Lighter Side of Math & Photons...
 ### _The Art and Science of Applied Probability_
@@ -148,11 +150,7 @@ _(…Sooo… this is more commonly known as Texas Hold ’Em Poker…)_
 ### _Welcome to the very bottom of the page!_
 Here at the very bottom of the page, we dare to ask the question, **_"do two lights make a dark?"_**
 
-Also, just **how many color scientists** does it take to rotationally engage the helical conducting threads of an illumination apparatus further composed of a sealed, evacuated glass envelope containing a plurality of filament holders which electrically connect and physically support a coiled electrically conducting but resistive filament preferentially fabricated from a tungsten alloy to the aforementioned helical threads, engaging into a helical conducting receptacle, such that when an electrical power source of sufficient voltage and current is applied, said filament shall be caused to incandesce and emit visible irradiance? The answer is "none" because they fell asleep reading this joke.
+Also, just **how many color scientists** does it take to rotationally engage the helical conducting threads of an illumination apparatus further composed of a sealed, evacuated glass envelope containing a plurality of filament holders which electrically connect and physically support a coiled electrically conducting but resistive filament preferentially fabricated from a tungsten alloy to the aforementioned helical threads, engaging into a helical conducting receptacle, such that when an electrical power source of sufficient voltage and current is applied, said filament shall be caused to incandesce and emit visible irradiance? <br>
+A: The answer is "none" because they fell asleep reading this joke.
 
 ------
-
-<img class="centered" width="520" alt="APCA—The Revolution Will Be Readable" src="images/APCAcolor4.png">
-
-
-
