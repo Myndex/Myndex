@@ -7,7 +7,8 @@
 - [The Realities And Myths Of Contrast And Color](https://www.smashingmagazine.com/2022/09/realities-myths-contrast-color/) An in-depth primer to vision, color, and contrast for design, with an emphasis on typography and reqadability needs. Pubished in Smashing Magazine.
 - [**Better reading on the web**](https://uxdesign.cc/better-reading-on-the-web-c943c4cfc91a) Published by _UX Collective_ (uxdesign.cc). This article discusses and demonstrates the problems with automated testing and WCAG 2 contrast math, methods, and guidelines.
 - Published at _Tangled Web_ (TangledWeb.xyz):
-    - [**Please Stop Using Grey Text**](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8) debunking one of the worst myths regarding design contrast.
+    - [Busy Background Breaks Bulletin](https://tangledweb.xyz/busy-background-breaks-bulletin-f4ff4bf67e5a) Examples of how to destroy readability by choosing the wrong image as a background. And also, how to fix it.
+    - [**Please Stop Using Grey Text**](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8) Debunking one of the worst myths regarding design contrast. THis article went viral in early 2022.
     - [**What's Red & Black & Also Not Read?** ](https://tangledweb.xyz/whats-red-black-also-not-read-573b9c0a97ed) Do the WCAG 2 Contrast Guidelines help users with color vision issues? While this is a widely held belief, the truth may surprise you. 
     - [**A Contrast of Errors**](https://tangledweb.xyz/a-contrast-of-errors-373c2665d42a) A look into the history of the WCAG 2 contrast guidelines and some of the problems created by them, and a discussion of the proposed replacement, the APCA (Accessible Perceptual Contrast Algorithm).
 
