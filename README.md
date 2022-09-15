@@ -3,6 +3,8 @@
 
 ## Featured Articles
 ### _On Readability & Contrast_
+
+- [The Realities And Myths Of Contrast And Color](https://www.smashingmagazine.com/2022/09/realities-myths-contrast-color/) An in-depth primer to vision, color, and contrast for design, with an emphasis on typography and reqadability needs. Pubished in Smashing Magazine.
 - [**Better reading on the web**](https://uxdesign.cc/better-reading-on-the-web-c943c4cfc91a) Published by _UX Collective_ (uxdesign.cc). This article discusses and demonstrates the problems with automated testing and WCAG 2 contrast math, methods, and guidelines.
 - Published at _Tangled Web_ (TangledWeb.xyz):
     - [**Please Stop Using Grey Text**](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8) debunking one of the worst myths regarding design contrast.
