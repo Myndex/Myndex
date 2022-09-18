@@ -1,5 +1,6 @@
 # Accurate Contrast<br>Using the APCA
-**QuickStart:** In an effort to pare down this mountain of material, here's a [link-tree](https://linktr.ee/Myndex) of the key links, with the most basic at the top: [_**linktr.ee/Myndex**_](https://linktr.ee/Myndex)
+## *QuickStart:*
+In an effort to pare down this mountain of material, here's a [link-tree](https://linktr.ee/Myndex) of the key links, with the most basic at the top: [_**linktr.ee/Myndex**_](https://linktr.ee/Myndex)
 
 ## The Accessible Perceptual Contrast Algorithm
 - [**Basic Tool and Quickstart, for users**](https://www.myndex.com/APCA/) The basic APCA tool with live font examples and general design guidance for designers.
@@ -69,6 +70,8 @@ The problems of 4.5:1 as a target for a guideline not only impact those with imp
 - [**Color Vision Deficiency Simulator**](https://www.myndex.com/CVD/) This simulator demonstrates the way someone with a Color Vision Deficiency _(incorrectly labeled "color blind")_ sees colors. This simulator uses the clinically accurate Brettel model of CVD simulation.
 
 -----
+
+     
 # Myndex Color & Contrast Resources
 ## Featured Articles
 ### _On Readability & Contrast_
