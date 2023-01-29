@@ -2,6 +2,8 @@
 ## *QuickStart:*
 In an effort to pare down this mountain of material, here's a [link-tree](https://linktr.ee/Myndex) of the key links, with the most basic at the top: [_**linktr.ee/Myndex**_](https://linktr.ee/Myndex)
 
+If you want the latest information or want to ask questions, [ ***follow on Twitter*** ](https://twitter.com/MyndexResearch)
+
 ## The Accessible Perceptual Contrast Algorithm
 - [**Basic Tool and Quickstart, for users**](https://www.myndex.com/APCA/) The basic APCA tool with live font examples and general design guidance for designers.
 
