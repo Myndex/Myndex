@@ -1,10 +1,11 @@
 ---
 layout: simple
 ---
+
 # QUESTION
 
-## Q: Where did the WCAG 2 contrast formula and the 4.5:1 threshold come from?
 
+## Q: Where did the WCAG 2 contrast formula and the 4.5:1 threshold come from?
 
 ## *Short Answer*
 
@@ -15,7 +16,7 @@ The WCAG 2.x addition of 0.05 to the simple ratio calculation was intended to se
 **2)** The justification for the value 0.05 is based on *"Typical Viewing veiling glare is specified to be 5% of the maximum white-luminance level"* on the front of the glass CRT display, as recited under "typical" viewing conditions in IEC 61966-2-1.
 
 
-# Longer Answer
+#@ Longer Answer
 
 WCAG 2.0 was developed by W3C WAI AGWG (which is short for *"World Wide Web Consortium Web Accessibility Initiative Accessibility Guidelines Working Group"*) And includes a number of a "success criteria" (SC) That are intended to improve accessibility for web based content.
 
