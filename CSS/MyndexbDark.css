@@ -348,7 +348,7 @@ color: var(--modeTextColor, #000);
     /*  HEADINGS  */
 
       --modeH1color: #83a5ffba;
-        --modeH2color: var(--modeH1color);
+        --modeH2color: var(#83a8ff);
         --modeH3color: var(--modeH1color);
         --modeH4color: var(--modeH1color);
         --modeH5color: var(--modeH1color);
