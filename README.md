@@ -46,7 +46,7 @@ Maths! Theory! Vision Science! Photons on Parade!
 ### _Peer reviews of APCA and third party <br>comparisons of APCA vs WCAG&nbsp;2_
 There are several independent researchers evaluating APCA, and additional third party comparitive reviews that include demonstrations of the functional superiority to existing methods. The first two listed below are technical reviews by peers evaluating the APCA math and methods, and in comparison to WCAG 2 contrast methods and guidelines. APCA is open for peer review and discussion—please contact us if interested in performing an evaluation.
 
-- [_Journal Paper_ APCA and Huetone for Color Accessibility](https://link.springer.com/chapter/10.1007/978-3-031-35992-7_53) of User Interfaces, by Kirill Ulitin. Part of the Communications in Computer and Information Science book series (CCIS,volume 1833)
+- _Peer Reviewed Journal/Book Paper:_ [Applying APCA and Huetone for Color Accessibility](https://link.springer.com/chapter/10.1007/978-3-031-35992-7_53) of User Interfaces, by Kirill Ulitin. Part of the Communications in Computer and Information Science book series (CCIS,volume 1833)
 - [_Conference Presentation_ (video)](https://www.youtube.com/watch?v=Da1Jmi7wgCY&t=3976s): **Vicent Sanchis**, PhD in optometry and a #a11y specialist, recently gave this great presentation on contrast at WCEU 2022, covering both WCAG 2 and APCA, with comparisons.
      - The general contrast presentation starts @ [1:06:20 - Click Here](https://youtu.be/Da1Jmi7wgCY?t=3976)
      - Then @ [1:21:30 are comparisons](https://youtu.be/Da1Jmi7wgCY?t=4350)
