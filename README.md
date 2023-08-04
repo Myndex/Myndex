@@ -8,9 +8,9 @@ In an effort to pare down this mountain of material, here's a [link-tree](https:
 
 
 ### _General Overview_
-- [**Easy Intro to APCA?** ](https://git.apcacontrast.com/documentation/APCAeasyIntro) This is the simple plain-language introduction to APCA that you've been looking for.
-- [**Why APCA?** ](https://git.apcacontrast.com/documentation/WhyAPCA) This brief introduction into APCA describes how it solves the problems of WCAG_2 contrast in simple terms.
-- [**APCA in a Nutshell** ](https://git.apcacontrast.com/documentation/APCA_in_a_Nutshell) Simple overview for using APCA, including simple use-case based conformance levels.
+- [**Easy Intro to APCA?** ](https://git.apcacontrast.com/documentation/APCAeasyIntro) This is the simple plain-language introduction to APCA that you've been looking for. This is a simpler version of _WhyAPCA_ below.
+- [**Why APCA?** ](https://git.apcacontrast.com/documentation/WhyAPCA) This brief introduction into APCA describes how it solves the problems of WCAG_2 contrast. See _Easy Intro to APCA?_ for the plain language version. 
+- [**APCA in a Nutshell** ](https://git.apcacontrast.com/documentation/APCA_in_a_Nutshell) Basic overview for using APCA, including simple use-case based conformance levels.
 - [**APCA FAQ**](https://git.apcacontrast.com/documentation/APCA_FAQ) APCA Frequenty Asked Questions (in development)
 
 ### _APCA DOCUMENTATION_
