@@ -1,4 +1,4 @@
-# Accurate Contrast<br>Using the APCA
+# Accurate Contrast<br>Using the APC<span class="flipH">A</span>
 ## *QuickStart:*
 In an effort to pare down this mountain of material, here's a [link-tree](https://linktr.ee/Myndex) of the key links, with the most basic at the top: [_**linktr.ee/Myndex**_](https://linktr.ee/Myndex)
 
@@ -56,31 +56,43 @@ Maths! Theory! Vision Science! Photons on Parade!
 - [**Inline text links theory and practice** ](https://github.com/Myndex/SAPC-APCA/discussions/65) Draft guidance regarding link identification.
 - [**WCAG 2 vs APCA Comparisons** ](https://github.com/Myndex/SAPC-APCA/discussions/30#discussion-3678164) Direct head to head comparisons.
 
-## APCA Peer Review & Third Party Discussion
 
-### _Peer reviews of APCA and third party <br>comparisons of APCA vs WCAG&nbsp;2_
-There are several independent researchers evaluating APCA, and additional third party comparitive reviews that include demonstrations of the functional superiority to existing methods. The first three listed below are technical reviews by peers evaluating the APCA math and methods, and in comparison to WCAG 2 contrast methods and guidelines. APCA is open for peer review and discussion—please contact us if interested in performing an evaluation.
+# APC<span class="flipH">A</span> Reviewed
+## _Independent Peer Reviews of APCA and<br>Third Party Comparisons vs WCAG&nbsp;2_
+There are several independent researchers evaluating APCA, and additional third party comparitive reviews that include demonstrations of the functional superiority to existing methods. The first few listed below are technical reviews by peers evaluating the APCA math and methods, including journal published peer reviewed papers. Some in comparison to WCAG 2 contrast methods and guidelines. 
 
-- _Peer Reviewed Journal/Book Paper:_ [Applying APCA and Huetone for Color Accessibility](https://link.springer.com/chapter/10.1007/978-3-031-35992-7_53) of User Interfaces, by Kirill Ulitin. Part of the Communications in Computer and Information Science book series (CCIS,volume 1833)
-- [_Conference Presentation_ (video)](https://www.youtube.com/watch?v=Da1Jmi7wgCY&t=3976s): **Vicent Sanchis**, PhD in optometry and a #a11y specialist, recently gave this great presentation on contrast at WCEU 2022, covering both WCAG 2 and APCA, with comparisons.
+APCA has been developed in the open for open peer review and discussion, and the reviews listed below were performed independently, the majority were completed without consulting the APCA developers. 
+
+- _Peer Review in Journal/Book:_ [Applying APCA and Huetone for Color Accessibility](https://link.springer.com/chapter/10.1007/978-3-031-35992-7_53) of User Interfaces, by Kirill Ulitin. Part of the Communications in Computer and Information Science book series (CCIS,volume 1833)
+- _Peer Review in Journal/Book:_ [Color in Interface (In Russian)](http://cat.itmo.ru/sites/default/files/2022-04/CAT_2021_v6-i4_302_3.pdf) Ulitin, K.V. (2021) in Culture and Technologies Studies. Vol. 6, № 4. P. 225-234. DOI: 10.17586/2587-800X-2021-6-4-225-234
+- _WCEU 2022 (video)_ [_Conference Presentation on Contrast_](https://www.youtube.com/watch?v=Da1Jmi7wgCY&t=3976s): **Vicent Sanchis**, PhD in optometry and an accessibility specialist, recently gave this in depth presentation on contrast at WCEU 2022, covering both WCAG 2 and APCA, with comparisons.
      - The general contrast presentation starts @ [1:06:20 - Click Here](https://youtu.be/Da1Jmi7wgCY?t=3976)
      - Then @ [1:21:30 are comparisons](https://youtu.be/Da1Jmi7wgCY?t=4350)
      - APCA is [specifically reviewed @ 1:26:40](https://youtu.be/Da1Jmi7wgCY?t=5190)
-- [Does the contrast ratio actually predict the legibility of website text?](https://www.cedc.tools/article.html) A comparison of WCAG 2 math and APCA, by Sam Waller, a PhD at the Engineering Design Centre, University of Cambridge, UK.
-- [9 Decisions were made when developing a unified Dark Mode](https://medium.com/idealo-tech-blog/9-decisions-made-when-developing-a-unified-dark-mode-4a6fbfb96b28) an in-depth discussion of a real-world development of a design system integrating APCA.
-- [3 Reasons Why the WCAG 2.1 Color Contrast Guidelines Don't Work](https://blog.devkrishna.in/3-reasons-why-the-wcag-21-color-contrast-guidelines-dont-work) by Shimanta Krishna Bhuyan, comparative analysis.
-- [APCA: the new algorithm for accessible colour contrast](https://ruitina.com/apca-accessible-colour-contrast/) A brief comparative review by Juan Ruitiña, comparing WCAG2 contrast to APCA.
+- [Does the contrast ratio actually predict the legibility of website text?](https://www.cedc.tools/article.html)  by Sam Waller PhD, a researcher within the Inclusive Design Group & published at the Engineering Design Centre, University of Cambridge, UK. April 2022. Paper is a comparison of WCAG 2 math and APCA, with interactive examples. 
+- [The Hubris of Contrast Ratio](https://community.canvaslms.com/t5/The-Product-Blog/The-Hubris-of-Contrast-Ratio/ba-p/536389) by DLyons, in CanvasLMS, Aug. 2022 — a further discussion of Dan Hollick's review, by Silicon Valley based research scientist/author Richard Lyons.
+- [3 Reasons Why the WCAG 2.1 Color Contrast Guidelines Don't Work](https://blog.devkrishna.in/3-reasons-why-the-wcag-21-color-contrast-guidelines-dont-work) by Shimanta Krishna Bhuyan, Nov. 2022. Well writtern, in depth comparative analysis. 
+- [It’s Time For A More Sophisticated Color Contrast Check ](https://blog.datawrapper.de/color-contrast-check-data-vis-wcag-apca/) by dataviz expert and author Lisa Charlotte Muth, Jan 2022. A review of APCA and comparison to WCAG 2 contrast, for the use case of dataviz.
+- [Color Contrast Is Not As Black And White As It Seems ](https://medium.com/@think_ui/why-color-contrast-is-not-as-black-and-white-as-it-seems-94197a72b005) by Roger Attrill, UX Specialist for Linguamatics, Dec. 2021. A technical analysis of some of the problems with WCAG 2 contrast math, and comparing and analysing APCA math methods.
 - [Don't rely on WCAG 2's contrast calculation, try APCA](https://zhuanlan-zhihu-com.translate.goog/p/555769196?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc) Comparative peer-review of APCA by **Gu Wei** of the **Yunjiang Design and Research Factory** in China. This is a Google translate link, you may need to clear a dialog that pops up. Many comparisons and real-world examples.
 - [Good color contrast: make sure you see everything well](https://technobility-nl.translate.goog/blog/goed-kleurcontrast-zorg-dat-je-alles-goed-ziet/?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc) Bart Pluijms quick comparitive review. This is a Google translate link, you may need to clear a dialog that pops up. Includes a number of visual world examples.
-- [Color Contrast Is Not As Black And White As It Seems ](https://medium.com/@think_ui/why-color-contrast-is-not-as-black-and-white-as-it-seems-94197a72b005) by Roger Attrill, a technical analysis of some of the problems with WCAG 2 contrast math, and comparing and analysing APCA.
-- [It’s Time For A More Sophisticated Color Contrast Check ](https://blog.datawrapper.de/color-contrast-check-data-vis-wcag-apca/) A review of APCA and comparison to WCAG 2 contrast, in the use case of dataviz, by Lisa Charlotte Muth.
-- [Accessible Palette: stop using HSL for color systems ](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems) by Eugene Fedorenko, this is mostly a discussion of his new color pallette tool, but APCA figures into that, and he discusses the integration into the tool vs WCAG&nbsp;2 contrast.
-- [Adv. Perceptual Contrast Algorithm](https://typefully.com/u/DanHollick/t/sle13GMW2Brp) Don Hollick's review and discussion of APCA vs WCAG 2.
-- [The Hubris of Contrast Ratio](https://community.canvaslms.com/t5/The-Product-Blog/The-Hubris-of-Contrast-Ratio/ba-p/536389) by dlyons — a further discussion of Dan Hollick's above article.
-- [Improving accessibility with the new APCA ](https://www.lightflows.co.uk/blog/improving-accessibility-with-apca/) A review of APCA by Nik Bailey.
+- [9 Decisions were made when developing a unified Dark Mode](https://medium.com/idealo-tech-blog/9-decisions-made-when-developing-a-unified-dark-mode-4a6fbfb96b28) by Simon Schmidt, UI Designer/author, Published in Idealo Tech Blog, March 2023. An in-depth discussion of a real-world development of a design system integrating APCA.
+- [APCA: the new algorithm for accessible colour contrast](https://ruitina.com/apca-accessible-colour-contrast/)  by Juan Ruitiña, May 2022. A brief comparative review comparing WCAG2 contrast to APCA. 
+- [Stop using WCAG 2 for color contrast.](https://medium.com/@nomisum_19753/stop-using-wcag-2-for-color-contrast-3484fdf3688) by Simon Schmidt, UI Designer/author, Medium, Jan 2023.
+- [Improving accessibility with the new APCA ](https://www.lightflows.co.uk/blog/improving-accessibility-with-apca/) A review of APCA by Nik Bailey, Lightflows, Jan. 2022
+- [Adv. Perceptual Contrast Algorithm](https://typefully.com/u/DanHollick/t/sle13GMW2Brp) Don Hollick's review and discussion of APCA vs WCAG 2. Typefully, Dec. 2021
+- [Accessible Palette: stop using HSL for color systems ](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems) by Eugene Fedorenko, this is largely a discussion of his new color pallette tool, but APCA figures into that, and he discusses the integration into the tool vs WCAG&nbsp;2 contrast.
 
-### Recognizing issues with WCAG 2 Contrast: <br>_Discussion with links to third party articles_ 
-The problems of 4.5:1 as a target for a guideline not only impact those with impairments, but impact standard vision as well. WCAG&nbsp;2 contrast SCs affect 100% of sighted users. The inherent problems with the WCAG&nbsp;2 contrast math have been known for some time and [widely critisized](https://macwright.com/2019/03/30/color-contrast-is-a-problem.html). Including studies [by others showing that color insensitive types](https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/) are not well served. The WCAG&nbsp;2 contrast specs often cause enough problems for designers [that it is ignored](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/) and today, some 86% of websites are failing WCAG\_2 contrast per an automated survey—though some of these failures are not due to poor actual accessibility, but due to the perceptual inaccuracies of WCAG\_2 contrast.
+
+## Known Issues With WCAG 2 Contrast
+### _Discussion with links to third party articles<br>written prior to the development of APCA_ 
+The problems of 4.5:1 as a target for a guideline is that it not only impact those with impairments, but impacts standard vision as well. WCAG&nbsp;2 contrast SCs affect 100% of sighted users. The inherent problems with the WCAG&nbsp;2 contrast math have been known for some time and [**widely critisized**](https://macwright.com/2019/03/30/color-contrast-is-a-problem.html). Including studies [**by others showing that color insensitive types**](https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/) are not well served. 
+
+The WCAG&nbsp;2 contrast specs often cause enough problems for designers [**that it is ignored**](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/) and today, some 86% of websites are failing WCAG\_2 contrast per an automated survey—though some of these failures are not due to poor actual accessibility, but due to the perceptual inaccuracies of WCAG\_2 contrast.
+
+The unfortunate end result is a grave distrust of the WCAG 2.x accessibility standards overall, despite the many other important aspects of those standards.
+
+
 
 -----
 ## Myndex Web Apps
@@ -165,7 +177,7 @@ These are some of the larger, in-depth issue threads & posts created on GitHub i
 **_Myndex is top 3% on Stack Overflow!_**        
 <a href="https://stackexchange.com/users/14280387"><img src="https://stackexchange.com/users/flair/14280387.png" width="260" height="80" alt="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>      
 
-- **@ Mozilla:** [**Introduction to Color and Accessibility** ](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_Colors_and_Luminance) A white paper and tutorial on color and accessibility, with emphasis on web content.
+- **@ Mozilla:** [**Introduction to Color and Accessibility** ](https://andysomers.com) A white paper and tutorial on color and accessibility, with emphasis on web content.
 - @ Twitter: [MyndexResearch](https://twitter.com/MyndexResearch) New developments regarding APCA are usually posted here first.
 - **@ W3C:** [**Visual Contrast Group Wiki** ](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup) Early work on Visual Contrast which became APCA.
     - [Visual Contrast Whitepaper ](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup/Whitepaper) (Work in progress)
