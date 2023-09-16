@@ -8,18 +8,11 @@ In an effort to pare down this mountain of material, here's a [link-tree](https:
 ## The Accessible Perceptual Contrast Algorithm
 - [**Basic Tool & Quickstart Docs**](https://apcacontrast.com) The basic APCA demonstration tool with live font examples and general design guidance for designers and developers.
 - [**APCA Readability Criterion**](https://readtech.org/ARC/) Guidelines for accomodating user needs regarding visual content, includes testing methods, conformance models, best practices, and more. **_Draft_**.
-
-<p align="left" class="por " style="margin: -36px 24px 12px">&thinsp;<a href="https://git.myndex.com"><img src="https://badgen.net/badge/APCA/Resources/3300aa" alt="APCA Resources" /></a>&nbsp;
-<a href="https://readtech.org/ARC/"><img src="https://badgen.net/badge/APCA Readability/Criterion/ba12aa" alt="APCA Readability Criterion" /></a>&nbsp;
-<a href="https://github.com/Myndex/SAPC-APCA"><img src="https://badgen.net/badge/APCA/Main Repo/e86800" alt="APCA/Main Repo" /></a><br>&emsp13;<a href="https://github.com/Myndex/SAPC-APCA"><img src="https://badgen.net/github/stars/Myndex/SAPC-APCA/?color=0000ff" alt="stars" /></a>&emsp13;
-<a href="https://npmjs.org/package/apca-w3"><img src="https://badgen.net/npm/v/apca-w3?color=3300aa&icon=npm" alt="version" /></a>&nbsp;
-<a href="https://npmjs.org/package/apca-w3"><img src="https://badgen.net/npm/dt/apca-w3?color=6000b0&icon=npm" alt="downloads" /></a>&nbsp;
-<a href="https://github.com/Myndex/apca-w3/src/"><img src="https://badgen.net/badge/JS/Vanilla/778d66" alt="plain vanilla JS" /></a><br>&thinsp;<a href="https://apcacontrast.com"><img src="https://badgen.net/badge/APCA/Live Demo/e06000" alt="APCA Live Demo" /></a>&nbsp;
-<a href="https://bridgepca.com"><img src="https://badgen.net/badge/BridgePCA/Live Demo/0055bb" alt="BPCA Live Demo" /></a>&nbsp;
-<a href="https://www.myndex.com/CVD/"><img src="https://badgen.net/badge/Color Blind/Simulator/bb0055" alt="CVD Simulator" /></a>
-<br>&emsp13;<a href="https://twitter.com/MyndexResearch"><img src="https://badgen.net/badge/@/MyndexResearch?color=0066cc&icon=twitter" alt="twitter" /></a>
-&emsp13;<a href="https://techhub.social/@Myndex"><img src="https://badgen.net/badge/@/Myndex?color=6600cc&icon=mastodon" alt="mastodon" /></a>
-&emsp13;<a href="https://www.linkedin.com/in/andrew-m-somers/"><img src="https://badgen.net/badge/@/LinkedIn?color=0066cc&icon=linkedin" alt="linkedin" /></a>
+<p align="left" class="por " style="margin: -36px 24px 12px"><br>
+&emsp13;<img src="https://badgen.net/badge/INF&thinsp;/&#10148;/cc0066?labelColor=990033" alt="INFO" />&nbsp;<a href="https://git.myndex.com"><img src="https://badgen.net/badge/APCA/Resources/3300aa" alt="APCA Resources" /></a>&nbsp;<a href="https://readtech.org/ARC/"><img src="https://badgen.net/badge/APCA Readability/Criterion/ba12aa" alt="APCA Readability Criterion" /></a>&nbsp;<a href="https://github.com/Myndex/SAPC-APCA"><img src="https://badgen.net/badge/APCA/Main Repo/e86800" alt="APCA/Main Repo" /></a><br>
+&emsp13;<img src="https://badgen.net/badge/STT/&#10148;/aa6600?labelColor=884400" alt="STATS" />&nbsp;<a href="https://npmjs.org/package/apca-w3"><img src="https://badgen.net/npm/v/apca-w3?color=884400&icon=npm" alt="version" /></a>&nbsp;<a href="https://npmjs.org/package/apca-w3"><img src="https://badgen.net/npm/dt/apca-w3?color=995500&icon=npm" alt="downloads" /></a>&nbsp;&thinsp;<a href="https://github.com/Myndex/SAPC-APCA"><img src="https://badgen.net/github/stars/Myndex/SAPC-APCA/?color=0055ff" alt="stars" /></a>&emsp13;<a href="https://github.com/Myndex/apca-w3/src/"><img src="https://badgen.net/badge/JS/Vanilla/778d66" alt="plain vanilla JS" /></a><br>
+&emsp13;<img src="https://badgen.net/badge/APP/&#10148;/007700?labelColor=005500" alt="APPS" />&nbsp;<a href="https://apcacontrast.com"><img src="https://badgen.net/badge/APCA/Live Demo/e06000" alt="APCA Live Demo" /></a>&nbsp;<a href="https://bridgepca.com"><img src="https://badgen.net/badge/BridgePCA/Live Demo/0055bb" alt="BPCA Live Demo" /></a>&nbsp;<a href="https://www.myndex.com/CVD/"><img src="https://badgen.net/badge/Color Blind/Simulator/bb0055" alt="CVD Simulator" /></a><br>
+&emsp13;<img src="https://badgen.net/badge/SCL/&#10148;/0000aa?labelColor=000088" alt="Social" />&nbsp;<a href="https://twitter.com/MyndexResearch"><img src="https://badgen.net/badge/@/MyndexResearch?color=0066cc&icon=twitter" alt="twitter" /></a>&emsp13;<a href="https://techhub.social/@Myndex"><img src="https://badgen.net/badge/@/Myndex?color=6600cc&icon=mastodon" alt="mastodon" /></a>&emsp13;<a href="https://www.linkedin.com/in/andrew-m-somers/"><img src="https://badgen.net/badge/in&nbsp;@/LinkedIn?color=0066cc" alt="linkedin" /></a><br>
 
 </p>
 
