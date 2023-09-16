@@ -5,21 +5,22 @@
 In an effort to pare down this mountain of material, here's a [link-tree](https://linktr.ee/Myndex) of the key links, with the most basic at the top: 
 - [_**linktr.ee/Myndex**_](https://linktr.ee/Myndex)
 
-
 ## The Accessible Perceptual Contrast Algorithm
 - [**Basic Tool & Quickstart Docs**](https://apcacontrast.com) The basic APCA demonstration tool with live font examples and general design guidance for designers and developers.
 - [**APCA Readability Criterion**](https://readtech.org/ARC/) Guidelines for accomodating user needs regarding visual content, includes testing methods, conformance models, best practices, and more. **_Draft_**.
 
 <p align="left" class="por " style="margin: -36px 24px 12px">&thinsp;<a href="https://git.myndex.com"><img src="https://badgen.net/badge/APCA/Resources/3300aa" alt="APCA Resources" /></a>&nbsp;
-<a href="https://readtech.org/ARC/"><img src="https://badgen.net/badge/APCA Readability/Criterion/bb5500" alt="APCA Readability Criterion" /></a>&nbsp;
-<a href="https://github.com/Myndex/SAPC-APCA"><img src="https://badgen.net/badge/APCA/Main Repo/db6b0b" alt="APCA/Main Repo" /></a><br>&emsp13;<a href="https://github.com/Myndex/SAPC-APCA"><img src="https://badgen.net/github/stars/Myndex/SAPC-APCA/" alt="stars" /></a>&emsp13;
+<a href="https://readtech.org/ARC/"><img src="https://badgen.net/badge/APCA Readability/Criterion/ba12aa" alt="APCA Readability Criterion" /></a>&nbsp;
+<a href="https://github.com/Myndex/SAPC-APCA"><img src="https://badgen.net/badge/APCA/Main Repo/e86800" alt="APCA/Main Repo" /></a><br>&emsp13;<a href="https://github.com/Myndex/SAPC-APCA"><img src="https://badgen.net/github/stars/Myndex/SAPC-APCA/?color=0000ff" alt="stars" /></a>&emsp13;
 <a href="https://npmjs.org/package/apca-w3"><img src="https://badgen.net/npm/v/apca-w3?color=3300aa&icon=npm" alt="version" /></a>&nbsp;
 <a href="https://npmjs.org/package/apca-w3"><img src="https://badgen.net/npm/dt/apca-w3?color=6000b0&icon=npm" alt="downloads" /></a>&nbsp;
-<a href="https://github.com/Myndex/apca-w3/src/"><img src="https://badgen.net/badge/JS/Vanilla/889900" alt="plain vanilla JS" /></a><br>&thinsp;<a href="https://apcacontrast.com"><img src="https://badgen.net/badge/APCA/Live Demo/db6b0b" alt="APCA Live Demo" /></a>&nbsp;
-<a href="https://bridgepca.com"><img src="https://badgen.net/badge/BridgePCA/Live Demo/0022aa" alt="BPCA Live Demo" /></a>&nbsp;
-<a href="https://www.myndex.com/CVD/"><img src="https://badgen.net/badge/Color Blind/Simulator/cc0044" alt="CVD Simulator" /></a>&nbsp;
+<a href="https://github.com/Myndex/apca-w3/src/"><img src="https://badgen.net/badge/JS/Vanilla/778d66" alt="plain vanilla JS" /></a><br>&thinsp;<a href="https://apcacontrast.com"><img src="https://badgen.net/badge/APCA/Live Demo/e06000" alt="APCA Live Demo" /></a>&nbsp;
+<a href="https://bridgepca.com"><img src="https://badgen.net/badge/BridgePCA/Live Demo/0055bb" alt="BPCA Live Demo" /></a>&nbsp;
+<a href="https://www.myndex.com/CVD/"><img src="https://badgen.net/badge/Color Blind/Simulator/bb0055" alt="CVD Simulator" /></a>
+<br>&emsp13;<a href="https://twitter.com/MyndexResearch"><img src="https://badgen.net/badge/@/MyndexResearch?color=0066cc&icon=twitter" alt="twitter" /></a>
+&emsp13;<a href="https://techhub.social/@Myndex"><img src="https://badgen.net/badge/@/Myndex?color=6600cc&icon=mastodon" alt="mastodon" /></a>
+&emsp13;<a href="https://www.linkedin.com/in/andrew-m-somers/"><img src="https://badgen.net/badge/@/LinkedIn?color=0066cc&icon=linkedin" alt="linkedin" /></a>
 
-<br><a href="https://twitter.com/MyndexResearch"><img src="https://badgen.net/badge/@/MyndexResearch?icon=twitter" alt="twitter" /></a>&nbsp;
 </p>
 
 ### _General Overview_
@@ -38,10 +39,13 @@ In an effort to pare down this mountain of material, here's a [link-tree](https:
 
 ### _Social Media and Forums_
 - [***APCA Forum*** ](https://github.com/Myndex/SAPC-APCA/discussions/) Discuss, ask questions, fend off lions...
-- [ ***follow Myndex on Twitter*** ](https://twitter.com/MyndexResearch)
-- [ ***follow Myndex on Mastodon*** ](https://techhub.social/@Myndex)
-- [ ***Inclusive Reading Technologies on Twitter*** ](https://twitter.com/A11yReadTech)
-- [ ***Inclusive Reading Technologies on Mastodon*** ](https://mastodon.social/@readtech)
+- [ ***Tangled Web*** ](https://tangledweb.xyz) Andrew's **_Tangled Web_** Tech Blog
+- Social Medieval
+  - [ ***Myndex on Twitter*** ](https://twitter.com/MyndexResearch)
+  - [ ***Myndex on Mastodon*** ](https://techhub.social/@Myndex)
+  - [ ***Andrew on LinkedIn*** ](https://www.linkedin.com/in/andrew-m-somers/)
+  - [ ***Inclusive Reading Technologies on Twitter*** ](https://twitter.com/A11yReadTech)
+  - [ ***Inclusive Reading Technologies on Mastodon*** ](https://mastodon.social/@readtech)
 
 
 ### _Sciencey Stuff!_
@@ -141,7 +145,7 @@ The unfortunate end result is a grave distrust of the WCAG 2.x accessibility sta
 <!-- - [**SAPC Contrast Research Tools**](https://www.myndex.com/SAPC/) Visual contrast development site for the ongoing study of visual contrast for web content accessibility guidelines and other standards & applications. Includes interactive experiments that demonstrate the concepts and technology. -->
 - [**Color Vision Deficiency Simulator**](https://www.myndex.com/CVD/) This simulator demonstrates the way someone with a Color Vision Deficiency _(incorrectly labeled "color blind")_ sees colors. This simulator uses the clinically accurate Brettel/Viénot model of CVD simulation for the primary (deuteranopia, protanopia, tritanopia) and there is an experimental blue cone monochromacy sim, based on the Brettel/Viénot concepts.
 
------
+
 ## Featured Articles
 ### _On Readability & Contrast_
 
@@ -158,6 +162,7 @@ The unfortunate end result is a grave distrust of the WCAG 2.x accessibility sta
     - [**What's Red & Black & Also Not Read?** ](https://tangledweb.xyz/whats-red-black-also-not-read-573b9c0a97ed) Do the WCAG 2 Contrast Guidelines help users with color vision issues? While this is a widely held belief, the truth may surprise you. 
     - [**A Contrast of Errors**](https://tangledweb.xyz/a-contrast-of-errors-373c2665d42a) A look into the history of the WCAG 2 contrast guidelines and some of the problems created by them, and a discussion of the proposed replacement, the APCA (Accessible Perceptual Contrast Algorithm).
 
+
 ### _Additional Color & Contrast Related Articles_
 - [**Contrasting Theories**](https://tangledweb.xyz/hi-roger-f51bde490a56) Article at _Tangled Web_
 - [**A Contast of Contrasts**](https://tangledweb.xyz/a-contrast-of-contrasts-3ddda0f4061b) Article at _Tangled Web_
@@ -169,19 +174,6 @@ The unfortunate end result is a grave distrust of the WCAG 2.x accessibility sta
 - [_(Legacy)_ Color Gradients, Part II](https://www.myndex.com/WEB/GradientsPartTwo) More experiments and more color spaces.
 - [_(Legacy)_ PDF on Accessible Fonts](https://www.myndex.com/PUB/PDF/AccessibleFontsD.pdf) A PDF that discusses key factors in fonts for readability.
 
-### _Society & Technology_
-
-- [_Funny you mention Kodak and Xerox_](https://axiomviews.com/funny-you-mention-kodak-and-xerox-f1be9b404f43) In this response to 
-James Biber’s _“Theranos, Polaroid and the legacy of dropouts”_, I touch on the law of unintended consequences as has repeatedly manifested in the development of modern technology.
-- [The Laws of Technodynamics](https://tangledweb.xyz/the-laws-of-technodynamics-20a6b8cdbc17) An Illustrated Restatement of Thermodynamics in the Context of Applied Problem Solving Through Technology.
-- [Climate Deniers Left & Right](https://angryandrew.com/climate-idiots-left-right-c0adfcd51658) There are two kinds of climate deniers. Those that deny there is a problem, and those that deny the best way to fix it.
-- [The Unbearable Cruelty of a Finite Existence](https://ceruleansphere.com/the-unbearable-cruelty-of-a-finite-existence-80ed91dfdddd) At first glance, the concept of soul appears rooted in spirituality and religion. In reality the concept of soul is a manifestation of our ego. This very brief yet nihilistic essay leads to a concept on **_how to create a sentient AI_**.
-- [Ending Polarized Politics](https://americanunitedparty.net/ending-polarized-politics-cfc7622aacf2) Can a 200+ year old piece of math, and modern technology, fix this systemic problem in the US political system?
-- [Election Fraud & Other Illusions](https://axiomviews.com/election-fraud-other-illusions-a5bba26b897) How conspiracy theory websites gave rise to a widely spread disinformation campaign apparently aimed at voter suppression. And it was (and continues) to be a shocking example of using math and statistics to lie, by "baffling" with bull.
-- [Modern Password Theory in a Nutshell ](https://tangledweb.xyz/modern-password-theory-in-a-nutshell-da87db012c08) Would it surprise you to know that fistsmash passwords aren't really more secure than one you can actually remember? You could say this is 0u+_W!+h_+h3_01d-InWithTheNew! — In other words, "Out With The Old - In With The New." It's a realistic discussion on password security, with a useful approach to reducing "crackability". _HINT: we've all been doing it wrong, LOL._ Article at _TangledWeb.xyz_ 
-- [Improving SEO with Redirects](https://www.myndex.com/WEB/RedirectsForSEO) Your server's case sensitivity and URL redirect strategies can affect your search ranking!
-
-
 <!--
 
 - [](https://)
@@ -189,7 +181,7 @@ James Biber’s _“Theranos, Polaroid and the legacy of dropouts”_, I touch o
 
 -->
 
------
+
 ## GitHub Gists
 _Mini articles on technical topics, with examples_
 
@@ -209,21 +201,37 @@ _Mini articles on technical topics, with examples_
 - Part II: [**Will Work for Color**](https://gist.github.com/Myndex/10caff6a68e844591e83eadeebfb4347) A follow-up article on working spaces and related considerations, including how ICC profiles may not be a great choice for web due to their inefficiency. Introduces the concept of "Web Working Spacelets".
 - [colorPalette.js](https://gist.github.com/Myndex/997244b95d84788df96f4aab8b9edeb1) aka Kelly's 22 colors.
 
-### _Other Tech Gists_
-- [What's Up With Markdown](https://gist.github.com/Myndex/5140d6fe98519bb15c503c490e713233#whats-up-with-markdown) GitHub flavored Markdown cheat sheet.
-- [Phi Alternate Expression](https://gist.github.com/Myndex/63a4925a6cc118d5acdcc471f9c52f3d#phi-alternate-expression) An easier way to remember the formula for Phi. Fo fum.
 
 
------
 ## Related Threads & Comments (Legacy)
 ### [*A Listing of Significant (Legacy) Threads*](IssuesIndex)
 These were some of the larger, in-depth issue threads & posts created on GitHub including the infamous thread #695. [These posts ](IssuesIndex) contain useful information and research. Some of the information here may be superseded as some of these threads date back to the beginnings of the contrast research project. 
 
+<img class="centered" width="520" alt="APCA—The Revolution Will Be Readable" src="images/APCAcolor4.png">
+
+
+
+## Tech Articles _NOT_ About Color
+
+### _Society & Technology_
+
+- [_Funny you mention Kodak and Xerox_](https://axiomviews.com/funny-you-mention-kodak-and-xerox-f1be9b404f43) In this response to 
+James Biber’s _“Theranos, Polaroid and the legacy of dropouts”_, I touch on the law of unintended consequences as has repeatedly manifested in the development of modern technology.
+- [The Laws of Technodynamics](https://tangledweb.xyz/the-laws-of-technodynamics-20a6b8cdbc17) An Illustrated Restatement of Thermodynamics in the Context of Applied Problem Solving Through Technology.
+- [Climate Deniers Left & Right](https://angryandrew.com/climate-idiots-left-right-c0adfcd51658) There are two kinds of climate deniers. Those that deny there is a problem, and those that deny the best way to fix it.
+- [The Unbearable Cruelty of a Finite Existence](https://ceruleansphere.com/the-unbearable-cruelty-of-a-finite-existence-80ed91dfdddd) At first glance, the concept of soul appears rooted in spirituality and religion. In reality the concept of soul is a manifestation of our ego. This very brief yet nihilistic essay leads to a concept on **_how to create a sentient AI_**.
+- [Ending Polarized Politics](https://americanunitedparty.net/ending-polarized-politics-cfc7622aacf2) Can a 200+ year old piece of math, and modern technology, fix this systemic problem in the US political system?
+- [Election Fraud & Other Illusions](https://axiomviews.com/election-fraud-other-illusions-a5bba26b897) How conspiracy theory websites gave rise to a widely spread disinformation campaign apparently aimed at voter suppression. And it was (and continues) to be a shocking example of using math and statistics to lie, by "baffling" with bull.
+- [Modern Password Theory in a Nutshell ](https://tangledweb.xyz/modern-password-theory-in-a-nutshell-da87db012c08) Would it surprise you to know that fistsmash passwords aren't really more secure than one you can actually remember? You could say this is 0u+_W!+h_+h3_01d-InWithTheNew! — In other words, "Out With The Old - In With The New." It's a realistic discussion on password security, with a useful approach to reducing "crackability". _HINT: we've all been doing it wrong, LOL._ Article at _TangledWeb.xyz_ 
+- [Improving SEO with Redirects](https://www.myndex.com/WEB/RedirectsForSEO) Your server's case sensitivity and URL redirect strategies can affect your search ranking!
+
+### _Other Tech Gists_
+- [What's Up With Markdown](https://gist.github.com/Myndex/5140d6fe98519bb15c503c490e713233#whats-up-with-markdown) GitHub flavored Markdown cheat sheet.
+- [Phi Alternate Expression](https://gist.github.com/Myndex/63a4925a6cc118d5acdcc471f9c52f3d#phi-alternate-expression) An easier way to remember the formula for Phi. Fo fum.
 
 -----
 ## Myndex on Other Sites
 
------
 **_Myndex is top 3% on Stack Overflow!_**        
 <a href="https://stackexchange.com/users/14280387"><img src="https://stackexchange.com/users/flair/14280387.png" width="260" height="80" alt="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>      
 
@@ -253,9 +261,8 @@ These were some of the larger, in-depth issue threads & posts created on GitHub 
 
 -->
 
-<img class="centered" width="520" alt="APCA—The Revolution Will Be Readable" src="images/APCAcolor4.png">
 
-------
+
 ## The Lighter Side of Math & Photons...
 
 ### _The Art and Science of Applied Probability_
