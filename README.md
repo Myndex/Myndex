@@ -10,6 +10,17 @@ In an effort to pare down this mountain of material, here's a [link-tree](https:
 - [**Basic Tool & Quickstart Docs**](https://apcacontrast.com) The basic APCA demonstration tool with live font examples and general design guidance for designers and developers.
 - [**APCA Readability Criterion**](https://readtech.org/ARC/) Guidelines for accomodating user needs regarding visual content, includes testing methods, conformance models, best practices, and more. **_Draft_**.
 
+<p align="left" class="por " style="margin: -36px 24px 12px">&nbsp;<a href="https://git.myndex.com"><img src="https://badgen.net/badge/APCA/Resources/3300aa" alt="APCA Resources" /></a>&nbsp;
+<a href="https://readtech.org/ARC/"><img src="https://badgen.net/badge/APCA Readability/Criterion/bb5500" alt="APCA Readability Criterion" /></a>&nbsp;
+<a href="https://github.com/Myndex/SAPC-APCA"><img src="https://badgen.net/badge/APCA/Main Repo/db6b0b" alt="APCA/Main Repo" /></a><br>&nbsp;<a href="https://github.com/Myndex/SAPC-APCA"><img src="https://badgen.net/github/stars/Myndex/SAPC-APCA/" alt="stars" /></a>&nbsp;
+<a href="https://npmjs.org/package/apca-w3"><img src="https://badgen.net/npm/v/apca-w3?color=3300aa&icon=npm" alt="version" /></a>&nbsp;
+<a href="https://npmjs.org/package/apca-w3"><img src="https://badgen.net/npm/dt/apca-w3?color=6000b0&icon=npm" alt="downloads" /></a>&nbsp;
+<a href="https://github.com/Myndex/apca-w3/src/"><img src="https://badgen.net/badge/JS/Vanilla/889900" alt="plain vanilla JS" /></a><br><a href="https://apcacontrast.com"><img src="https://badgen.net/badge/APCA/Live Demo/db6b0b" alt="APCA Live Demo" /></a>&nbsp;
+<a href="https://bridgepca.com"><img src="https://badgen.net/badge/BridgePCA/Live Demo/0022aa" alt="BPCA Live Demo" /></a>&nbsp;
+<a href="https://www.myndex.com/CVD/"><img src="https://badgen.net/badge/Color Blind/Simulator/cc0044" alt="CVD Simulator" /></a>&nbsp;
+
+<br><a href="https://twitter.com/MyndexResearch"><img src="https://badgen.net/badge/@/MyndexResearch?icon=twitter" alt="twitter" /></a>&nbsp;
+</p>
 
 ### _General Overview_
 - [**Why APCA?** ](https://git.apcacontrast.com/documentation/WhyAPCA) This brief introduction into APCA describes how it solves the problems of WCAG_2 contrast. See _Easy Intro to APCA?_ for the plain language version. 
@@ -160,12 +171,15 @@ The unfortunate end result is a grave distrust of the WCAG 2.x accessibility sta
 
 ### _Society & Technology_
 
-- []()
-- []()
-- []()
-- []()
-- [**Modern Password Theory in a Nutshell** ](https://tangledweb.xyz/modern-password-theory-in-a-nutshell-da87db012c08) Would it surprise you to know that fistsmash passwords aren't really more secure than one you can actually remember? You could say this is 0u+_W!+h_+h3_01d-InWithTheNew! — In other words, "Out With The Old - In With The New." It's a realistic discussion on password security, with a useful approach to reducing "crackability". _HINT: we've all been doing it wrong, LOL._ Article at _TangledWeb.xyz_ 
-- [**Improving SEO with Redirects**](https://www.myndex.com/WEB/RedirectsForSEO) Your server's case sensitivity and URL redirect strategies can affect your search ranking!
+- [_Funny you mention Kodak and Xerox_](https://axiomviews.com/funny-you-mention-kodak-and-xerox-f1be9b404f43) In this response to 
+James Biber’s _“Theranos, Polaroid and the legacy of dropouts”_, I touch on the law of unintended consequences as has repeatedly manifested in the development of modern technology.
+- [The Laws of Technodynamics](https://tangledweb.xyz/the-laws-of-technodynamics-20a6b8cdbc17) An Illustrated Restatement of Thermodynamics in the Context of Applied Problem Solving Through Technology.
+- [Climate Deniers Left & Right](https://angryandrew.com/climate-idiots-left-right-c0adfcd51658) There are two kinds of climate deniers. Those that deny there is a problem, and those that deny the best way to fix it.
+- [The Unbearable Cruelty of a Finite Existence](https://ceruleansphere.com/the-unbearable-cruelty-of-a-finite-existence-80ed91dfdddd) At first glance, the concept of soul appears rooted in spirituality and religion. In reality the concept of soul is a manifestation of our ego. This very brief yet nihilistic essay leads to a concept on **_how to create a sentient AI_**.
+- [Ending Polarized Politics](https://americanunitedparty.net/ending-polarized-politics-cfc7622aacf2) Can a 200+ year old piece of math, and modern technology, fix this systemic problem in the US political system?
+- [Election Fraud & Other Illusions](https://axiomviews.com/election-fraud-other-illusions-a5bba26b897) How conspiracy theory websites gave rise to a widely spread disinformation campaign apparently aimed at voter suppression. And it was (and continues) to be a shocking example of using math and statistics to lie, by "baffling" with bull.
+- [Modern Password Theory in a Nutshell ](https://tangledweb.xyz/modern-password-theory-in-a-nutshell-da87db012c08) Would it surprise you to know that fistsmash passwords aren't really more secure than one you can actually remember? You could say this is 0u+_W!+h_+h3_01d-InWithTheNew! — In other words, "Out With The Old - In With The New." It's a realistic discussion on password security, with a useful approach to reducing "crackability". _HINT: we've all been doing it wrong, LOL._ Article at _TangledWeb.xyz_ 
+- [Improving SEO with Redirects](https://www.myndex.com/WEB/RedirectsForSEO) Your server's case sensitivity and URL redirect strategies can affect your search ranking!
 
 
 <!--
@@ -252,8 +266,7 @@ _(…Sooo… this is more commonly known as Texas Hold ’Em Poker…)_
 -----
 For the record, Myndex is pronounced:
 
-mind - ex
-
+_mind - ex_      
 \ ˈmīn-ˌdɛks \
 
 When George Eastman invented the word "Kodak" one of his criteria was that "it won't be mispronounced".
@@ -261,8 +274,10 @@ I guess I missed that day. Ooops.
 
 -----
 
-Just **how many color scientists** does it take to rotationally engage the helical conducting threads of an illumination apparatus further composed of a sealed, evacuated glass envelope containing a plurality of filament holders which electrically connect and physically support a coiled electrically conducting but resistive filament preferentially fabricated from a tungsten alloy to the aforementioned helical threads, engaging into a helical conducting receptacle, such that when an electrical power source of sufficient voltage and current is applied, said filament shall be caused to incandesce and emit visible irradiance? <br>
-A: The answer is "none" because they fell asleep reading this joke.
+Just **how many patent attornys** does it take to rotationally engage a helical conducting thread of an illumination apparatus further comprised of a sealed, evacuated glass envelope containing two or more conducting filament holders which electrically connect and physically support a coiled electrically conducting but resistive filament, preferentially fabricated from a tungsten alloy, to the aforementioned helical threads, which further engage into a helical conducting receptacle, such that when an electrical power source of sufficient voltage and current is applied to the receptacle input conducting connectors, the voltage and current is henceforth transferred to the helical conducting threads of the illumination apparatus and thereto across the conducting filament holders and through said filament such that it shall be caused to incandesce and emit visible irradiance according to the laws of blackbody radiators? <br>
+
+**_The Answer as to how many:_  a plurality**
+
 
 ------
 
@@ -270,6 +285,6 @@ A: The answer is "none" because they fell asleep reading this joke.
 Here at the very bottom of the page, we dare to ask the question, **_"do two lights make a dark?"_**
 <details><summary>Click for Answer</summary>
 
-YES, two lights make a dark, if when on together, they draw so much current they** blow a fuse**.
+YES, two lights make a dark, if together they draw so much current they **blow a fuse** 💥.
 </details>
 
