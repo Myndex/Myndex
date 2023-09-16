@@ -10,12 +10,12 @@ In an effort to pare down this mountain of material, here's a [link-tree](https:
 - [**Basic Tool & Quickstart Docs**](https://apcacontrast.com) The basic APCA demonstration tool with live font examples and general design guidance for designers and developers.
 - [**APCA Readability Criterion**](https://readtech.org/ARC/) Guidelines for accomodating user needs regarding visual content, includes testing methods, conformance models, best practices, and more. **_Draft_**.
 
-<p align="left" class="por " style="margin: -36px 24px 12px">&nbsp;<a href="https://git.myndex.com"><img src="https://badgen.net/badge/APCA/Resources/3300aa" alt="APCA Resources" /></a>&nbsp;
+<p align="left" class="por " style="margin: -36px 24px 12px">&thinsp;<a href="https://git.myndex.com"><img src="https://badgen.net/badge/APCA/Resources/3300aa" alt="APCA Resources" /></a>&nbsp;
 <a href="https://readtech.org/ARC/"><img src="https://badgen.net/badge/APCA Readability/Criterion/bb5500" alt="APCA Readability Criterion" /></a>&nbsp;
-<a href="https://github.com/Myndex/SAPC-APCA"><img src="https://badgen.net/badge/APCA/Main Repo/db6b0b" alt="APCA/Main Repo" /></a><br>&nbsp;<a href="https://github.com/Myndex/SAPC-APCA"><img src="https://badgen.net/github/stars/Myndex/SAPC-APCA/" alt="stars" /></a>&nbsp;
+<a href="https://github.com/Myndex/SAPC-APCA"><img src="https://badgen.net/badge/APCA/Main Repo/db6b0b" alt="APCA/Main Repo" /></a><br>&emsp13;<a href="https://github.com/Myndex/SAPC-APCA"><img src="https://badgen.net/github/stars/Myndex/SAPC-APCA/" alt="stars" /></a>&emsp13;
 <a href="https://npmjs.org/package/apca-w3"><img src="https://badgen.net/npm/v/apca-w3?color=3300aa&icon=npm" alt="version" /></a>&nbsp;
 <a href="https://npmjs.org/package/apca-w3"><img src="https://badgen.net/npm/dt/apca-w3?color=6000b0&icon=npm" alt="downloads" /></a>&nbsp;
-<a href="https://github.com/Myndex/apca-w3/src/"><img src="https://badgen.net/badge/JS/Vanilla/889900" alt="plain vanilla JS" /></a><br><a href="https://apcacontrast.com"><img src="https://badgen.net/badge/APCA/Live Demo/db6b0b" alt="APCA Live Demo" /></a>&nbsp;
+<a href="https://github.com/Myndex/apca-w3/src/"><img src="https://badgen.net/badge/JS/Vanilla/889900" alt="plain vanilla JS" /></a><br>&thinsp;<a href="https://apcacontrast.com"><img src="https://badgen.net/badge/APCA/Live Demo/db6b0b" alt="APCA Live Demo" /></a>&nbsp;
 <a href="https://bridgepca.com"><img src="https://badgen.net/badge/BridgePCA/Live Demo/0022aa" alt="BPCA Live Demo" /></a>&nbsp;
 <a href="https://www.myndex.com/CVD/"><img src="https://badgen.net/badge/Color Blind/Simulator/cc0044" alt="CVD Simulator" /></a>&nbsp;
 
@@ -164,10 +164,10 @@ The unfortunate end result is a grave distrust of the WCAG 2.x accessibility sta
 - [**Luminance is King**](https://www.linkedin.com/posts/andrew-m-somers_a11y-color-accessibility-activity-7104334047732015104-ocJb?utm_source=share&utm_medium=member_desktop) LinkedIn post on the iportance of luminance fore reading.
 - [**Human Contrast Sensitivity Curve**](https://www.linkedin.com/posts/andrew-m-somers_c7-activity-7096829665562030081-YG-z?utm_source=share&utm_medium=member_desktop) LinkedIn post on the nature of human contrast sensitivity.
 - [**Legally Readable**](https://www.linkedin.com/posts/andrew-m-somers_legally-readable-apca-is-not-official-per-activity-7073705604896210944-0m64?utm_source=share&utm_medium=member_desktop) LinkedIn post on the value of actual accessibility vs arbitrary law.
-- [_(Legacy)_ Basics of Luminance Contrast](https://www.myndex.com/WEB/LuminanceContrast) A precursor to the Contrast FAQ.
-- [_(Legacy)_Creating Color Gradients, Part I](https://www.myndex.com/WEB/Gradients) Experiments and discussion of color spaces for gradient creation.
-- [_(Legacy)_Color Gradients, Part II](https://www.myndex.com/WEB/GradientsPartTwo) More experiments and more color spaces.
-- [_(Legacy)_PDF on Accessible Fonts](https://www.myndex.com/PUB/PDF/AccessibleFontsD.pdf) A PDF that discusses key factors in fonts for readability.
+- [_(Legacy)_ Basics of Luminance Contrast](https://www.myndex.com/WEB/LuminanceContrast) Written before APCA. _A precursor to the Contrast FAQ_.
+- [_(Legacy)_ Creating Color Gradients, Part I](https://www.myndex.com/WEB/Gradients) Experiments and discussion of color spaces for gradient creation.
+- [_(Legacy)_ Color Gradients, Part II](https://www.myndex.com/WEB/GradientsPartTwo) More experiments and more color spaces.
+- [_(Legacy)_ PDF on Accessible Fonts](https://www.myndex.com/PUB/PDF/AccessibleFontsD.pdf) A PDF that discusses key factors in fonts for readability.
 
 ### _Society & Technology_
 
