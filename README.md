@@ -86,6 +86,7 @@ Maths! Theory! Vision Science! Photons on Parade!
 
 
 ----- 
+<br><br>
 # APC<span class="flipH">A</span> Reviewed
 A separate page comprised of the following listing of reviews is also available at [**_APCA Reviewed_**](https://git.apcacontrast.com/documentation/independent-review), which is updated more frequently.
 
@@ -129,6 +130,7 @@ The unfortunate end result is a grave distrust of the WCAG 2.x accessibility sta
 
 
 -----
+<br><br>
 # Myndex Color Resources
 
 ## Myndex Web Apps
