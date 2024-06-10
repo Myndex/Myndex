@@ -180,15 +180,15 @@ The unfortunate end result is a grave distrust of the WCAG 2.x accessibility sta
 _Mini articles on technical topics, with examples_
 
 ### _New Gists!_
-[**brintness** is an integer brightness](https://gist.github.com/Myndex/04dd7d3143806ad050bb946d667e889f)/lightness/darkness calculation. This is part of an experiment in estimating a perceived brightness while remaining in integer math and using bitshifts to maximize performance.
+- [**brintness** is an integer brightness](https://gist.github.com/Myndex/04dd7d3143806ad050bb946d667e889f)/lightness/darkness calculation. This is part of an experiment in estimating a perceived brightness while remaining in integer math and using bitshifts to maximize performance.
 
-[Kelly's 22 Colors of Some Contrast (revised)](https://gist.github.com/Myndex/997244b95d84788df96f4aab8b9edeb1) An object of Kelly's 22 colors, as for "maximum contrast", I do not endorse that claim.
+- [Kelly's 22 Colors of Some Contrast (revised)](https://gist.github.com/Myndex/997244b95d84788df96f4aab8b9edeb1) An object of Kelly's 22 colors, as for "maximum contrast", I do not endorse that claim.
 
-[Phi Alternate Expression]([url](https://gist.github.com/Myndex/63a4925a6cc118d5acdcc471f9c52f3d)) formula for phi can be reduced to a positive exponent, multiplication, and addition...
+- [Phi Alternate Expression](https://gist.github.com/Myndex/63a4925a6cc118d5acdcc471f9c52f3d) a formula for phi, reduced to a positive exponent, multiplication, and addition...
 
-[What's Up With Markdown](https://gist.github.com/Myndex/5140d6fe98519bb15c503c490e713233) GitHub Flavored Markdown Cheat Sheet. 
-> [!NOTES]
-> Updated, includes the new NOTES syntax.
+- [What's Up With Markdown](https://gist.github.com/Myndex/5140d6fe98519bb15c503c490e713233) GitHub Flavored Markdown Cheat Sheet. 
+> [!IMPORTANT]
+> What's Up With Markdown updated, now includes the new NOTE syntax.
 
 ### _Contrast & Color Gists_ 
 <!-- - [**Why APCA?**](https://github.com/Myndex/SAPC-APCA/WhyAPCA.md) A brief overview of WCAG_2 contrast issues and how APCA solves them.
