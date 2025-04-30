@@ -130,9 +130,11 @@ The unfortunate end result is a grave distrust of the WCAG 2.x accessibility gui
 ### _Additional Color & Contrast Related Articles_
 - [**Contrasting Theories**](https://tangledweb.xyz/hi-roger-f51bde490a56) Article at _Tangled Web_
 - [**A Contast of Contrasts**](https://tangledweb.xyz/a-contrast-of-contrasts-3ddda0f4061b) Article at _Tangled Web_
-- [**Luminance is King**](https://www.linkedin.com/posts/andrew-m-somers_a11y-color-accessibility-activity-7104334047732015104-ocJb?utm_source=share&utm_medium=member_desktop) LinkedIn post on the iportance of luminance fore reading.
+- [**Luminance is King**](https://www.linkedin.com/posts/andrew-m-somers_a11y-color-accessibility-activity-7104334047732015104-ocJb?utm_source=share&utm_medium=member_desktop) LinkedIn post on the importance of luminance for reading.
 - [**Human Contrast Sensitivity Curve**](https://www.linkedin.com/posts/andrew-m-somers_c7-activity-7096829665562030081-YG-z?utm_source=share&utm_medium=member_desktop) LinkedIn post on the nature of human contrast sensitivity.
 - [**Legally Readable**](https://www.linkedin.com/posts/andrew-m-somers_legally-readable-apca-is-not-official-per-activity-7073705604896210944-0m64?utm_source=share&utm_medium=member_desktop) LinkedIn post on the value of actual accessibility vs arbitrary law.
+
+<!--
 - [_(Legacy)_ Basics of Luminance Contrast](https://www.myndex.com/WEB/LuminanceContrast) Written before APCA. _A precursor to the Contrast FAQ_.
 - [_(Legacy)_ Creating Color Gradients, Part I](https://www.myndex.com/WEB/Gradients) Experiments and discussion of color spaces for gradient creation.
 - [_(Legacy)_ Color Gradients, Part II](https://www.myndex.com/WEB/GradientsPartTwo) More experiments and more color spaces.
