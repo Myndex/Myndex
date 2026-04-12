@@ -1,0 +1,148 @@
+/* ************************************************************************** */
+/* *****  MYNDEX THEME SWITCHER v2 — Floating Button Styles          ******** */
+/* *****  Copyright © 2026 Andrew Somers. All Rights Reserved.       ******** */
+/* ************************************************************************** */
+
+#theme-switcher {
+  position: fixed;
+  bottom: 12px;
+  right: 12px;
+  z-index: 9999;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  gap: 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* --- Main toggle button --- */
+
+#theme-toggle-btn {
+  appearance: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  margin: 0;
+  padding: 0;
+  color: var(--modeTextWrapper, #cde);
+  background-color: var(--modeBGheader, #459);
+  border: 2px solid var(--modeBorderWrapper, #678);
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  transition: box-shadow 0.2s, border-color 0.2s;
+}
+
+#theme-toggle-btn:hover {
+  border-color: var(--modeMyndex, #84c);
+  box-shadow: 0 2px 12px rgba(100, 60, 180, 0.4);
+}
+
+#theme-toggle-btn svg {
+  pointer-events: none;
+}
+
+/* --- Options panel --- */
+
+#theme-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 6px;
+  margin-bottom: 6px;
+  background-color: var(--modeBGheader, #459);
+  border: 2px solid var(--modeBorderWrapper, #678);
+  border-radius: 10px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.35);
+
+  /* Hidden by default */
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(8px) scale(0.9);
+  transition: opacity 0.15s, visibility 0.15s, transform 0.15s;
+  pointer-events: none;
+}
+
+/* Panel open state */
+#theme-switcher.open #theme-panel {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0) scale(1);
+  pointer-events: auto;
+}
+
+/* --- Panel buttons --- */
+
+#theme-panel button {
+  appearance: none;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  margin: 0;
+  padding: 6px 12px 6px 8px;
+  color: var(--modeTextWrapper, #cde);
+  background-color: transparent;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.8rem;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: background-color 0.12s, border-color 0.12s;
+}
+
+#theme-panel button:hover {
+  background-color: var(--modeBGhi, #40a);
+  border-color: var(--modeMyndex, #84c);
+}
+
+#theme-panel button svg {
+  flex-shrink: 0;
+  pointer-events: none;
+}
+
+#theme-panel button span {
+  pointer-events: none;
+}
+
+/* --- Dragging state --- */
+
+#theme-switcher.dragging {
+  opacity: 0.7;
+  transition: none;
+}
+
+#theme-switcher.dragging #theme-toggle-btn {
+  cursor: grabbing;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+}
+
+/* --- Position adjustments when in different corners --- */
+/* Panel expands away from the nearest edge               */
+
+/* Top-left or top-right: panel below button */
+#theme-switcher[style*="top: 12px"] {
+  flex-direction: column;
+}
+
+/* Bottom-left: same as default but on left side */
+#theme-switcher[style*="left: 12px"][style*="bottom: 12px"] {
+  align-items: flex-start;
+}
+
+/* Top-left */
+#theme-switcher[style*="left: 12px"][style*="top: 12px"] {
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+/* Top-right */
+#theme-switcher[style*="right: 12px"][style*="top: 12px"] {
+  flex-direction: column;
+  align-items: flex-end;
+}

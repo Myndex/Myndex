@@ -1,0 +1,373 @@
+/* ************************************************************************** */
+/* *****  MYNDEX THEME OVERRIDES for MyndexbDark.css — 2026          ******** */
+/* *****  JS-controlled data-theme selectors                         ******** */
+/* *****  These duplicate the @media dark block (kept as no-JS       ******** */
+/* *****  fallback) and add a light force-override.                  ******** */
+/* *****  Copyright © 2026 Andrew Somers. All Rights Reserved.       ******** */
+/* ************************************************************************** */
+
+
+/* ************************************************************************** */
+/* *****  JS FORCES DARK — mirrors @media (prefers-color-scheme: dark) ***** */
+/* ************************************************************************** */
+
+html[data-theme="dark"] {
+
+      --modeMyndex: #8080ff;
+      --modeMyndexBGlite: #cbc2c808;
+
+      --color-brand-1: purple;
+
+      --modeBGbody: #204;
+      --modeBGlo: #103;
+      --modeBGhi: #40a;
+
+      --modeBGcolor: #234;
+      --modeTextColor: #dde8f8;
+      --modeBorderColor: var(--modeTextColor);
+      --modeTextShadow: #3337;
+      --modeBoxShadow:  var(--modeTextShadow);
+
+      --modeTextAlt: #ccc;
+      --modeBGinset: #777;
+      --modeBGinsetShadow: var(--modeBoxShadow);
+
+      --modeStroke: var(--modeTextColor);
+      --modeHRcolor: var(--modeBorderColor);
+
+    /*  HEADINGS  */
+
+      --modeH1color: #83a5ffba;
+        --modeH2color: #83a8ff;
+        --modeH3color: var(--modeH2color);
+        --modeH4color: var(--modeH2color);
+        --modeH5color: var(--modeH2color);
+
+      --modeListColor:  var(--modeTextAlt);
+      --modeQuoteColor:  var(--modeTextAlt);
+
+    /*  Drop Cap  */
+      --modeDropCap:  #b8f;
+        --modeDropCapShadow:  var(--modeTextShadow);
+        --modeBGdropCap:  var(--modeBGinset);
+
+    /*  LINKS  */
+
+      --modeA: var(--modeTextColor);
+        --modeAlink: #cbf;
+        --modeAvisited: #bbd;
+        --modeAhover: #ddf;
+        --modeAvisitedhover: #ddf;
+        --modeAfocus: #aaf;
+        --modeAaction: #aaf;
+
+      --modeAShadow: var(--modeTextShadow);
+        --modeAlinkShadow: var(--modeAShadow);
+        --modeAvisitedShadow: var(--modeAShadow);
+        --modeAhoverShadow: var(--modeAShadow);
+
+    /*  MAIN and WRAPPER  */
+
+      --modeBGmain: #aaa;
+      --modeTextMain: #eee;
+      --modeBorderMain: #30a;
+
+      --modeBGwrapper: #234;
+      --modeTextWrapper: #cde;
+      --modeBorderWrapper: #459;
+
+    /*  DESCRIPTION  */
+      --modeBGdesc: #123;
+      --modeTextDesc: #bce;
+      --modeH1Desc: #abf;
+
+      --modeBGdescInset: #348;
+
+      --modeTextShadowDesc: #88a8;
+      --modeTextShadowDescSafari: #9986;
+      --modeBoxShadowDesc:  #789a;
+
+      --modeH1ShadowDescA: #64c4;
+      --modeH1ShadowDescB: #cdf;
+      --modeH1ShadowDescC: #4565;
+
+    /*  Breadcrumbs  */
+      --modeTextBread: #cce;
+        --modeABread: var(--modeTextBread);
+
+    /*  HEADER and FOOTER */
+
+      --modeBGheader: #459;
+      --modeTextHeader: #9af;
+        --modeHeaderA: var(--modeTextHeader);
+
+      --modeBGfooter: #459;
+      --modeTextFooter: #9af;
+        --modeFooterA: var(--modeTextFooter);
+
+    /*  Images  */
+      --modeBGimage: #a8a6a4;
+        --modeBGimageB: var(--modeBGimage);
+        --modeBGimageC: var(--modeBGimage);
+
+    /*  CODE and INPUTS  */
+
+      --modeBGcode: #210;
+      --modeTextCode: #cde;
+      --modeBorderCode: #678;
+
+      --modePrtystr: #f6f;
+      --modePrtykwd: #f99;
+      --modePrtycom: #ccc;
+      --modePrtytyp: #2e2;
+      --modePrtylit: #f55;
+      --modePrtypun: #def;
+      --modePrtypln: #cde;
+      --modePrtytag: #ff0;
+      --modePrtyatn: #bb0;
+      --modePrtyatv: #f6b;
+      --modePrtydec: #5f5;
+
+      --modeBGinput: #552;
+      --modeTextInput: #def;
+      --modeBorderInput: #5558;
+
+      --modeTextInAr: #005;
+      --modeBGinAr: #222200;
+      --modeBorderInAr: #96f;
+
+      --modeBGmath: #348;
+      --modeTextMath: #000;
+      --modeBGpre: #234;
+      --modeBGaside: #f3e0f3;
+
+      --modeBGinsetBlue: #124;
+      --modeBGinsetBeige: #ffffee;
+      --modeBGinsetYellow: #421;
+
+    /*  BUTTONS  */
+
+      --modeButton: var(--modeBGinset);
+      --modeTextButton: var(--modeAlink);
+      --modeBorderButton: var(--modeBorderColor);
+      --modeButtonShadow: var(--modeBoxShadow);
+
+      --modeButtonBlue: #30a;
+      --modeTextButtonBlue: var(--modeTextButton);
+      --modeBorderButtonBlue: #30a;
+      --modeLoGradBlue: #007;
+      --modeHiGradBlue: #73d;
+
+      --modeButtonPur: #b2f;
+      --modeTextButtonPur: var(--modeTextButton);
+      --modeBorderButtonPur: #b2f;
+      --modeLoGradPur: #a4e;
+      --modeHiGradPur: #408;
+
+      --modeBorderLo: #ddd;
+      --modeBorderHi: #444;
+
+    /*  APCA  */
+
+      --textColor: #bad;
+      --bgColor: #bad;
+
+      --tickLabel: #30a;
+
+      --slideLabelBG: #e50;
+      --slideLabelText: #222;
+
+      --insideOutLo: #000;
+      --insideOutHi: #bcd;
+      --insideOutMidLo: #000;
+      --insideOutMidHi: #dcb;
+      --insideOutLoBG: #642;
+      --insideOutHiBG: #fff;
+      --insideOutMidLoBG: #248;
+      --insideOutMidHiBG: #fff;
+
+      --gradLo: #123;
+      --gradHi: #abc;
+}
+
+
+/* ************************************************************************** */
+/* *****  JS FORCES LIGHT — overrides @media dark for users who      ******** */
+/* *****  have OS dark but want light on this site                   ******** */
+/* ************************************************************************** */
+
+html[data-theme="light"] {
+
+      --modeMyndex: #84c;
+      --modeMyndexBGlite: #cbc2c848;
+      --color-brand-1: purple;
+
+      --modeBGbody: #fb8;
+      --modeBGlo: #a94;
+      --modeBGhi: #fea;
+
+      --modeBGcolor: #edc;
+      --modeTextColor: #30a;
+      --modeBorderColor: var(--modeTextColor);
+      --modeTextShadow: #3337;
+      --modeBoxShadow:  var(--modeTextShadow);
+
+      --modeTextAlt: #ccc;
+      --modeBGinset: #777;
+      --modeBGinsetShadow: var(--modeBoxShadow);
+
+      --modeStroke: var(--modeTextColor);
+      --modeHRcolor: var(--modeBorderColor);
+
+    /*  HEADINGS  */
+      --modeH1color: #30ac;
+        --modeH2color: var(--modeH1color);
+        --modeH3color: var(--modeH1color);
+        --modeH4color: var(--modeH1color);
+        --modeH5color: var(--modeH1color);
+
+      --modeListColor:  var(--modeTextAlt);
+      --modeQuoteColor:  var(--modeTextAlt);
+
+    /*  Drop Cap  */
+      --modeDropCap:  #30a;
+        --modeDropCapShadow:  var(--modeTextShadow);
+        --modeBGdropCap:  var(--modeBGinset);
+
+    /*  LINKS  */
+
+      --modeA: var(--modeTextColor);
+        --modeAlink: #309;
+        --modeAvisited: #608;
+        --modeAhover: #44f;
+        --modeAvisitedhover: #b0b;
+        --modeAfocus: #96d;
+        --modeAaction: #96d;
+
+      --modeAShadow: var(--modeTextShadow);
+        --modeAlinkShadow: var(--modeAShadow);
+        --modeAvisitedShadow: var(--modeAShadow);
+        --modeAhoverShadow: var(--modeAShadow);
+
+    /*  MAIN and WRAPPER  */
+
+      --modeBGmain: #aaa;
+      --modeTextMain: #eee;
+      --modeBorderMain: #30a;
+
+      --modeBGwrapper: #e4ddd0;
+      --modeTextWrapper: #000;
+      --modeBorderWrapper: #f6faff;
+
+    /*  DESCRIPTION  */
+      --modeBGdesc: #cca;
+      --modeTextDesc: #207;
+      --modeH1Desc: #40c;
+
+      --modeBGdescInset: #fb6;
+
+      --modeTextShadowDesc: #996a;
+      --modeTextShadowDescSafari: #8897;
+      --modeBoxShadowDesc:  #123a;
+
+      --modeH1ShadowDescA: #64c4;
+      --modeH1ShadowDescB: #cdf;
+      --modeH1ShadowDescC: #4565;
+
+    /*  Breadcrumbs  */
+      --modeTextBread: #60b;
+        --modeABread: var(--modeTextBread);
+
+    /*  HEADER and FOOTER */
+
+      --modeBGheader: #459;
+      --modeTextHeader: #9af;
+        --modeHeaderA: var(--modeTextHeader);
+
+      --modeBGfooter: #103;
+      --modeTextFooter: #db6;
+        --modeFooterA: var(--modeTextFooter);
+
+    /*  Images  */
+      --modeBGimage: #f8f6f4;
+        --modeBGimageB: var(--modeBGimage);
+        --modeBGimageC: var(--modeBGimage);
+
+    /*  CODE and INPUTS  */
+
+      --modeBGcode: #eda;
+      --modeTextCode: #000;
+      --modeBorderCode: #0a6;
+
+      --modePrtystr: #A0A;
+      --modePrtykwd: #A00;
+      --modePrtycom: #666;
+      --modePrtytyp: #0A0;
+      --modePrtylit: #600;
+      --modePrtypun: #000;
+      --modePrtypln: #000;
+      --modePrtytag: #770;
+      --modePrtyatn: #440;
+      --modePrtyatv: #D49;
+      --modePrtydec: #2C2;
+
+      --modeBGinput: #552;
+      --modeTextInput: #def;
+      --modeBorderInput: #5558;
+
+      --modeTextInAr: #005;
+      --modeBGinAr: #222200;
+      --modeBorderInAr: #96f;
+
+      --modeBGmath: #cde;
+      --modeBGpre: #eda;
+      --modeBGaside: #f3e0f3;
+
+      --modeBGinsetBlue: #def;
+      --modeBGinsetBeige: #ffffee;
+      --modeBGinsetYellow: #fed;
+
+    /*  BUTTONS  */
+
+      --modeButton: var(--modeBGinset);
+      --modeTextButton: var(--modeAlink);
+      --modeBorderButton: var(--modeBorderColor);
+      --modeButtonShadow: var(--modeBoxShadow);
+
+      --modeButtonBlue: #30a;
+      --modeTextButtonBlue: var(--modeTextButton);
+      --modeBorderButtonBlue: #30a;
+      --modeLoGradBlue: #007;
+      --modeHiGradBlue: #73d;
+
+      --modeButtonPur: #80a;
+      --modeTextButtonPur: var(--modeTextButton);
+      --modeBorderButtonPur: #80a;
+      --modeLoGradPur: #406;
+      --modeHiGradPur: #a2d;
+
+      --modeBorderLo: #111;
+      --modeBorderHi: #eee;
+
+    /*  APCA  */
+
+      --textColor: #bad;
+      --bgColor: #bad;
+
+      --tickLabel: #30a;
+
+      --slideLabelBG: #e50;
+      --slideLabelText: #222;
+
+      --insideOutLo: #000;
+      --insideOutHi: #bcd;
+      --insideOutMidLo: #000;
+      --insideOutMidHi: #dcb;
+      --insideOutLoBG: #642;
+      --insideOutHiBG: #fff;
+      --insideOutMidLoBG: #248;
+      --insideOutMidHiBG: #fff;
+
+      --gradLo: #123;
+      --gradHi: #abc;
+}
