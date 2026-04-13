@@ -33,15 +33,15 @@ Why did APCA become popular? Because it follows actual science, including the sc
 - [The Main List](https://git.myndex.com) _This page, i.e. you are HERE._
 
 
-### _Social Media and Forums_
-- [***APCA Forum*** ](https://github.com/Myndex/SAPC-APCA/discussions/) Discuss, ask questions, fend off lions...
-- [ ***Tangled Web*** ](https://tangledweb.xyz) Andrew's **_Tangled Web_** Tech Blog
-- _Social Medieval_
-  - [ ***Myndex on Twitter*** ](https://twitter.com/MyndexResearch)
-  - [ ***Myndex on Mastodon*** ](https://techhub.social/@Myndex)
-  - [ ***Andrew on LinkedIn*** ](https://www.linkedin.com/in/andrew-m-somers/)
-  - [ ***Inclusive Reading Technologies on Twitter*** ](https://twitter.com/A11yReadTech)
-  - [ ***Inclusive Reading Technologies on Mastodon*** ](https://mastodon.social/@readtech)
+### _Community and Forums_
+- [***APCA Forum*** ](https://github.com/Myndex/SAPC-APCA/discussions/) Discussion, questions, and community contributions.
+- [***Tangled Web*** ](https://tangledweb.xyz) The Myndex Research tech blog.
+- _Social_
+  - [***Myndex on Twitter*** ](https://twitter.com/MyndexResearch)
+  - [***Myndex on Mastodon*** ](https://techhub.social/@Myndex)
+  - [***Andrew on LinkedIn*** ](https://www.linkedin.com/in/andrew-m-somers/)
+  - [***Inclusive Reading Technologies on Twitter*** ](https://twitter.com/A11yReadTech)
+  - [***Inclusive Reading Technologies on Mastodon*** ](https://mastodon.social/@readtech)
 
 
 ### _Sciencey Stuff!_
@@ -50,8 +50,6 @@ Maths! Theory! Vision Science! Photons on Parade!
 - [The base APCA-W3 formula](https://github.com/Myndex/SAPC-APCA/blob/master/documentation/APCA-W3-LaTeX.md) in LaTeX math for your viewing and calculating pleasure.
 - [Regarding Exponents](https://git.apcacontrast.com/documentation/regardingexponents) Some notes and explaination regarding the powercurve exponents.
 - [Standard Observer Model](https://git.apcacontrast.com/documentation/StandardObserverModel) Draft standardized environment.
-<!-- - [Visual Contrast Draft Whitepaper](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup/Whitepaper) (Work in progress)
--->
 
 ### _For Developers_
 - [Repo List](https://git.apcacontrast.com/documentation/repoList) List of APCA and related respositories.
@@ -65,15 +63,14 @@ Maths! Theory! Vision Science! Photons on Parade!
 - [**_APCA Documentation Repository_**](https://github.com/Myndex/SAPC-APCA/) The docs repo and forum for APCA and SACAM
 - [**_APCA W3 Repository_**](https://github.com/Myndex/apca-w3) The W3 version code repo for web content
 - [**_Max Contrast_**](https://github.com/Myndex/apca-w3) A very simple, APCA compatible text color flipper. Flips from black to white text at middle contrast.
-- [**_Inclusive Reading Technologies_**](https://github.com/A11yReadTech/ARC) The repo for IRC and the APCA Readability Criterion.
+- [**_Inclusive Reading Technologies_**](https://github.com/A11yReadTech/ARC) The repo for IRT and the APCA Readability Criterion.
 - [**_Bridge PCA Repository_**](https://github.com/Myndex/bridge-pca) Bridge&nbsp;PCA - the WCAG&nbsp;2 compatible version
 - [**_DeltaPhiStar Repository_**](https://github.com/Myndex/deltaphistar) A simplified general purpose contrast algorithm using L*
 - [**_Color Parsley Repository_**](https://github.com/Myndex/colorparsley) Fast and easy color string parsing — a NodeJS dependency for many of the SAPC libraries.
 - [**_SeeStars Repository_**](https://github.com/Myndex/seestars) A microlibrary for calculating L*
-- [**_Missing Intro Repository_**](https://github.com/Myndex/apca-introduction) A correction and rebuttle to a flawed analysis
+- [**_APCA Technical Clarifications_**](https://github.com/Myndex/apca-introduction) Corrections to a third-party analysis
 - [**_FancyFontFlipping Repository_**](https://github.com/Myndex/fancyfontflipping) At what point should text flip from black to white? This repo houses experiments and discussion of "font flipping". See also [**_Max Contrast_**](https://github.com/Myndex/apca-w3), above.
-- [**_Tiny Trim_**](https://github.com/Myndex/tinytrim) This is a CSS sheet of terse classes, useful for quick adjustments without having to add a `style=""` great for site development when you have a client watching and breathing down your back, LOL.
-<!-- - [**Color Styles**](https://github.com/Myndex/colorstyles) colorstyles is a CSS color stylesheet with a terse but easy to use methodology for color classes — in development, some of this is in TinyTrim. -->
+- [**_Tiny Trim_**](https://github.com/Myndex/tinytrim) A CSS sheet of terse utility classes for rapid layout adjustments during development.
 
 ### _Featured APCA Discussion Forum Threads_
 - [**APCA Use Cases**, Conformance, Research, and Glossary ](https://github.com/Myndex/SAPC-APCA/discussions/39#discussion-3757102) Discussion of use cases for text and non-text elements, and references to the relevant research. Conformance considerations and rational basis for guidelines.
@@ -83,10 +80,6 @@ Maths! Theory! Vision Science! Photons on Parade!
 - [**HDR Displays, Dark Mode Color Palettes, and APCA** ](https://github.com/Myndex/SAPC-APCA/discussions/74) 
 - [**Glossary: Terminology Emerging From APCA Research** ](https://github.com/Myndex/SAPC-APCA/discussions/104) 
 - [**Contrast Arising from Text Spatial Frequency** ](https://github.com/Myndex/SAPC-APCA/discussions/90) 
-<!--
-- [**** ](https://github.com/Myndex/SAPC-APCA/discussions/) 
-
--->
 
 
 ----- 
@@ -107,7 +100,6 @@ The unfortunate end result is a grave distrust of the WCAG 2.x accessibility gui
 ## Myndex Web Apps
 - [**APCA Demonstrator**](https://apcacontrast.com) The APCA contrast technology demonstrator—it's not as slick as a production tool, but presents the essential functions for design guidance.
 - [**Bridge-PCA Calculator**](https://bridgepca.com) Bridge-PCA or BPCA is a drop-in replacement for WCAG\_2 contrast that is backwards compatible with the existing guideline, but is using APCA technology for improved readability.
-<!-- - [**SAPC Contrast Research Tools**](https://www.myndex.com/SAPC/) Visual contrast development site for the ongoing study of visual contrast for web content accessibility guidelines and other standards & applications. Includes interactive experiments that demonstrate the concepts and technology. -->
 - [**Color Vision Deficiency Simulator**](https://www.myndex.com/CVD/) This simulator demonstrates the way someone with a Color Vision Deficiency _(incorrectly labeled "color blind")_ sees colors. This simulator uses the clinically accurate Brettel/Viénot model of CVD simulation for the primary (deuteranopia, protanopia, tritanopia) and there is an experimental blue cone monochromacy sim, based on the Brettel/Viénot concepts.
 
 
@@ -119,11 +111,11 @@ The unfortunate end result is a grave distrust of the WCAG 2.x accessibility gui
 - [Better reading on the web](https://uxdesign.cc/better-reading-on-the-web-c943c4cfc91a) Published by _UX Collective_ (uxdesign.cc). This article discusses and demonstrates the problems with automated testing and WCAG 2 contrast math, methods, and guidelines.
 
 - Published at _Tangled Web_ (TangledWeb.xyz):
-    - [Small Text is Medium’s Large Fail](https://tangledweb.xyz/small-text-is-mediums-large-fail-b39589f5fae0)  The Medium platform has a lot of good features going for it, yet it literally ignores visual accessibility. For a platform that is entirely based around readable content, one would think that it’d be close to State of the Art, instead of the State of Unreadable.
+    - [Small Text is Medium's Large Fail](https://tangledweb.xyz/small-text-is-mediums-large-fail-b39589f5fae0)  The Medium platform has a lot of good features going for it, yet it literally ignores visual accessibility. For a platform that is entirely based around readable content, one would think that it'd be close to State of the Art, instead of the State of Unreadable.
     - [Hats off to ALL CAPS](https://tangledweb.xyz/hats-off-to-all-caps-c0a43a2c30d4) Myth-busting the misunderstandings regarding accessibility: are dyslexia fonts useful and the shift in using ALL UPPERCASE LETTERS for various text elements.
     - [Getting the Wrong, Right?](https://tangledweb.xyz/hi-lucas-673167805f55) What does it mean to get something right, if the underlying foundation of that thing is ultimately wrong?
     - [Busy Background Breaks Bulletin](https://tangledweb.xyz/busy-background-breaks-bulletin-f4ff4bf67e5a) Examples of how to destroy readability by choosing the wrong image as a background. And also, how to fix it.
-    - [**Please Stop Using Grey Text**](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8) Debunking one of the worst myths regarding design contrast. THis article went viral in early 2022.
+    - [**Please Stop Using Grey Text**](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8) Debunking one of the worst myths regarding design contrast. This article went viral in early 2022.
     - [**What's Red & Black & Also Not Read?** ](https://tangledweb.xyz/whats-red-black-also-not-read-573b9c0a97ed) Do the WCAG 2 Contrast Guidelines help users with color vision issues? While this is a widely held belief, the truth may surprise you. 
     - [**A Contrast of Errors**](https://tangledweb.xyz/a-contrast-of-errors-373c2665d42a) A look into the history of the WCAG 2 contrast guidelines and some of the problems created by them, and a discussion of the proposed replacement, the APCA (Accessible Perceptual Contrast Algorithm).
 
@@ -134,19 +126,6 @@ The unfortunate end result is a grave distrust of the WCAG 2.x accessibility gui
 - [**Luminance is King**](https://www.linkedin.com/posts/andrew-m-somers_a11y-color-accessibility-activity-7104334047732015104-ocJb?utm_source=share&utm_medium=member_desktop) LinkedIn post on the importance of luminance for reading.
 - [**Human Contrast Sensitivity Curve**](https://www.linkedin.com/posts/andrew-m-somers_c7-activity-7096829665562030081-YG-z?utm_source=share&utm_medium=member_desktop) LinkedIn post on the nature of human contrast sensitivity.
 - [**Legally Readable**](https://www.linkedin.com/posts/andrew-m-somers_legally-readable-apca-is-not-official-per-activity-7073705604896210944-0m64?utm_source=share&utm_medium=member_desktop) LinkedIn post on the value of actual accessibility vs arbitrary law.
-
-<!--
-- [_(Legacy)_ Basics of Luminance Contrast](https://www.myndex.com/WEB/LuminanceContrast) Written before APCA. _A precursor to the Contrast FAQ_.
-- [_(Legacy)_ Creating Color Gradients, Part I](https://www.myndex.com/WEB/Gradients) Experiments and discussion of color spaces for gradient creation.
-- [_(Legacy)_ Color Gradients, Part II](https://www.myndex.com/WEB/GradientsPartTwo) More experiments and more color spaces.
-- [_(Legacy)_ PDF on Accessible Fonts](https://www.myndex.com/PUB/PDF/AccessibleFontsD.pdf) A PDF that discusses key factors in fonts for readability.
-
-<!--
-
-- [](https://)
-- []()
-
--->
 
 
 ## GitHub Gists
@@ -164,10 +143,6 @@ _Mini articles on technical topics, with examples_
 > What's Up With Markdown updated, now includes the new NOTE syntax.
 
 ### _Contrast & Color Gists_ 
-<!-- - [**Why APCA?**](https://github.com/Myndex/SAPC-APCA/WhyAPCA.md) A brief overview of WCAG_2 contrast issues and how APCA solves them.
-
-- [**Let's Flip for Color!** ](https://gist.github.com/Myndex/e1025706436736166561d339fd667493#lets-flip-for-color) If you want your text to be either black or white if the user selects some random color, just where is that inflection point? **Hint: It's NOT 18% Y.** Gist includes links to the CodePen and the related repo here.
--->
 - Three Part Series on WCAG 2 contrast problems with comparisons to perceptually uniform models.
     - Part I: [**Orange You Wondering About Contrast?** ](https://gist.github.com/Myndex/1dadb6dcac596f1cd7a5686a076f697f) Answering some contrast questions, and demonstrating a real solution to the infamous orange conundrum.
     - Part II: [**The Lighter Side of Dark Backgrounds** ](https://gist.github.com/Myndex/c30dba273aa5eca426ad9f5200917c9d) An article comparing some parts of APCA with the old WCAG 2 contrast methods, demonstrating how WCAG_2 contrast does not help color vision types.
@@ -180,37 +155,29 @@ _Mini articles on technical topics, with examples_
 - [colorPalette.js](https://gist.github.com/Myndex/997244b95d84788df96f4aab8b9edeb1) aka Kelly's 22 colors.
 
 
-
 ## Related Threads & Comments (Legacy)
 - [*A Listing of Significant (Legacy) Threads*](IssuesIndex)    
-  - These were some of the larger, in-depth issue threads & posts created on GitHub including the infamous thread #695. [These posts ](IssuesIndex) contain useful information and research. Some of the information here may be superseded as some of these threads date back to the beginnings of the contrast research project. 
+  - These were some of the larger, in-depth issue threads & posts created on GitHub including the influential thread #695. [These posts ](IssuesIndex) contain useful information and research. Some of the information here may be superseded as some of these threads date back to the beginnings of the contrast research project. 
 
 Most of the important posts are being collated into the [Illuminated Repo](https://github.com/Myndex/Illuminated).
 
 <img class="centered" width="520" alt="APCA—The Revolution Will Be Readable" src="images/APCAcolor4.png">
 
 
-## The Dark Side of Institutional Politics
-To address some misleading rumors and other cybernoise, please see the ["Tuttle and Buttle"](https://myndex.github.io/TuttleAndButtle/) repo.
+## Addressing Misconceptions
+For responses to common technical misconceptions about APCA, please see the [APCA Technical Clarifications](https://myndex.github.io/TuttleAndButtle/) repository.
 
 
-## Tech Articles _NOT_ About Color
-
-### _Society & Technology_
-
-- [_Funny you mention Kodak and Xerox_](https://axiomviews.com/funny-you-mention-kodak-and-xerox-f1be9b404f43) In this response to 
-James Biber’s _“Theranos, Polaroid and the legacy of dropouts”_, I touch on the law of unintended consequences as has repeatedly manifested in the development of modern technology.
+## Tech Articles
+### _Technology and Society_
+- [_Funny you mention Kodak and Xerox_](https://axiomviews.com/funny-you-mention-kodak-and-xerox-f1be9b404f43) In this response to James Biber's _"Theranos, Polaroid and the legacy of dropouts"_, I touch on the law of unintended consequences as has repeatedly manifested in the development of modern technology.
 - [The Laws of Technodynamics](https://tangledweb.xyz/the-laws-of-technodynamics-20a6b8cdbc17) An Illustrated Restatement of Thermodynamics in the Context of Applied Problem Solving Through Technology.
-- [Climate Deniers Left & Right](https://angryandrew.com/climate-idiots-left-right-c0adfcd51658) There are two kinds of climate deniers. Those that deny there is a problem, and those that deny the best way to fix it.
-- [The Unbearable Cruelty of a Finite Existence](https://ceruleansphere.com/the-unbearable-cruelty-of-a-finite-existence-80ed91dfdddd) At first glance, the concept of soul appears rooted in spirituality and religion. In reality the concept of soul is a manifestation of our ego. This very brief yet nihilistic essay leads to a concept on **_how to create a sentient AI_**.
-- [Ending Polarized Politics](https://americanunitedparty.net/ending-polarized-politics-cfc7622aacf2) Can a 200+ year old piece of math, and modern technology, fix this systemic problem in the US political system?
-- [Election Fraud & Other Illusions](https://axiomviews.com/election-fraud-other-illusions-a5bba26b897) How conspiracy theory websites gave rise to a widely spread disinformation campaign apparently aimed at voter suppression. And it was (and continues) to be a shocking example of using math and statistics to lie, by "baffling" with bull.
-- [Modern Password Theory in a Nutshell ](https://tangledweb.xyz/modern-password-theory-in-a-nutshell-da87db012c08) Would it surprise you to know that fistsmash passwords aren't really more secure than one you can actually remember? You could say this is 0u+_W!+h_+h3_01d-InWithTheNew! — In other words, "Out With The Old - In With The New." It's a realistic discussion on password security, with a useful approach to reducing "crackability". _HINT: we've all been doing it wrong, LOL._ Article at _TangledWeb.xyz_ 
+- [Modern Password Theory in a Nutshell ](https://tangledweb.xyz/modern-password-theory-in-a-nutshell-da87db012c08) A realistic discussion on password security, with a practical approach to reducing crackability.
 - [Improving SEO with Redirects](https://www.myndex.com/WEB/RedirectsForSEO) Your server's case sensitivity and URL redirect strategies can affect your search ranking!
 
 ### _Other Tech Gists_
 - [What's Up With Markdown](https://gist.github.com/Myndex/5140d6fe98519bb15c503c490e713233#whats-up-with-markdown) GitHub flavored Markdown cheat sheet.
-- [Phi Alternate Expression](https://gist.github.com/Myndex/63a4925a6cc118d5acdcc471f9c52f3d#phi-alternate-expression) An easier way to remember the formula for Phi. Fo fum.
+- [Phi Alternate Expression](https://gist.github.com/Myndex/63a4925a6cc118d5acdcc471f9c52f3d#phi-alternate-expression) An alternate expression of the formula for Phi.
 
 -----
 ## Myndex on Other Sites
@@ -219,62 +186,10 @@ James Biber’s _“Theranos, Polaroid and the legacy of dropouts”_, I touch o
 <a href="https://stackexchange.com/users/14280387"><img src="https://stackexchange.com/users/flair/14280387.png" width="260" height="80" alt="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Myndex on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>      
 
 - Twitter: [**_MyndexResearch_**](https://twitter.com/MyndexResearch) New developments regarding APCA are usually posted here first.
-- [ ***follow Myndex on Mastodon*** ](https://techhub.social/@Myndex)
-- [ ***Inclusive Reading Technologies on Twitter*** ](https://twitter.com/A11yReadTech)
-- [ ***Inclusive Reading Technologies on Mastodon*** ](https://mastodon.social/@readtech)
-
-
-<!-- Nothing to see here...
-
-- **@ Mozilla:** [**Introduction to Color and Accessibility** ](https://andysomers.com) A white paper and tutorial on color and accessibility, with emphasis on web content.
-- @ Twitter: [MyndexResearch](https://twitter.com/MyndexResearch) New developments regarding APCA are usually posted here first.
-- **@ W3C:** [**Visual Contrast Group Wiki** ](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup) Early work on Visual Contrast which became APCA.
-    - [Visual Contrast Whitepaper ](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup/Whitepaper) (Work in progress)
-    - [Visual Contrast Draft Conformance Model ](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup/Conformance) An early draft multi-score model for WCAG 3. This uses a legacy lookup tables, Instead please see the current [**use cases thread** at the APCA repo](https://github.com/Myndex/SAPC-APCA/discussions/39)
-    - [Resources: Glossary, Bibliography, ](https://www.w3.org/WAI/GL/task-forces/silver/wiki/Visual_Contrast_of_Text_Subgroup/Resources) and links to team member materials. Includes additional designer examples and guidance.
-- @ Myndex•com: [The Perceptex Experiment ](https://www.myndex.com/WEB/Perception) Some of the very early (2019) studies into screen readability contrast are still here for viewing, for archival purposes. See CE17 which includes a brief white paper.
-- _Placeholders_
-    - @ AndySomers•com: Design Portfolio _(coming soon)_
-    - @ General Titles & Visual Effects: _(Links to articles/portfolio coming soon)_
-        - Archives of older published articles & tutorials
-    - @ Research Gate: _(some early work but not particularly active there)_
-    - @ Creative Cow: _(Links to articles & tutorials coming soon)_
-
-- [](https://) 
-
--->
-
-
-
-## The Lighter Side of Math & Photons...
-
-### _The Art and Science of Applied Probability_
-In this career, I was using Applied Probability Methodologies for the Risk Assessment of short term ROI predictions related to high-variance cash-flow opportunities in finite-sized non-cooperative bidding groups where information is obliquely concealed as a function of multivariate strategies facilitating the predominately range-based tactics driven by randomized but nevertheless deterministic outcomes.    
-
-_(…Sooo… this is more commonly known as Texas Hold ’Em Poker…)_
-
------
-For the record, Myndex is pronounced:
-
-_mind - ex_      
-\ ˈmīn-ˌdɛks \
-
-When George Eastman invented the word "Kodak" one of his criteria was that "it won't be mispronounced".
-I guess I missed that day. Ooops.
+- [***follow Myndex on Mastodon*** ](https://techhub.social/@Myndex)
+- [***Inclusive Reading Technologies on Twitter*** ](https://twitter.com/A11yReadTech)
+- [***Inclusive Reading Technologies on Mastodon*** ](https://mastodon.social/@readtech)
 
 -----
 
-Just **how many patent attornys** does it take to rotationally engage a helical conducting thread of an illumination apparatus further comprised of a sealed, evacuated glass envelope containing two or more conducting filament holders which electrically connect and physically support a coiled electrically conducting but resistive filament, preferentially fabricated from a tungsten alloy, to the aforementioned helical threads, which further engage into a helical conducting receptacle, such that when an electrical power source of sufficient voltage and current is applied to the receptacle input conducting connectors, the voltage and current is henceforth transferred to the helical conducting threads of the illumination apparatus and thereto across the conducting filament holders and through said filament such that it shall be caused to incandesce and emit visible irradiance according to the laws of blackbody radiators? <br>
-
-**_The Answer as to how many:_  a plurality**
-
-
-------
-
-### _Welcome to the very bottom of the page!_
-Here at the very bottom of the page, we dare to ask the question, **_"do two lights make a dark?"_**
-<details><summary>Click for Answer</summary>
-
-YES, two lights make a dark, if together they draw so much current they **blow a fuse** 💥.
-</details>
-
+_Copyright © 2022-2026 by Myndex Perception Research. All Rights Reserved._
