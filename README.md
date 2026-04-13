@@ -94,7 +94,6 @@ The unfortunate end result is a grave distrust of the WCAG 2.x accessibility gui
 
 
 -----
-<br><br>
 # Myndex Color Resources
 
 ## Myndex Web Apps
@@ -161,7 +160,7 @@ _Mini articles on technical topics, with examples_
 
 Most of the important posts are being collated into the [Illuminated Repo](https://github.com/Myndex/Illuminated).
 
-<img class="centered" width="520" alt="APCA—The Revolution Will Be Readable" src="images/APCAcolor4.png">
+<img class="centered" width="420" alt="APCA—The Revolution Will Be Readable" src="images/APCAcolor4.png">
 
 
 ## Addressing Misconceptions
@@ -171,7 +170,6 @@ For responses to common technical misconceptions about APCA, please see the [APC
 ## Tech Articles
 ### _Technology and Society_
 - [_Funny you mention Kodak and Xerox_](https://axiomviews.com/funny-you-mention-kodak-and-xerox-f1be9b404f43) In this response to James Biber's _"Theranos, Polaroid and the legacy of dropouts"_, I touch on the law of unintended consequences as has repeatedly manifested in the development of modern technology.
-- [The Laws of Technodynamics](https://tangledweb.xyz/the-laws-of-technodynamics-20a6b8cdbc17) An Illustrated Restatement of Thermodynamics in the Context of Applied Problem Solving Through Technology.
 - [Modern Password Theory in a Nutshell ](https://tangledweb.xyz/modern-password-theory-in-a-nutshell-da87db012c08) A realistic discussion on password security, with a practical approach to reducing crackability.
 - [Improving SEO with Redirects](https://www.myndex.com/WEB/RedirectsForSEO) Your server's case sensitivity and URL redirect strategies can affect your search ranking!
 
