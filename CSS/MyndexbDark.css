@@ -1382,7 +1382,7 @@ div.dropCapSimple::first-letter
 /* *****  Blockquote BIG  ***** */
 
 blockquote.big {
-    font-family: 'Lobster Two', cursive, "Garamond", "Baskerville", Times, serif;
+    font-family: "Garamond", "Baskerville", Times, serif,  'Lobster Two', cursive;
     font-size: 2em;
     line-height: 1.5em;
     margin: 1em 3em;
@@ -1413,7 +1413,7 @@ blockquote.big .mainQuote::after {
 /* *****  Blockquote standard  ***** */
 
 blockquote {
-    font-family: 'Lobster Two', cursive, "Garamond", "Baskerville", Times, serif;
+    font-family:  "Garamond", "Baskerville", Times, serif;
     font-size: 1.2em;
     line-height: 1.3em;
     margin: 1em 2em;
