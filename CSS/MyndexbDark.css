@@ -127,7 +127,7 @@ color: var(--modeTextColor, #000);
       --modeTextShadow: #3337;
       --modeBoxShadow:  var(--modeTextShadow);
   
-      --modeTextAlt: #444;
+      --modeTextAlt: #806d0f;
       --modeBGinset: #777;
       --modeBGinsetShadow: var(--modeBoxShadow);
   
@@ -684,7 +684,10 @@ h3 {
     line-height: 1.2;
     color: var(--modeH3color, #30a);
   }
-  
+blockquote h3 {
+    margin: 0.4em 0 0;
+    color: var(--modeQuoteColor, #806d0f);
+  }
 a:link {
   color: var(--modeAlink, #22b);
   text-decoration: underline;
