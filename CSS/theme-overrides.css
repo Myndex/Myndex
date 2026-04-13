@@ -223,7 +223,7 @@ html[data-theme="light"] {
       --modeTextShadow: #3337;
       --modeBoxShadow:  var(--modeTextShadow);
 
-      --modeTextAlt: #ccc;
+      --modeTextAlt: #444;
       --modeBGinset: #777;
       --modeBGinsetShadow: var(--modeBoxShadow);
 
