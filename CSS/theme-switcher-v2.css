@@ -3,6 +3,14 @@
 /* *****  Copyright © 2026 Andrew Somers. All Rights Reserved.       ******** */
 /* ************************************************************************** */
 
+
+body, body *, body *::before, body *::after {
+  transition: color 0.3s ease, 
+              background-color 0.3s ease, 
+              border-color 0.3s ease,
+              box-shadow 0.3s ease;
+}
+
 #theme-switcher {
   position: fixed;
   bottom: 12px;
@@ -27,9 +35,9 @@
   height: 40px;
   margin: 0;
   padding: 0;
-  color: var(--modeTextWrapper, #cde);
-  background-color: var(--modeBGheader, #459);
-  border: 2px solid var(--modeBorderWrapper, #678);
+  color: var(--modeTextWrapper, #000);
+  background-color: var(--modeBGbody, #fb8);
+  border: 2px solid var(--modeBorderWrapper, #f6faff);
   border-radius: 10px;
   cursor: pointer;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
@@ -53,8 +61,8 @@
   gap: 4px;
   padding: 6px;
   margin-bottom: 6px;
-  background-color: var(--modeBGheader, #459);
-  border: 2px solid var(--modeBorderWrapper, #678);
+  background-color: var(--modeBGbody, #fb8);
+  border: 2px solid var(--modeBorderWrapper, #f6faff);
   border-radius: 10px;
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.35);
 
@@ -84,7 +92,7 @@
   width: 100%;
   margin: 0;
   padding: 6px 12px 6px 8px;
-  color: var(--modeTextWrapper, #cde);
+  color: var(--modeTextWrapper, #000);
   background-color: transparent;
   border: 1px solid transparent;
   border-radius: 6px;
@@ -97,7 +105,7 @@
 }
 
 #theme-panel button:hover {
-  background-color: var(--modeBGhi, #40a);
+  background-color: var(--modeBGhi, #fea);
   border-color: var(--modeMyndex, #84c);
 }
 
@@ -123,7 +131,7 @@
 }
 
 /* --- Position adjustments when in different corners --- */
-/* Panel expands away from the nearest edge               */
+/*     Panel expands away from the nearest edge           */
 
 /* Top-left or top-right: panel below button */
 #theme-switcher[style*="top: 12px"] {
