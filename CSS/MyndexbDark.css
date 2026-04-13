@@ -5178,6 +5178,17 @@ REVISED: reduced the #ff channels to #f8 in most cases.
   margin: -1.15em 0 0;
   opacity: 0.05;
   }
+
+.headBanner h1.unbrand {
+  position: relative;
+  z-index: 20;
+  margin: -2px 0 0;
+  text-align: left;
+  font-family: Audiowide, Oxanium, Montserrat, sans-serif;
+  font-size: 4em;
+  font-weight: 600;
+  color: var(--modeMyndex);
+  }
   
 .headBanner h1 a, .headBanner h1 a:visited,
 .headBanner h1 a:link { text-align: left; font-size: 1em; text-decoration: none; 
